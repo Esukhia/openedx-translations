@@ -142,5 +142,7 @@
   "learner-dash.courseCard.banners.credit.rejected": "",
   "learner-dash.courseCard.banners.credit.requestCredit": "",
   "learner-dash.courseCard.banners.credit.viewCredit": "",
-  "learner-dash.courseCard.banners.credit.viewDetails": ""
+  "learner-dash.courseCard.banners.credit.viewDetails": "",
+  "learner-dash.courseCard.progressBar.courseCompletion": "Course • {percent}% Complete",
+  "learner-dash.courseCard.progressBar.notStarted": "Not started"
 }

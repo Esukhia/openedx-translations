@@ -53,5 +53,7 @@
   "RecommendationsPanel.seeAllRecommendationsButton": "See All Recommendations",
   "RecommendationsPanel.recommendationsHeading": "Recommendations for you",
   "RecommendationsPanel.popularCoursesHeading": "Popular courses",
-  "RecommendationsPanel.exploreCoursesButton": "Kursangebot erkunden"
+  "RecommendationsPanel.exploreCoursesButton": "Kursangebot erkunden",
+  "learner-dash.courseCard.progressBar.courseCompletion": "Course • {percent}% Complete",
+  "learner-dash.courseCard.progressBar.notStarted": "Not started"
 }
