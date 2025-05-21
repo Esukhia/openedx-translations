@@ -2319,3 +2319,15 @@ msgstr "Leaderboard-nummeret er ugyldigt."
 #: xblock/utils/validation.py:392
 msgid "The submission format is invalid."
 msgstr "Indsendelsesformatet er ugyldigt."
+
+
+# ---- Updated strings----
+
+msgid ""
+"\n"
+"                    Please respond to the question below. Your response will be saved automatically and %(start_tag)scannot be edited once submitted%(end_tag)s.\n"
+"                "
+msgstr ""
+
+msgid "Enter your response to the question above."
+msgstr ""
