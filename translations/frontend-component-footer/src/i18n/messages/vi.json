@@ -39,5 +39,6 @@
   "authoring.footer.termsOfService.link.label": "Điều khoản dịch vụ",
   "authoring.footer.privacyPolicy.link.label": "Chính sách bảo mật",
   "authoring.footer.accessibilityRequest.link.label": "Yêu cầu chỗ ở khả năng tiếp cận",
-  "authoring.footer.trademark.message": "edX và Open edX, cũng như các logo edX và Open edX là thương hiệu đã đăng ký của"
+  "authoring.footer.trademark.message": "edX và Open edX, cũng như các logo edX và Open edX là thương hiệu đã đăng ký của",
+  "footer.logo.hoverText": "Go to main page"
 }
