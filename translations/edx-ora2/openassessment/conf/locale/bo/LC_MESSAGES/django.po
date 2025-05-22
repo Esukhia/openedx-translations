@@ -2867,7 +2867,7 @@ msgstr ""
 #, python-brace-format
 msgid "'{date}' must be a date string or datetime"
 msgstr ""
-"&#39;{ཚེས་གྲངས་}&#39; "
+"&#39;{date}&#39; "
 "ངེས་པར་དུ་ཚེས་གྲངས་ཡིག་རྒྱུན་ཡང་ན་ཚེས་གྲངས་དུས་ཚོད་ཡིན་དགོས།"
 
 #: xblock/utils/resolve_dates.py:210
@@ -2966,7 +2966,7 @@ msgstr "ཁྱོད་ཀྱིས་ཉུང་མཐར་ཡང་བརྡ
 #: xblock/utils/validation.py:209
 #, python-brace-format
 msgid "Options in '{criterion}' have duplicate name(s): {duplicates}"
-msgstr "&#39;{ཚད་གཞི་}&#39; ནང་གི་འདེམས་གཞི་ལ་མིང་འདྲ་མཚུངས་ཡོད། {duplicates}"
+msgstr "&#39;{criterion}&#39; ནང་གི་འདེམས་གཞི་ལ་མིང་འདྲ་མཚུངས་ཡོད། {duplicates}"
 
 #: xblock/utils/validation.py:217
 msgid "Criteria with no options must require written feedback."
