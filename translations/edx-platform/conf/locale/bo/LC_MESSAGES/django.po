@@ -412,7 +412,7 @@ msgstr "བསུབ་ཟིན་པའི་ཚོགས་སྡེ།"
 #: cms/djangoapps/contentstore/utils.py:892
 #, python-brace-format
 msgid "{previous_groups}, {current_group}"
-msgstr "{སྔ་མའི་_ཚོགས་སྡེ་ཁག}, {ད་ལྟའི་_ཚོགས་སྡེ།}"
+msgstr "{previous_groups}, {current_group}"
 
 #: cms/djangoapps/contentstore/utils.py:1055
 #: cms/djangoapps/contentstore/views/block.py:274
@@ -1481,7 +1481,7 @@ msgid ""
 "please contact us at {support_email}"
 msgstr ""
 "ཁྱེད་ཀྱི་ཁ་བྱང་གི་བྱེད་ནུས་བཀག་འདུག "
-"གནད་དོན་བྱུང་འདུག་འདོད་ན་ང་ཚོར་འབྲེལ་གཏུགས་བྱོས། {རམ་འདེགས་_གློག་འཕྲིན།}"
+"གནད་དོན་བྱུང་འདུག་འདོད་ན་ང་ཚོར་འབྲེལ་གཏུགས་བྱོས། {support_email}"
 
 #: common/djangoapps/student/middleware.py:38
 msgid "Disabled Account"
@@ -2378,7 +2378,7 @@ msgstr[0] ""
 #: common/djangoapps/util/file.py:73
 #, python-brace-format
 msgid "Maximum upload file size is {file_size} bytes."
-msgstr "ནང་འཇུག་བྱ་རྒྱུའི་ཡིག་ཆའི་ཡ་མཐའི་ཚད་ནི་ {ཡིག་ཆའི་_ཆེ་ཆུང་།} bytes."
+msgstr "ནང་འཇུག་བྱ་རྒྱུའི་ཡིག་ཆའི་ཡ་མཐའི་ཚད་ནི་ {file_size} bytes."
 
 #: common/djangoapps/util/milestones_helpers.py:60
 #, python-brace-format
@@ -3949,7 +3949,7 @@ msgstr "ནུས་མེད་བྱས།"
 #, python-brace-format
 msgid "({number} Question)"
 msgid_plural "({number} Questions)"
-msgstr[0] "({གྲངས་ཀ} དྲི་བ་ཁག)"
+msgstr[0] "({number} དྲི་བ་ཁག)"
 
 #: lms/djangoapps/course_home_api/outline/views.py:291
 #, python-brace-format
@@ -4003,7 +4003,7 @@ msgstr ""
 #: lms/djangoapps/course_wiki/views.py:80
 #, python-brace-format
 msgid "This is the wiki for **{organization}**'s _{course_name}_."
-msgstr "**{སྒྲིག་འཛུགས།}**ཡི་_{སློབ་ཚན་མིང་}_ འདིའི་ཝེ་ཁེ་ཡིན། "
+msgstr "**{organization}**ཡི་_{course_name}_ འདིའི་ཝེ་ཁེ་ཡིན། "
 
 #: lms/djangoapps/course_wiki/views.py:90
 msgid "Course page automatically created."
@@ -13051,7 +13051,7 @@ msgstr "ཐོབ་སྐར་དམའ་ཤོས་ {drop_count} {section_t
 #: xmodule/graders.py:433
 #, python-brace-format
 msgid "{section_type} Average = {percent:.2%}"
-msgstr "{དུམ་བུ་_རིགས་} ཆ་སྙོམས་ = {བརྒྱ་ཆ།.2%}"
+msgstr "{section_type} ཆ་སྙོམས་ = {percent:.2%}"
 
 #. Translators: Avg is short for Average
 #: xmodule/graders.py:438
@@ -13160,8 +13160,8 @@ msgid ""
 "The problem bank has been configured to show {count} problems, but only "
 "{actual} have been selected."
 msgstr ""
-"དེ་གི་སྒྲིག་སྟངས་བྱས་ཡོད་པའི་འབྲི་དོན་གྱི་སྒོ་ལ་འདུག་པའི་འབྲི་དོན་གྱི་གྲངས་གཅིག་ཡོད་རེད།"
-" དེ་ནས་གཅིག་རེད།."
+"དེ་གི་སྒྲིག་སྟངས་བྱས་ཡོད་པའི་འབྲི་དོན་གྱི་སྒོ་ལ་འདུག་པའི་འབྲི་དོན་གྱི་གྲངས་འདུག {count} ཡོད་པས།\n"
+"དེ་ནས་གཅིག་རེད་ {actual} ཡོད།"
 
 #: xmodule/library_content_block.py:51
 msgid "Any Type"
@@ -13950,7 +13950,7 @@ msgstr "དམིགས་བསལ་གྱི་སྡེ་ཚན་_id ཞ�
 #: xmodule/split_test_block.py:295
 #, python-brace-format
 msgid "{group_name} (inactive)"
-msgstr "{ཚོགས་པ་_མིང་} (inactive)"
+msgstr "{group_name} (inactive)"
 
 #: xmodule/split_test_block.py:636
 msgid "The experiment is not associated with a group configuration."
