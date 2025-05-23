@@ -143,6 +143,6 @@
   "learner-dash.courseCard.banners.credit.requestCredit": "Yêu cầu tín dụng",
   "learner-dash.courseCard.banners.credit.viewCredit": "Xem tín dụng",
   "learner-dash.courseCard.banners.credit.viewDetails": "Xem chi tiết",
-  "learner-dash.courseCard.progressBar.courseCompletion": "Course • {percent}% Complete",
-  "learner-dash.courseCard.progressBar.notStarted": "Not started"
+  "learner-dash.courseCard.progressBar.courseCompletion": "Khóa học • {percent}% Hoàn thành",
+  "learner-dash.courseCard.progressBar.notStarted": "Chưa bắt đầu"
 }

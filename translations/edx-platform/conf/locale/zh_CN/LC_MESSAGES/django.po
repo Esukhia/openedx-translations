@@ -21891,16 +21891,16 @@ msgstr "代码编辑器"
 # ---- new added strings which are used in theme ----
 
 msgid "Wishlist"
-msgstr ""
+msgstr "愿望清单"
 
 msgid "Main Page"
-msgstr ""
+msgstr "主页"
 
 msgid "Community Forum"
-msgstr ""
+msgstr "社区论坛"
 
 msgid "Schools and Partners"
-msgstr ""
+msgstr "学校与合作伙伴"
 
 msgid "Course Categories"
-msgstr ""
+msgstr "课程类别"

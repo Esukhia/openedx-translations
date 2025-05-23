@@ -23735,16 +23735,16 @@ msgstr ""
 # ---- new added strings which are used in theme ----
 
 msgid "Wishlist"
-msgstr ""
+msgstr "Lista de deseos"
 
 msgid "Main Page"
-msgstr ""
+msgstr "Página principal"
 
 msgid "Community Forum"
-msgstr ""
+msgstr "Foro comunitario"
 
 msgid "Schools and Partners"
-msgstr ""
+msgstr "Escuelas y socios"
 
 msgid "Course Categories"
-msgstr ""
+msgstr "Categorías de cursos"

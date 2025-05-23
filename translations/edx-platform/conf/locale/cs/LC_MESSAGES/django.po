@@ -23735,16 +23735,16 @@ msgstr ""
 # ---- new added strings which are used in theme ----
 
 msgid "Wishlist"
-msgstr ""
+msgstr "Seznam přání"
 
 msgid "Main Page"
-msgstr ""
+msgstr "Hlavní stránka"
 
 msgid "Community Forum"
-msgstr ""
+msgstr "Komunitní fórum"
 
 msgid "Schools and Partners"
-msgstr ""
+msgstr "Školy a partneři"
 
 msgid "Course Categories"
-msgstr ""
+msgstr "Kategorie kurzů"

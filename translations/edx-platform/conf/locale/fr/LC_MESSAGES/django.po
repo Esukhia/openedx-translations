@@ -27731,16 +27731,16 @@ msgstr "Éditeur de code"
 # ---- new added strings which are used in theme ----
 
 msgid "Wishlist"
-msgstr ""
+msgstr "Liste de souhaits"
 
 msgid "Main Page"
-msgstr ""
+msgstr "Page principale"
 
 msgid "Community Forum"
-msgstr ""
+msgstr "Forum communautaire"
 
 msgid "Schools and Partners"
-msgstr ""
+msgstr "Écoles et partenaires"
 
 msgid "Course Categories"
-msgstr ""
+msgstr "Catégories de cours"

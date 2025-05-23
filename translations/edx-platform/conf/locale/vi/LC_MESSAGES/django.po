@@ -23735,16 +23735,16 @@ msgstr ""
 # ---- new added strings which are used in theme ----
 
 msgid "Wishlist"
-msgstr ""
+msgstr "Danh sách mong muốn"
 
 msgid "Main Page"
-msgstr ""
+msgstr "Trang chính"
 
 msgid "Community Forum"
-msgstr ""
+msgstr "Diễn đàn cộng đồng"
 
 msgid "Schools and Partners"
-msgstr ""
+msgstr "Trường học và đối tác"
 
 msgid "Course Categories"
-msgstr ""
+msgstr "Danh mục khóa học"

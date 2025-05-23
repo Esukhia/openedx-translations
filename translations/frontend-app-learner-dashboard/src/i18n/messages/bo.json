@@ -143,6 +143,6 @@
   "learner-dash.courseCard.banners.credit.requestCredit": "Credit ཡི་རེ་ཞུ།",
   "learner-dash.courseCard.banners.credit.viewCredit": "Credit སྟོན།",
   "learner-dash.courseCard.banners.credit.viewDetails": "ཞིབ་ཕྲར་གཟིགས།",
-  "learner-dash.courseCard.progressBar.courseCompletion": "Course • {percent}% Complete",
-  "learner-dash.courseCard.progressBar.notStarted": "Not started"
+  "learner-dash.courseCard.progressBar.courseCompletion": "འཕྲུལ་སྡེ • {percent}% བྱུང་བསྡུར།",
+  "learner-dash.courseCard.progressBar.notStarted": "མི་འགྲོ་བ"
 }

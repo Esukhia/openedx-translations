@@ -153,6 +153,6 @@
   "learner-dash.courseCard.banners.credit.requestCredit": "Request Credit",
   "learner-dash.courseCard.banners.credit.viewCredit": "View Credit",
   "learner-dash.courseCard.banners.credit.viewDetails": "View Details",
-  "learner-dash.courseCard.progressBar.courseCompletion": "Course • {percent}% Complete",
-  "learner-dash.courseCard.progressBar.notStarted": "Not started"
+  "learner-dash.courseCard.progressBar.courseCompletion": "Kursus • {percent}% Selesai",
+  "learner-dash.courseCard.progressBar.notStarted": "Belum dimulai"
 }

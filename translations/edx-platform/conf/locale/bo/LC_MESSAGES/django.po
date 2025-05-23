@@ -27094,16 +27094,17 @@ msgstr "ཨང་བརྡ་རྩོམ་སྒྲིག་བྱེད་ས
 # ---- new added strings which are used in theme ----
 
 msgid "Wishlist"
-msgstr ""
+msgstr "འདུག་བཟུང་བར་བཀོད་ཀྱི་མཐུད"
 
 msgid "Main Page"
-msgstr ""
+msgstr "དབང་བའི་མིང་མང"
 
 msgid "Community Forum"
-msgstr ""
+msgstr "སྤྱོད་ནའི་འབད་བའི་མདོ"
 
 msgid "Schools and Partners"
-msgstr ""
+msgstr "དགོན་པའི་མཐོང་ཁང་མི་འགྱོལ་ཡོན"
 
 msgid "Course Categories"
-msgstr ""
+msgstr "མཚན་འབེབས་སྒོ་རིག"
+
