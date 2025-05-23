@@ -13361,7 +13361,7 @@ msgstr ""
 #, python-brace-format
 msgid "{assignment_type} = {weighted_percent:.2%} of a possible {weight:.2%}"
 msgstr ""
-"{assignment_type} = {weighted_percent : 0,2 %} d&#39;un {poids : 0,2 %} "
+"{assignment_type} = {weighted_percent:.2%} d&#39;un {weight:.2%} "
 "possible"
 
 #: xmodule/graders.py:382
@@ -13384,7 +13384,7 @@ msgstr "Les scores {drop_count} {section_type} les plus bas sont supprimés."
 #: xmodule/graders.py:433
 #, python-brace-format
 msgid "{section_type} Average = {percent:.2%}"
-msgstr "{section_type} Moyenne = {percent :.2%}"
+msgstr "{section_type} Moyenne = {percent:.2%}"
 
 #. Translators: Avg is short for Average
 #: xmodule/graders.py:438
