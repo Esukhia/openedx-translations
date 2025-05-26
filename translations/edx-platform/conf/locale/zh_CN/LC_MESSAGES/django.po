@@ -21886,3 +21886,21 @@ msgstr "将您的版权文本置于此处！"
 #: xmodule/capa/templates/codeinput.html:10
 msgid "Code Editor"
 msgstr "代码编辑器"
+
+
+# ---- new added strings which are used in theme ----
+
+msgid "Wishlist"
+msgstr "愿望清单"
+
+msgid "Main Page"
+msgstr "主页"
+
+msgid "Community Forum"
+msgstr "社区论坛"
+
+msgid "Schools and Partners"
+msgstr "学校与合作伙伴"
+
+msgid "Course Categories"
+msgstr "课程类别"

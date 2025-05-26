@@ -379,3 +379,15 @@ msgstr "文件类型不能为空。"
 #: xblock/static/js/src/studio/oa_edit_settings.js:128
 msgid "The following file types are not allowed: "
 msgstr "下列文件类型不可用："
+
+
+# ---- Updated strings----
+
+msgid ""
+"\n"
+"                    Please respond to the question below. Your response will be saved automatically and %(start_tag)scannot be edited once submitted%(end_tag)s.\n"
+"                "
+msgstr ""
+
+msgid "Enter your response to the question above."
+msgstr ""

@@ -3016,3 +3016,16 @@ msgstr "Số bảng xếp hạng không hợp lệ."
 #: xblock/utils/validation.py:392
 msgid "The submission format is invalid."
 msgstr "Định dạng gửi không hợp lệ."
+
+
+# ---- Updated strings----
+
+msgid ""
+"\n"
+"                    Please respond to the question below. Your response will be saved automatically and %(start_tag)scannot be edited once submitted%(end_tag)s.\n"
+"                "
+msgstr ""
+"\n                    Vui lòng trả lời câu hỏi dưới đây. Câu trả lời của bạn sẽ được lưu tự động và %(start_tag)không thể chỉnh sửa sau khi gửi%(end_tag)s."
+
+msgid "Enter your response to the question above."
+msgstr "Nhập câu trả lời của bạn cho câu hỏi trên."

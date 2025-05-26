@@ -39,5 +39,6 @@
   "authoring.footer.termsOfService.link.label": "Términos de servicio",
   "authoring.footer.privacyPolicy.link.label": "Política de privacidad",
   "authoring.footer.accessibilityRequest.link.label": "Solicitud de alojamiento de accesibilidad",
-  "authoring.footer.trademark.message": "edX y Open edX, y los logotipos de edX y Open edX son marcas comerciales registradas de"
+  "authoring.footer.trademark.message": "edX y Open edX, y los logotipos de edX y Open edX son marcas comerciales registradas de",
+  "footer.logo.hoverText": "Ir a la página principal"
 }

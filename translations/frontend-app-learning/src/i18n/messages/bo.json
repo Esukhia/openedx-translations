@@ -1,6 +1,6 @@
 {
   "learn.redirect.interstitial.message": "ཁ་ཕྱོགས་བསྐྱར་སྒྲིག་བྱེད་བཞིན་ཡོད།",
-  "learning.notification.preferences.unsubscribe.preferenceCenterUrl": "",
+  "learning.notification.preferences.unsubscribe.preferenceCenterUrl": "{preferenceCenterUrl} ལ་ཕེབས་ནས་ཁྱེད་ཀྱི་དགའ་གདམ་གཞི་བཙུགས།",
   "tours.abandonTour.launchTourCheckpoint.body": "མགོ་འཐོམ་སོང་ངམ། འདིར་གཟིགས་དང་ཁྱེད་ལ་ཕན་པའི་ལམ་སྟོན་དང་ཉམས་མྱོང་གང་ལེགས་འཐོབ་ཡོང་།",
   "tours.sequenceNavigationCheckpoint.body": "ཁྱེད་ཀྱི་སློབ་ཚན་ཁྲོད་ཀྱི་སྒང་གི་ bar དེས་ཁྱེད་རང་སྡེ་ཚན་མ་འདྲ་བ་རེ་རེའི་ནང་སྟབས་བདེའི་ངང་འཆོང་ནས་འགྲོ་འཇུག་པ་དང་གཞུག་ཕྱོགས་ཅི་ཞིག་ཡོང་རྒྱུ་ཡིན་མིན་གསལ་སྟོན་བྱེད་ཡོང་།",
   "tours.existingUserTour.launchTourCheckpoint.body": "ང་ཚོས་ཉེ་ཆར་སློབ་ཚན་འདིའི་ནང་ཁྱད་ཆོས་གསར་པ་འགའ་ཞིག་ཁ་སྣོན་བྱས་ཡོད། ཁྱེད་རང་ལ་ཕན་ཐོགས་འདུག་སྙམ་ན་གཟིགས་སྐོར་ཞིག་གནང་རོགས།",
