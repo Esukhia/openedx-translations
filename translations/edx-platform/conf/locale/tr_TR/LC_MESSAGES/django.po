@@ -25754,3 +25754,21 @@ msgstr "Telif Hakları metninizi buraya koyun!"
 #: xmodule/capa/templates/codeinput.html:10
 msgid "Code Editor"
 msgstr "Kod Düzenleyicisi"
+
+
+# ---- new added strings which are used in theme ----
+
+msgid "Wishlist"
+msgstr ""
+
+msgid "Main Page"
+msgstr ""
+
+msgid "Community Forum"
+msgstr ""
+
+msgid "Schools and Partners"
+msgstr ""
+
+msgid "Course Categories"
+msgstr ""

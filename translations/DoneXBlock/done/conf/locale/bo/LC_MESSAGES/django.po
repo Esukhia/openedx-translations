@@ -54,6 +54,15 @@ msgstr ""
 msgid "Problem Weight"
 msgstr "དྲི་བའི་བརྒྱ་ཆ།"
 
+#: done.py:148
+msgid ""
+"Defines the number of points each problem is worth. If the value is not set,"
+" the problem is worth the sum of the option point values."
+msgstr ""
+"དྲི་བ་རེ་རེར་ཐོབ་པའི་ཐོབ་སྐར་གྱི་གྲངས་ཀ་འགྲེལ་བརྗོད་བྱེད། "
+"གལ་སྲིད་འདིའི་རིན་ཐང་ཆེད་དུ་མ་བསྒྲིགས་ན་ the problem is worth the sum of the"
+" option point values."
+
 #: templates/done.html:8
 msgid "X"
 msgstr "X"
@@ -92,3 +101,13 @@ msgstr ""
 " "
 "དེ་ནི་ད་དུང་སློབ་ཕྲུག་ལ་བྱ་བ་གང་ཞིག་གྲུབ་རྗེས་དེའི་ཐོག་ལ་རྟགས་རྒྱག་ཐབས་ཕན་ཐོགས་ཅན་ཞིག་ཞིང་།"
 " དེ་ལྟར་བྱས་ན་ཁོང་ཚོས་སློབ་ཚན་དེ་བརྒལ་ནས་འགྲོ་རྒྱུ་ཉུང་དུ་འགྲོ། "
+
+#: templates/studioview.html:8
+msgid ""
+"(If you're a real power-user, in OLX, we do allow you to add an align tag, "
+"which can left-, center-, or right-justify the XBlock)"
+msgstr ""
+"(གལ་སྲིད་ཁྱེད་རང་ OLX "
+"ནང་དོན་དངོས་ཡོད་ཀྱིས་ནུས་ཤུགས་བཀོལ་སྤྱོད་བྱེད་མཁན་ཞིག་ཡིན་ན་།  we do allow "
+"you to add an align tag, which can left-, center-, or right-justify the "
+"XBlock)"

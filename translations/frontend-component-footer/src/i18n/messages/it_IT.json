@@ -39,5 +39,6 @@
   "authoring.footer.termsOfService.link.label": "",
   "authoring.footer.privacyPolicy.link.label": "",
   "authoring.footer.accessibilityRequest.link.label": "",
-  "authoring.footer.trademark.message": ""
+  "authoring.footer.trademark.message": "",
+  "footer.logo.hoverText": "Go to main page"
 }

@@ -39,5 +39,6 @@
   "authoring.footer.termsOfService.link.label": "服務條款",
   "authoring.footer.privacyPolicy.link.label": "隱私權政策",
   "authoring.footer.accessibilityRequest.link.label": "可訪問的容納申請",
-  "authoring.footer.trademark.message": "edX 和 Open edX，以及 edX 和 Open edX 標誌是以下公司的註冊商標"
+  "authoring.footer.trademark.message": "edX 和 Open edX，以及 edX 和 Open edX 標誌是以下公司的註冊商標",
+  "footer.logo.hoverText": "Go to main page"
 }

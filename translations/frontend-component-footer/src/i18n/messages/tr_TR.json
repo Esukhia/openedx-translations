@@ -39,5 +39,6 @@
   "authoring.footer.termsOfService.link.label": "Kullanım Koşulları",
   "authoring.footer.privacyPolicy.link.label": "Gizlilik Politikası",
   "authoring.footer.accessibilityRequest.link.label": "Erişilebilirlik karşılama isteği",
-  "authoring.footer.trademark.message": "edX, Open edX, ve edX ile Open edX logoları tescilli markalardır"
+  "authoring.footer.trademark.message": "edX, Open edX, ve edX ile Open edX logoları tescilli markalardır",
+  "footer.logo.hoverText": "Go to main page"
 }

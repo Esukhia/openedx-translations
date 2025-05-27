@@ -13241,3 +13241,21 @@ msgstr ""
 "Recebemos um pedido para alterar o e-mail associado à sua conta do "
 "{platform_name} de {old_email} para {new_email}. Caso isso esteja correto, "
 "por favor confirme o seu novo endereço de e-mail acessando:"
+
+
+# ---- new added strings which are used in theme ----
+
+msgid "Wishlist"
+msgstr ""
+
+msgid "Main Page"
+msgstr ""
+
+msgid "Community Forum"
+msgstr ""
+
+msgid "Schools and Partners"
+msgstr ""
+
+msgid "Course Categories"
+msgstr ""

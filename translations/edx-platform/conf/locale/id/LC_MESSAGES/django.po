@@ -17179,3 +17179,21 @@ msgstr "Tuliskan Hak Cipta anda disini!"
 #: xmodule/capa/templates/codeinput.html:10
 msgid "Code Editor"
 msgstr "Kode Editor"
+
+
+# ---- new added strings which are used in theme ----
+
+msgid "Wishlist"
+msgstr "Daftar keinginan"
+
+msgid "Main Page"
+msgstr "Halaman utama"
+
+msgid "Community Forum"
+msgstr "Forum komunitas"
+
+msgid "Schools and Partners"
+msgstr "Sekolah dan mitra"
+
+msgid "Course Categories"
+msgstr "Kategori kursus"

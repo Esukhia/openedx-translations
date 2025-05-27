@@ -16,7 +16,7 @@
 # This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
 # EdX Team <info@edx.org>, 2024.
 # 
-# #-#-#-#-#  mako.po (PROJECT VERSION)  #-#-#-#-#
+# #-#-#-#-#  mak.po (PROJECT VERSION)  #-#-#-#-#
 # Translations template for PROJECT.
 # Copyright (C) 2024 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
@@ -26210,3 +26210,21 @@ msgstr "متن کپی‌رایت خود را این‌جا قرار دهید!"
 #: xmodule/capa/templates/codeinput.html:10
 msgid "Code Editor"
 msgstr "ویرایش‌گر کد"
+
+
+# ---- new added strings which are used in theme ----
+
+msgid "Wishlist"
+msgstr ""
+
+msgid "Main Page"
+msgstr ""
+
+msgid "Community Forum"
+msgstr ""
+
+msgid "Schools and Partners"
+msgstr ""
+
+msgid "Course Categories"
+msgstr ""

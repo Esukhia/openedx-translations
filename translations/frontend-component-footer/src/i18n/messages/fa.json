@@ -39,5 +39,6 @@
   "authoring.footer.termsOfService.link.label": "شرایط استفاده از خدمات",
   "authoring.footer.privacyPolicy.link.label": "سیاست حفظ حریم خصوصی",
   "authoring.footer.accessibilityRequest.link.label": "درخواست اقامت در دسترس",
-  "authoring.footer.trademark.message": "edX و Open edX و لوگوهای edX و Open edX علائم تجاری ثبت شده‌ای هستند."
+  "authoring.footer.trademark.message": "edX و Open edX و لوگوهای edX و Open edX علائم تجاری ثبت شده‌ای هستند.",
+  "footer.logo.hoverText": "Go to main page"
 }
