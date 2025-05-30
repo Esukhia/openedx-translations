@@ -27744,3 +27744,18 @@ msgstr "Écoles et partenaires"
 
 msgid "Course Categories"
 msgstr "Catégories de cours"
+
+msgid "About Us"
+msgstr "À propos de nous"
+
+msgid "Centers"
+msgstr "Centres"
+
+msgid "My Wishlist"
+msgstr "Ma liste de souhaits"
+
+msgid "You have no courses in your wishlist."
+msgstr "Vous n'avez aucun cours dans votre liste de souhaits."
+
+msgid "Open Course"
+msgstr "Cours ouvert"

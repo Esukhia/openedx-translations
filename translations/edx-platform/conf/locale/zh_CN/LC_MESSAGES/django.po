@@ -21904,3 +21904,18 @@ msgstr "学校与合作伙伴"
 
 msgid "Course Categories"
 msgstr "课程类别"
+
+msgid "About Us"
+msgstr "关于我们"
+
+msgid "Centers"
+msgstr "中心"
+
+msgid "My Wishlist"
+msgstr "我的愿望清单"
+
+msgid "You have no courses in your wishlist."
+msgstr "您的愿望清单中没有课程。"
+
+msgid "Open Course"
+msgstr "开放课程"
