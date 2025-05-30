@@ -26830,3 +26830,6 @@ msgstr "Bạn chưa có khóa học nào trong danh sách yêu thích."
 
 msgid "Open Course"
 msgstr "Mở khóa học"
+
+msgid "Go to main page"
+msgstr "Đi đến trang chính"

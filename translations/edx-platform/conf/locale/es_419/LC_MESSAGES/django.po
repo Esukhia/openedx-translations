@@ -27451,3 +27451,6 @@ msgstr "No tienes cursos en tu lista de deseos."
 
 msgid "Open Course"
 msgstr "Curso abierto"
+
+msgid "Go to main page"
+msgstr "Ir a la página principal"

@@ -21919,3 +21919,6 @@ msgstr "您的愿望清单中没有课程。"
 
 msgid "Open Course"
 msgstr "开放课程"
+
+msgid "Go to main page"
+msgstr "前往主页"

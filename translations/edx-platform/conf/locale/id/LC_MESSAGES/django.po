@@ -17212,3 +17212,6 @@ msgstr "Anda tidak memiliki kursus dalam daftar keinginan Anda."
 
 msgid "Open Course"
 msgstr "Kursus Terbuka"
+
+msgid "Go to main page"
+msgstr "Pergi ke halaman utama"

@@ -27109,16 +27109,19 @@ msgid "Course Categories"
 msgstr "མཚན་འབེབས་སྒོ་རིག"
 
 msgid "About Us"
-msgstr "O nama"
+msgstr "ང་ཚོ་སྐོར།"
 
 msgid "Centers"
-msgstr "Centri"
+msgstr "ཁང་ཚན་ཚོགས་པ།"
 
 msgid "My Wishlist"
-msgstr "Moj željeni popis"
+msgstr "ངའི་དགའ་ཐོ།"
 
 msgid "You have no courses in your wishlist."
-msgstr "Nemate nijedan kurs u vašem željenom popisu."
+msgstr "ཁྱེད་ཀྱི་དགའ་ཐོའི་ནང་སློབ་ཚན་མེད།"
 
 msgid "Open Course"
-msgstr "Otvoreni kurs"
+msgstr "སློབ་ཚན་ཁ་ཕྱེ།"
+
+msgid "Go to main page"
+msgstr "ངོས་དོན་ཤོག་ངོས་ལ་ཕེབས།"
