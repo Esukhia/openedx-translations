@@ -40,5 +40,8 @@
   "authoring.footer.privacyPolicy.link.label": "Política de privacidad",
   "authoring.footer.accessibilityRequest.link.label": "Solicitud de alojamiento de accesibilidad",
   "authoring.footer.trademark.message": "edX y Open edX, y los logotipos de edX y Open edX son marcas comerciales registradas de",
-  "footer.logo.hoverText": "Ir a la página principal"
+  "footer.logo.hoverText": "Ir a la página principal",
+  "footer.colophon.about": "Sobre nosotros",
+  "footer.colophon.contact": "Contáctanos",
+  "footer.colophon.privacy": "Política de privacidad"
 }
