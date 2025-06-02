@@ -21922,3 +21922,6 @@ msgstr "开放课程"
 
 msgid "Go to main page"
 msgstr "前往主页"
+
+msgid "Privacy Policy for Sherab"
+msgstr "Sherab 隐私政策"

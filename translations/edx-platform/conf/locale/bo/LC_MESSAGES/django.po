@@ -27125,3 +27125,6 @@ msgstr "སློབ་ཚན་ཁ་ཕྱེ།"
 
 msgid "Go to main page"
 msgstr "ངོས་དོན་ཤོག་ངོས་ལ་ཕེབས།"
+
+msgid "Privacy Policy for Sherab"
+msgstr "ཤེས་རབ་ཀྱི་གསང་སྲུང་སྒྲིག་འཛུགས།"

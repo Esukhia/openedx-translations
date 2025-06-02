@@ -17215,3 +17215,6 @@ msgstr "Kursus Terbuka"
 
 msgid "Go to main page"
 msgstr "Pergi ke halaman utama"
+
+msgid "Privacy Policy for Sherab"
+msgstr "Kebijakan Privasi Sherab"
