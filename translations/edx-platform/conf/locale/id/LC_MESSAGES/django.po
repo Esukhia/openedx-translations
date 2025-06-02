@@ -17197,3 +17197,24 @@ msgstr "Sekolah dan mitra"
 
 msgid "Course Categories"
 msgstr "Kategori kursus"
+
+msgid "About Us"
+msgstr "Tentang Kami"
+
+msgid "Centers"
+msgstr "Pusat"
+
+msgid "My Wishlist"
+msgstr "Daftar Keinginan Saya"
+
+msgid "You have no courses in your wishlist."
+msgstr "Anda tidak memiliki kursus dalam daftar keinginan Anda."
+
+msgid "Open Course"
+msgstr "Kursus Terbuka"
+
+msgid "Go to main page"
+msgstr "Pergi ke halaman utama"
+
+msgid "Privacy Policy for Sherab"
+msgstr "Kebijakan Privasi Sherab"
