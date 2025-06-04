@@ -17218,3 +17218,6 @@ msgstr "Pergi ke halaman utama"
 
 msgid "Privacy Policy for Sherab"
 msgstr "Kebijakan Privasi Sherab"
+
+msgid "Hi {username}, Welcome to {platform_name}"
+msgstr "Hai {username}, selamat datang di {platform_name}"

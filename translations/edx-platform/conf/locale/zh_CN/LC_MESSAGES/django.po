@@ -21925,3 +21925,6 @@ msgstr "前往主页"
 
 msgid "Privacy Policy for Sherab"
 msgstr "Sherab 隐私政策"
+
+msgid "Hi {username}, Welcome to {platform_name}"
+msgstr "你好，{username}，欢迎来到{platform_name}"
