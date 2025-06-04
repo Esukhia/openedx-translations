@@ -27457,3 +27457,6 @@ msgstr "Ir a la página principal"
 
 msgid "Privacy Policy for Sherab"
 msgstr "Política de privacidad de Sherab"
+
+msgid "Hi {username}, Welcome to {platform_name}"
+msgstr "Hola {username}, bienvenido a la plataforma {platform_name}"
