@@ -40,5 +40,8 @@
   "authoring.footer.privacyPolicy.link.label": "Privacy Policy",
   "authoring.footer.accessibilityRequest.link.label": "Accessibility Accomodation Request",
   "authoring.footer.trademark.message": "edX and Open edX, and the edX and Open edX logos are registered trademarks of",
-  "footer.logo.hoverText": "Go to main page"
+  "footer.logo.hoverText": "Go to main page",
+  "footer.colophon.about": "About Us",
+  "footer.colophon.contact": "Contact Us",
+  "footer.colophon.privacy": "Privacy Policy"
 }

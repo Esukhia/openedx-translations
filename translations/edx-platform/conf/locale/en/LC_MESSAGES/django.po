@@ -23795,3 +23795,27 @@ msgstr ""
 
 msgid "Course Categories"
 msgstr ""
+
+msgid "About Us"
+msgstr ""
+
+msgid "Centers"
+msgstr ""
+
+msgid "My Wishlist"
+msgstr ""
+
+msgid "You have no courses in your wishlist."
+msgstr ""
+
+msgid "Open Course"
+msgstr ""
+
+msgid "Go to main page"
+msgstr ""
+
+msgid "Privacy Policy for Sherab"
+msgstr ""
+
+msgid "Hi {username}, welcome to {platform_name}"
+msgstr ""

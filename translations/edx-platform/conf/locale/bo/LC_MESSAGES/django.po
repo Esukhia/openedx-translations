@@ -27108,3 +27108,26 @@ msgstr "དགོན་པའི་མཐོང་ཁང་མི་འགྱོ
 msgid "Course Categories"
 msgstr "མཚན་འབེབས་སྒོ་རིག"
 
+msgid "About Us"
+msgstr "ང་ཚོ་སྐོར།"
+
+msgid "Centers"
+msgstr "ཁང་ཚན་ཚོགས་པ།"
+
+msgid "My Wishlist"
+msgstr "ངའི་དགའ་ཐོ།"
+
+msgid "You have no courses in your wishlist."
+msgstr "ཁྱེད་ཀྱི་དགའ་ཐོའི་ནང་སློབ་ཚན་མེད།"
+
+msgid "Open Course"
+msgstr "སློབ་ཚན་ཁ་ཕྱེ།"
+
+msgid "Go to main page"
+msgstr "ངོས་དོན་ཤོག་ངོས་ལ་ཕེབས།"
+
+msgid "Privacy Policy for Sherab"
+msgstr "ཤེས་རབ་ཀྱི་གསང་སྲུང་སྒྲིག་འཛུགས།"
+
+msgid "Hi {username}, welcome to {platform_name}"
+msgstr "{username} ཁྱོད་ལ་ {platform_name} ཕེབས་པར་དགའ་བསུ་ཞུ།"

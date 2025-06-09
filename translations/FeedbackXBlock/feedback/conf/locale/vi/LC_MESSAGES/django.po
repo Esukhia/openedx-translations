@@ -212,6 +212,10 @@ msgstr "SAI"
 msgid "True"
 msgstr "ĐÚNG VẬY"
 
+#: templates/html/studio_view.html:39
+msgid "Wheter to show the aggregate report to students."
+msgstr ""
+
 #: templates/html/studio_view.html:44
 msgid "Freeform prompt"
 msgstr "Lời nhắc biểu mẫu tự do"
@@ -238,6 +242,10 @@ msgstr "Bộ biểu tượng Likert"
 #: templates/html/studio_view.html:62
 msgid "Faces (happy to sad)"
 msgstr "Khuôn mặt (vui đến buồn)"
+
+#: templates/html/studio_view.html:63
+msgid "Faces (sad to happy to sad)"
+msgstr ""
 
 #: templates/html/studio_view.html:64
 msgid "Numeric"

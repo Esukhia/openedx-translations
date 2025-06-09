@@ -40,5 +40,8 @@
   "authoring.footer.privacyPolicy.link.label": "གསང་རྒྱའི་ཆོད་གན།",
   "authoring.footer.accessibilityRequest.link.label": "འགྲོ་འོང་བདེ་བའི་སྡོད་ཁང་རེ་འདུན།",
   "authoring.footer.trademark.message": "edX དང་ Open edX དེ་བཞིན་ edX དང་ Open edX རྟགས་མཚན་ནི་ 2019 ལོའི་ཐོ་འགོད་ཚོང་རྟགས་ཡིན།",
-  "footer.logo.hoverText": "དབང་བའི་མིང་མངའི་འདུག"
+  "footer.logo.hoverText": "དབང་བའི་མིང་མངའི་འདུག",
+  "footer.colophon.about": "ང་ཚོ་སྐོར།",
+  "footer.colophon.contact": "འབྲེལ་བ་གནང་བ།",
+  "footer.colophon.privacy": "གསང་སྲུང་ཞིབ་འཇུག"
 }

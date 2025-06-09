@@ -332,6 +332,10 @@ msgstr "Lỗi khi nhập khóa học"
 msgid "There was an error with the upload"
 msgstr "Đã xảy ra lỗi khi tải lên"
 
+#: cms/static/js/maintenance/force_publish_course.js:76
+msgid "Internal Server Error."
+msgstr ""
+
 #. Translators: This is the status of a video upload that is queued
 #. waiting for other uploads to complete
 #: cms/static/js/models/active_video_upload.js:9
