@@ -27129,5 +27129,5 @@ msgstr "ངོས་དོན་ཤོག་ངོས་ལ་ཕེབས།"
 msgid "Privacy Policy for Sherab"
 msgstr "ཤེས་རབ་ཀྱི་གསང་སྲུང་སྒྲིག་འཛུགས།"
 
-msgid "Hi {username}, Welcome to {platform_name}"
+msgid "Hi {username}, welcome to {platform_name}"
 msgstr "{username} ཁྱོད་ལ་ {platform_name} ཕེབས་པར་དགའ་བསུ་ཞུ།"

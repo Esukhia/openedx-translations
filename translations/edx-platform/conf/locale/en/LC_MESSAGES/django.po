@@ -23817,5 +23817,5 @@ msgstr ""
 msgid "Privacy Policy for Sherab"
 msgstr ""
 
-msgid "Hi {username}, Welcome to {platform_name}"
+msgid "Hi {username}, welcome to {platform_name}"
 msgstr ""
