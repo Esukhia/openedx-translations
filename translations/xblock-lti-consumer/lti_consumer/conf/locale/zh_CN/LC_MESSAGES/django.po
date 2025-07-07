@@ -4,18 +4,16 @@
 # EdX Team <info@edx.org>, 2024.
 # 
 # Translators:
-# Brian Smith, 2024
-# Cecilia Liu, 2024
-# Nathan Robertson, 2024
+# Yogesh Bhagat, 2025
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1a\n"
 "Report-Msgid-Bugs-To: openedx-translation@googlegroups.com\n"
 "POT-Creation-Date: 2023-06-13 08:00+0000\n"
-"PO-Revision-Date: 2023-06-24 01:02+0000\n"
-"Last-Translator: Nathan Robertson, 2024\n"
-"Language-Team: Chinese (China) (https://app.transifex.com/open-edx/teams/6205/zh_CN/)\n"
+"PO-Revision-Date: 2025-07-07 06:57+0000\n"
+"Last-Translator: Yogesh Bhagat, 2025\n"
+"Language-Team: Chinese (China) (https://app.transifex.com/sherab/teams/290875/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -42,19 +40,19 @@ msgstr "未找到 LTI 配置。"
 msgid "Invalid token signature."
 msgstr "令牌签名无效。"
 
-#: lti_xblock.py:135
+#: lti_xblock.py:134
 msgid "No valid user id found in endpoint URL"
 msgstr "在端点 URL 中找不到有效的用户 ID"
 
-#: lti_xblock.py:148
+#: lti_xblock.py:147
 msgid "Configuration on block"
 msgstr "块上的配置"
 
-#: lti_xblock.py:152
+#: lti_xblock.py:151
 msgid "Database Configuration"
 msgstr "数据库配置"
 
-#: lti_xblock.py:155
+#: lti_xblock.py:154
 msgid "Reusable Configuration"
 msgstr "可重复使用的配置"
 
@@ -459,46 +457,46 @@ msgid ""
 "site administrator if you have any questions."
 msgstr "选择 True 可发送额外参数，其中可能包含个人身份信息。处理者是站点范围内的，如果您有任何疑问，请咨询站点管理员。"
 
-#: lti_xblock.py:686
+#: lti_xblock.py:681
 msgid "Custom Parameters must be a list"
 msgstr "自定义参数必须是列表"
 
-#: lti_xblock.py:693
+#: lti_xblock.py:688
 msgid "Custom Parameters should be strings in \"x=y\" format."
 msgstr "自定义参数应为“x=y”格式的字符串。"
 
-#: lti_xblock.py:703
+#: lti_xblock.py:698
 msgid ""
 "Reusable configuration ID must be set when using external config (Example: "
 "\"x:y\")."
 msgstr "使用外部配置时必须设置可重用配置 ID（示例：“x:y”）。"
 
-#: lti_xblock.py:726
+#: lti_xblock.py:721
 msgid ""
 "The specified LTI ID is not configured in this course's Advanced Settings."
 msgstr "指定的 LTI ID 未在本课程的高级设置中配置。"
 
-#: lti_xblock.py:855 lti_xblock.py:1133
+#: lti_xblock.py:850 lti_xblock.py:1128
 msgid "Could not get user data for current request"
 msgstr "无法获取当前请求的用户数据"
 
-#: lti_xblock.py:882
+#: lti_xblock.py:877
 msgid ""
 "Could not parse LTI passport: {lti_passport!r}. Should be \"id:key:secret\" "
 "string."
 msgstr "无法解析 LTI 护照：{lti_passport!r}。应该是“id:key:secret”字符串。"
 
-#: lti_xblock.py:900 lti_xblock.py:914 lti_xblock.py:930
+#: lti_xblock.py:895 lti_xblock.py:909 lti_xblock.py:925
 msgid "Could not get user id for current request"
 msgstr "无法获取当前请求的用户 ID"
 
-#: lti_xblock.py:1066
+#: lti_xblock.py:1061
 msgid ""
 "Could not parse custom parameter: {custom_parameter!r}. Should be \"x=y\" "
 "string."
 msgstr "无法解析自定义参数：{custom_parameter!r}。应该是“x=y”字符串。"
 
-#: lti_xblock.py:1428
+#: lti_xblock.py:1423
 msgid "[LTI]: Real user not found against anon_id: {}"
 msgstr "[LTI]：未找到针对 anon_id 的真实用户：{}"
 
