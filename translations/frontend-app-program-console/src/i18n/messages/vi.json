@@ -1,12 +1,12 @@
 {
-  "siteheader.links.courses": "",
-  "siteheader.links.programs": "",
-  "siteheader.links.schools": "",
-  "siteheader.user.menu.dashboard": "",
-  "siteheader.user.menu.profile": "",
-  "siteheader.user.menu.account.settings": "",
-  "siteheader.user.menu.logout": "",
-  "siteheader.user.menu.login": "",
-  "siteheader.user.menu.register": "",
-  "app.loading.message": ""
+  "siteheader.links.courses": "Khóa học",
+  "siteheader.links.programs": "Chương trình &amp; Bằng cấp",
+  "siteheader.links.schools": "Trường học &amp; Đối tác",
+  "siteheader.user.menu.dashboard": "Bảng điều khiển",
+  "siteheader.user.menu.profile": "Hồ sơ",
+  "siteheader.user.menu.account.settings": "Tài khoản",
+  "siteheader.user.menu.logout": "Đăng xuất",
+  "siteheader.user.menu.login": "Đăng nhập",
+  "siteheader.user.menu.register": "Đăng ký",
+  "app.loading.message": "Đang tải"
 }
