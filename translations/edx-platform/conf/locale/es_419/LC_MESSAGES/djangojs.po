@@ -11,8 +11,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
 # 
 # Translators:
-# Omar Al-Ithawi <i@omardo.com>, 2024
-# Brian Smith, 2025
+# Yogesh Bhagat, 2025
 # 
 #, fuzzy
 msgid ""
@@ -20,9 +19,9 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-10-23 00:32+0000\n"
-"PO-Revision-Date: 2024-12-18 13:43+0000\n"
-"Last-Translator: Brian Smith, 2025\n"
-"Language-Team: Spanish (Latin America) (https://app.transifex.com/open-edx/teams/6205/es_419/)\n"
+"PO-Revision-Date: 2025-07-07 05:50+0000\n"
+"Last-Translator: Yogesh Bhagat, 2025\n"
+"Language-Team: Spanish (Latin America) (https://app.transifex.com/sherab/teams/290053/es_419/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
