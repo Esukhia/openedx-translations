@@ -4,32 +4,31 @@
 # EdX Team <info@edx.org>, 2024.
 # 
 # Translators:
-# Brian Smith, 2024
-# Nathan Robertson, 2024
+# Yogesh Bhagat, 2025
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1a\n"
 "Report-Msgid-Bugs-To: openedx-translation@googlegroups.com\n"
 "POT-Creation-Date: 2023-06-13 08:00+0000\n"
-"PO-Revision-Date: 2023-06-03 00:54+0000\n"
-"Last-Translator: Nathan Robertson, 2024\n"
-"Language-Team: Danish (https://app.transifex.com/open-edx/teams/6205/da/)\n"
+"PO-Revision-Date: 2025-07-07 05:50+0000\n"
+"Last-Translator: Yogesh Bhagat, 2025\n"
+"Language-Team: Tibetan (https://app.transifex.com/sherab/teams/290053/bo/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: da\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: bo\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 
-#: recommender.py:313
+#: recommender.py:317
 msgid "Invalid location URL provided"
 msgstr "Ugyldig adresse-URL angivet"
 
-#: recommender.py:324
+#: recommender.py:328
 msgid "The resource you are attempting to provide already exists"
 msgstr "Den ressource, du forsøger at levere, findes allerede"
 
-#: recommender.py:337
+#: recommender.py:341
 msgid ""
 "The resource you are attempting to provide has been disallowed by the staff."
 " Reason: "
@@ -37,36 +36,36 @@ msgstr ""
 "Den ressource, du forsøger at levere, er blevet afvist af personalet. Grund:"
 " "
 
-#: recommender.py:354
+#: recommender.py:358
 msgid "The selected resource does not exist"
 msgstr "Den valgte ressource findes ikke"
 
-#: recommender.py:402
+#: recommender.py:406
 msgid "Size of uploaded file exceeds threshold"
 msgstr "Størrelsen på den uploadede fil overstiger tærsklen"
 
-#: recommender.py:413
+#: recommender.py:417
 msgid "The configuration of pyfs is not properly set"
 msgstr "Konfigurationen af pyfs er ikke korrekt indstillet"
 
-#: recommender.py:752
+#: recommender.py:756
 msgid "Endorse resource without permission"
 msgstr "Godkend ressource uden tilladelse"
 
-#: recommender.py:796
+#: recommender.py:800
 msgid "You don't have the permission to remove this resource"
 msgstr "Du har ikke tilladelse til at fjerne denne ressource"
 
-#: recommender.py:847
+#: recommender.py:851
 msgid "Only staff can import resources"
 msgstr "Kun personale kan importere ressourcer"
 
-#: recommender.py:858 recommender.py:885
+#: recommender.py:862 recommender.py:889
 msgid ""
 "Please submit the JSON file obtained with the download resources button"
 msgstr "Indsend venligst JSON-filen opnået med knappen download ressourcer"
 
-#: recommender.py:898
+#: recommender.py:902
 msgid "Tried to access flagged resources without staff permission"
 msgstr ""
 "Forsøgte at få adgang til markerede ressourcer uden personaletilladelse"
