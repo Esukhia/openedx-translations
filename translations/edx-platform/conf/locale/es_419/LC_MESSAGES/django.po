@@ -23,9 +23,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
 # 
 # Translators:
-# Brian Smith, 2025
-# Pablo Iglesias, 2025
-# Valentina Morelli, 2025
+# Yogesh Bhagat, 2025
 # 
 #, fuzzy
 msgid ""
@@ -33,9 +31,9 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2024-10-23 00:32+0000\n"
-"PO-Revision-Date: 2024-12-18 13:44+0000\n"
-"Last-Translator: Valentina Morelli, 2025\n"
-"Language-Team: Spanish (Latin America) (https://app.transifex.com/open-edx/teams/6205/es_419/)\n"
+"PO-Revision-Date: 2025-07-07 06:57+0000\n"
+"Last-Translator: Yogesh Bhagat, 2025\n"
+"Language-Team: Spanish (Latin America) (https://app.transifex.com/sherab/teams/290875/es_419/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -27419,9 +27417,7 @@ msgstr "Escribe tu texto de Derechos de Autor aquí."
 msgid "Code Editor"
 msgstr "Editor de código"
 
-
 # ---- new added strings which are used in theme ----
-
 msgid "Wishlist"
 msgstr "Lista de deseos"
 
