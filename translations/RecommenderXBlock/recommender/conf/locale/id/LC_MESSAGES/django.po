@@ -4,32 +4,31 @@
 # EdX Team <info@edx.org>, 2024.
 # 
 # Translators:
-# Nathan Robertson, 2024
-# Adit Ur <dhiets85@gmail.com>, 2024
+# Yogesh Bhagat, 2025
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1a\n"
 "Report-Msgid-Bugs-To: openedx-translation@googlegroups.com\n"
 "POT-Creation-Date: 2023-06-13 08:00+0000\n"
-"PO-Revision-Date: 2023-06-03 00:54+0000\n"
-"Last-Translator: Adit Ur <dhiets85@gmail.com>, 2024\n"
-"Language-Team: Indonesian (https://app.transifex.com/open-edx/teams/6205/id/)\n"
+"PO-Revision-Date: 2025-07-07 06:57+0000\n"
+"Last-Translator: Yogesh Bhagat, 2025\n"
+"Language-Team: Indonesian (https://app.transifex.com/sherab/teams/290875/id/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: id\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#: recommender.py:314
+#: recommender.py:317
 msgid "Invalid location URL provided"
 msgstr "Invalid location URL provided"
 
-#: recommender.py:325
+#: recommender.py:328
 msgid "The resource you are attempting to provide already exists"
 msgstr "The resource you are attempting to provide already exists"
 
-#: recommender.py:338
+#: recommender.py:341
 msgid ""
 "The resource you are attempting to provide has been disallowed by the staff."
 " Reason: "
@@ -37,37 +36,37 @@ msgstr ""
 "The resource you are attempting to provide has been disallowed by the staff."
 " Reason: "
 
-#: recommender.py:355
+#: recommender.py:358
 msgid "The selected resource does not exist"
 msgstr "The selected resource does not exist"
 
-#: recommender.py:403
+#: recommender.py:406
 msgid "Size of uploaded file exceeds threshold"
 msgstr "Size of uploaded file exceeds threshold"
 
-#: recommender.py:414
+#: recommender.py:417
 msgid "The configuration of pyfs is not properly set"
 msgstr "The configuration of pyfs is not properly set"
 
-#: recommender.py:753
+#: recommender.py:756
 msgid "Endorse resource without permission"
 msgstr "Endorse resource without permission"
 
-#: recommender.py:797
+#: recommender.py:800
 msgid "You don't have the permission to remove this resource"
 msgstr "You don't have the permission to remove this resource"
 
-#: recommender.py:848
+#: recommender.py:851
 msgid "Only staff can import resources"
 msgstr "Only staff can import resources"
 
-#: recommender.py:859 recommender.py:886
+#: recommender.py:862 recommender.py:889
 msgid ""
 "Please submit the JSON file obtained with the download resources button"
 msgstr ""
 "Please submit the JSON file obtained with the download resources button"
 
-#: recommender.py:899
+#: recommender.py:902
 msgid "Tried to access flagged resources without staff permission"
 msgstr "Tried to access flagged resources without staff permission"
 
