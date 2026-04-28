@@ -131,3 +131,44 @@ msgstr "Modifier le titre"
 #: cms/templates/studio_xblock_wrapper.html:219
 msgid "Unlink from Library"
 msgstr "Dissocier de la bibliothèque"
+
+# ---- new added strings which are used in theme ----
+
+msgid "Wishlist"
+msgstr "Liste de souhaits"
+
+msgid "Main Page"
+msgstr "Page principale"
+
+msgid "Community Forum"
+msgstr "Forum communautaire"
+
+msgid "Schools and Partners"
+msgstr "Écoles et partenaires"
+
+msgid "Course Categories"
+msgstr "Catégories de cours"
+
+msgid "About Us"
+msgstr "À propos de nous"
+
+msgid "Centers"
+msgstr "Centres"
+
+msgid "My Wishlist"
+msgstr "Ma liste de souhaits"
+
+msgid "You have no courses in your wishlist."
+msgstr "Vous n'avez aucun cours dans votre liste de souhaits."
+
+msgid "Open Course"
+msgstr "Cours ouvert"
+
+msgid "Go to main page"
+msgstr "Aller à la page principale"
+
+msgid "Privacy Policy for Sherab"
+msgstr "Politique de confidentialité de Sherab"
+
+msgid "Hi {username}, welcome to {platform_name}"
+msgstr "Bonjour {username}, bienvenue sur {platform_name}"

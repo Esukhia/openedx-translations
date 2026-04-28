@@ -8250,3 +8250,44 @@ msgstr "ཁྱེད་ཀྱི་བདག་དབང་གི་ལག་ད
 #: xmodule/capa/templates/codeinput.html:10
 msgid "Code Editor"
 msgstr "ཨང་བརྡ་རྩོམ་སྒྲིག་བྱེད་ས།"
+
+# ---- new added strings which are used in theme ----
+
+msgid "Wishlist"
+msgstr "འདུག་བཟུང་བར་བཀོད་ཀྱི་མཐུད"
+
+msgid "Main Page"
+msgstr "དབང་བའི་མིང་མང"
+
+msgid "Community Forum"
+msgstr "སྤྱོད་ནའི་འབད་བའི་མདོ"
+
+msgid "Schools and Partners"
+msgstr "དགོན་པའི་མཐོང་ཁང་མི་འགྱོལ་ཡོན"
+
+msgid "Course Categories"
+msgstr "མཚན་འབེབས་སྒོ་རིག"
+
+msgid "About Us"
+msgstr "ང་ཚོ་སྐོར།"
+
+msgid "Centers"
+msgstr "ཁང་ཚན་ཚོགས་པ།"
+
+msgid "My Wishlist"
+msgstr "ངའི་དགའ་ཐོ།"
+
+msgid "You have no courses in your wishlist."
+msgstr "ཁྱེད་ཀྱི་དགའ་ཐོའི་ནང་སློབ་ཚན་མེད།"
+
+msgid "Open Course"
+msgstr "སློབ་ཚན་ཁ་ཕྱེ།"
+
+msgid "Go to main page"
+msgstr "ངོས་དོན་ཤོག་ངོས་ལ་ཕེབས།"
+
+msgid "Privacy Policy for Sherab"
+msgstr "ཤེས་རབ་ཀྱི་གསང་སྲུང་སྒྲིག་འཛུགས།"
+
+msgid "Hi {username}, welcome to {platform_name}"
+msgstr "{username} ཁྱོད་ལ་ {platform_name} ཕེབས་པར་དགའ་བསུ་ཞུ།"
