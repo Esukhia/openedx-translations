@@ -3,10 +3,10 @@
 # Copyright (C) 2018 edX
 # This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
 # EdX Team <info@edx.org>, 2018.
-# 
+#
 # Translators:
 # Brian Smith, 2025
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: edx-proctoring\n"
@@ -15,8 +15,239 @@ msgstr ""
 "PO-Revision-Date: 2025-11-17 07:23+0000\n"
 "Last-Translator: Brian Smith, 2025\n"
 "Language-Team: French (https://app.transifex.com/open-edx/teams/6205/fr/)\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: fr\n"
 "Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+msgid "OK"
+msgstr "D&#39;ACCORD"
+
+msgid "Error Ending Exam"
+msgstr "Erreur de fin d&#39;examen"
+
+msgid ""
+"Something has gone wrong ending your exam. Please reload the page and start "
+"again."
+msgstr ""
+"Quelque chose s&#39;est mal passé lors de la fin de votre examen. Veuillez "
+"recharger la page et recommencer."
+
+msgid "Error Starting Exam"
+msgstr "Erreur lors du démarrage de l&#39;examen"
+
+msgid ""
+"Something has gone wrong starting your exam. Please double-check that the "
+"application is running."
+msgstr ""
+"Quelque chose s’est mal passé au début de votre examen. Veuillez vérifier "
+"que l&#39;application est en cours d&#39;exécution."
+
+msgid ""
+"Something has gone wrong starting your exam. Please reload the page and "
+"start again."
+msgstr ""
+"Quelque chose s’est mal passé au début de votre examen. Veuillez recharger "
+"la page et recommencer."
+
+msgid ""
+"Something has gone wrong ending your exam. Please double-check that the "
+"application is running."
+msgstr ""
+"Quelque chose s&#39;est mal passé lors de la fin de votre examen. Veuillez "
+"vérifier que l&#39;application est en cours d&#39;exécution."
+
+msgid "Review Policy Exception"
+msgstr "Exception aux règles d&#39;examen"
+
+msgid "Add Time(Minutes)"
+msgstr "Ajouter du temps (minutes)"
+
+msgid "Add Multiplier as a Number Greater Than 1"
+msgstr "Ajouter un multiplicateur sous la forme d&#39;un nombre supérieur à 1"
+
+msgid "Add Policy Exception"
+msgstr "Ajouter une exception à la stratégie"
+
+msgid "Required field"
+msgstr "champs requis"
+
+msgid "Additional Time (minutes)"
+msgstr "Temps supplémentaire (minutes)"
+
+msgid "Time Multiplier"
+msgstr "Multiplicateur de temps"
+
+msgid "Eligible"
+msgstr "Admissible"
+
+msgid "Created"
+msgstr "Créé"
+
+msgid "Download Software Clicked"
+msgstr "Télécharger le logiciel cliqué"
+
+msgid "Ready to start"
+msgstr "Prêt à commencer"
+
+msgid "Started"
+msgstr "Commencé"
+
+msgid "Ready to submit"
+msgstr "Prêt à soumettre"
+
+msgid "Declined"
+msgstr "Diminué"
+
+msgid "Timed out"
+msgstr "Fin du temps"
+
+msgid "Second Review Required"
+msgstr "Deuxième examen requis"
+
+msgid "Submitted"
+msgstr "Soumis"
+
+msgid "Verified"
+msgstr "Vérifié"
+
+msgid "Rejected"
+msgstr "Rejeté"
+
+msgid "Error"
+msgstr "Erreur"
+
+msgid "Onboarding Missing"
+msgstr "Intégration manquante"
+
+msgid "Onboarding Pending"
+msgstr "Intégration en attente"
+
+msgid "Onboarding Failed"
+msgstr "Échec de l&#39;intégration"
+
+msgid "Onboarding Expired"
+msgstr "Intégration expirée"
+
+msgid "Practice"
+msgstr "Pratique"
+
+msgid "Proctored"
+msgstr "Surveillé"
+
+msgid "Timed"
+msgstr "Chronométré"
+
+msgid "Are you sure you want to remove this student's exam attempt?"
+msgstr ""
+"Êtes-vous sûr de vouloir supprimer la tentative d&#39;examen de cet "
+"étudiant ?"
+
+msgid "Are you sure you want to resume this student's exam attempt?"
+msgstr ""
+"Êtes-vous sûr de vouloir reprendre la tentative d&#39;examen de cet "
+"étudiant ?"
+
+msgid "Not Started"
+msgstr "Pas commencé"
+
+msgid "You have not started your onboarding exam."
+msgstr "Vous n&#39;avez pas commencé votre examen d&#39;intégration."
+
+msgid "You have started your onboarding exam."
+msgstr "Vous avez commencé votre examen d&#39;intégration."
+
+msgid "You have submitted your onboarding exam."
+msgstr "Vous avez soumis votre examen d&#39;intégration."
+
+msgid "Your onboarding exam has been approved in this course."
+msgstr "Votre examen d&#39;intégration a été approuvé dans ce cours."
+
+msgid "Your onboarding exam has been rejected. Please retry onboarding."
+msgstr ""
+"Votre examen d&#39;intégration a été rejeté. Veuillez réessayer "
+"l&#39;intégration."
+
+msgid ""
+"An error has occurred during your onboarding exam. Please retry onboarding."
+msgstr ""
+"Une erreur s&#39;est produite lors de votre examen d&#39;intégration. "
+"Veuillez réessayer l&#39;intégration."
+
+msgid "Approved in Another Course"
+msgstr "Approuvé dans un autre cours"
+
+msgid "Your onboarding exam has been approved in another course."
+msgstr "Votre examen d&#39;intégration a été approuvé dans un autre cours."
+
+msgid ""
+"If your device has changed, we recommend that you complete this course's "
+"onboarding exam in order to ensure that your setup still meets the "
+"requirements for proctoring."
+msgstr ""
+"Si votre appareil a changé, nous vous recommandons de passer l&#39;examen "
+"d&#39;intégration de ce cours afin de vous assurer que votre configuration "
+"répond toujours aux exigences de surveillance."
+
+msgid "Expiring Soon"
+msgstr "Expire bientôt"
+
+msgid ""
+"Your onboarding profile has been approved. However, your onboarding status "
+"is expiring soon. Please complete onboarding again to ensure that you will "
+"be able to continue taking proctored exams."
+msgstr ""
+"Votre profil d&#39;intégration a été approuvé. Cependant, votre statut "
+"d&#39;intégration expire bientôt. Veuillez effectuer à nouveau "
+"l&#39;intégration pour vous assurer que vous pourrez continuer à passer les "
+"examens surveillés."
+
+msgid "Expired"
+msgstr "Expiré"
+
+msgid ""
+"Your onboarding status has expired. Please complete onboarding again to "
+"continue taking proctored exams."
+msgstr ""
+"Votre statut d&#39;intégration a expiré. Veuillez effectuer à nouveau "
+"l&#39;intégration pour continuer à passer les examens surveillés."
+
+msgid "Setup Started"
+msgstr "Installation démarrée"
+
+msgid "Onboarding Started"
+msgstr "Intégration commencée"
+
+msgid "Onboarding Reset Failed Due to Past Due Exam"
+msgstr ""
+"La réinitialisation de l&#39;intégration a échoué en raison d&#39;un examen "
+"en souffrance"
+
+msgid "Audit"
+msgstr "Audit"
+
+msgid "Honor"
+msgstr "Honneur"
+
+msgid "Professional"
+msgstr "Professionnel"
+
+msgid "No ID Professional"
+msgstr "Pas d&#39;identification professionnelle"
+
+msgid "Credit"
+msgstr "Crédit"
+
+msgid "Master's"
+msgstr "Maîtrise"
+
+msgid "Executive Education"
+msgstr "Formation des cadres"
+
+msgid ""
+"Are you sure you want to leave this page? \n"
+"To pass your proctored exam you must also pass the online proctoring session review."
+msgstr ""
+"Êtes-vous sûr de vouloir quitter cette page ?\n"
+" Pour réussir votre examen surveillé, vous devez également réussir l&#39;examen de la session de surveillance en ligne."

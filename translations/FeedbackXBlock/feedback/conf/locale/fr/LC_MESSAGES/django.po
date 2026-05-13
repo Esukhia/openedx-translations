@@ -2,10 +2,10 @@
 # Copyright (C) 2025 EdX
 # This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
 # EdX Team <info@edx.org>, 2025.
-# 
+#
 # Translators:
 # Brian Smith, 2025
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1a\n"
@@ -14,8 +14,240 @@ msgstr ""
 "PO-Revision-Date: 2025-11-17 07:23+0000\n"
 "Last-Translator: Brian Smith, 2025\n"
 "Language-Team: French (https://app.transifex.com/open-edx/teams/6205/fr/)\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: fr\n"
 "Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+msgid "What did you learn from this? What was missing?"
+msgstr "Qu’avez-vous appris de cela ? Ce qui manquait?"
+
+msgid "How would you rate this as a learning experience?"
+msgstr ""
+"Comment qualifieriez-vous cela en tant qu’expérience d’apprentissage ?"
+
+msgid ""
+"Think about the material, and try to synthesize key lessons learned, as well"
+" as key gaps in our presentation."
+msgstr ""
+"Réfléchissez au matériel et essayez de synthétiser les principales leçons "
+"apprises, ainsi que les principales lacunes de notre présentation."
+
+msgid ""
+"Take a little bit of time to reflect here. Research shows that a meaningful "
+"synthesis will help you better understand and remember material from this "
+"course."
+msgstr ""
+"Prenez un peu de temps pour réfléchir ici. La recherche montre qu&#39;une "
+"synthèse significative vous aidera à mieux comprendre et à mémoriser le "
+"contenu de ce cours."
+
+msgid "Excellent"
+msgstr "Excellent"
+
+msgid "Good"
+msgstr "Bien"
+
+msgid "Average"
+msgstr "Moyenne"
+
+msgid "Fair"
+msgstr "Équitable"
+
+msgid "Poor"
+msgstr "Pauvre"
+
+msgid "Freeform user prompt"
+msgstr "Invite utilisateur de forme libre"
+
+msgid "Random number generated for p. -1 if uninitialized"
+msgstr "Nombre aléatoire généré pour p. -1 si non initialisé"
+
+msgid "How user voted. -1 if didn't vote"
+msgstr "Comment l&#39;utilisateur a voté. -1 si je n&#39;ai pas voté"
+
+msgid "What percent of the time should this show?"
+msgstr "Quel pourcentage du temps cela devrait-il afficher ?"
+
+msgid "A list of user votes"
+msgstr "Une liste de votes des utilisateurs"
+
+msgid "Feedback"
+msgstr "Retour"
+
+msgid "Display Name"
+msgstr "Afficher un nom"
+
+msgid "Provide Feedback"
+msgstr "Fournir une réponse"
+
+msgid "Voting message"
+msgstr "Message de vote"
+
+msgid "Thank you for voting!"
+msgstr "Merci d&#39;avoir voté!"
+
+msgid "Feedback message"
+msgstr "Message de commentaires"
+
+msgid "Thank you for your feedback!"
+msgstr "Merci pour votre avis!"
+
+msgid "Show aggregate to students"
+msgstr "Afficher l&#39;agrégat aux étudiants"
+
+msgid "Please reflect on this course material"
+msgstr "Veuillez réfléchir à ce matériel de cours"
+
+msgid ""
+"Please take time to meaningfully reflect on your experience with this course"
+" material."
+msgstr ""
+"Veuillez prendre le temps de réfléchir de manière significative à votre "
+"expérience avec ce matériel de cours."
+
+msgid "Please rate your overall experience"
+msgstr "Veuillez évaluer votre expérience globale"
+
+msgid "Please take a moment to thoughtfully reflect."
+msgstr "Veuillez prendre un moment pour réfléchir attentivement."
+
+msgid "Please vote!"
+msgstr "S&#39;il vous plait, votez!"
+
+msgid "Component"
+msgstr "Composant"
+
+msgid "Number of ratings"
+msgstr "Nombre de notes"
+
+msgid "Average rating"
+msgstr "Note moyenne"
+
+msgid "Feedback "
+msgstr "Retour "
+
+msgid "Comment"
+msgstr "Commentaire"
+
+msgid "Vote"
+msgstr "Vote"
+
+msgid "No vote"
+msgstr "Pas de vote"
+
+msgid "Submit Feedback"
+msgstr "Soumettre des commentaires"
+
+msgid ""
+"This XBlock allows you to collect student feedback on pieces of the course. "
+"This may be helpful either for course improvement, or to give students a "
+"chance to reflect on what they have done."
+msgstr ""
+"Ce XBlock vous permet de recueillir les commentaires des étudiants sur des "
+"parties du cours. Cela peut être utile soit pour améliorer le cours, soit "
+"pour donner aux étudiants l&#39;occasion de réfléchir à ce qu&#39;ils ont "
+"fait."
+
+msgid "Display name"
+msgstr "Afficher un nom"
+
+msgid "The name of the component."
+msgstr "Le nom du composant."
+
+msgid "The message to show after user vote."
+msgstr "Le message à afficher après le vote de l&#39;utilisateur."
+
+msgid "The message to show after user feedback."
+msgstr "Le message à afficher après les commentaires des utilisateurs."
+
+msgid "Show aggregate report to students"
+msgstr "Afficher le rapport global aux étudiants"
+
+msgid "False"
+msgstr "FAUX"
+
+msgid "True"
+msgstr "Vrai"
+
+msgid "Wheter to show the aggregate report to students."
+msgstr ""
+
+msgid "Freeform prompt"
+msgstr "Invite de forme libre"
+
+msgid "Example: Please provide us feedback on this section."
+msgstr ""
+"Exemple : veuillez nous faire part de vos commentaires sur cette section."
+
+msgid "Freeform placeholder"
+msgstr "Espace réservé de forme libre"
+
+msgid "This is shown as grayed out text before the student has answered."
+msgstr ""
+"Ceci est affiché sous forme de texte grisé avant que l&#39;étudiant "
+"n&#39;ait répondu."
+
+msgid "Likert icon set"
+msgstr "Jeu d&#39;icônes Likert"
+
+msgid "Faces (happy to sad)"
+msgstr "Visages (heureux à triste)"
+
+msgid "Faces (sad to happy to sad)"
+msgstr ""
+
+msgid "Numeric"
+msgstr "Numérique"
+
+msgid "Stars"
+msgstr "Étoiles"
+
+msgid "We can either show happy/sad faces, numbers 1-5 or stars."
+msgstr ""
+"Nous pouvons soit montrer des visages heureux/tristes, des chiffres de 1 à 5"
+" ou des étoiles."
+
+msgid "Likert prompt"
+msgstr "Invite Likert"
+
+msgid "Example: Please rate your overall experience with this section."
+msgstr ""
+"Exemple : Veuillez évaluer votre expérience globale avec cette section."
+
+msgid "Likert option 1"
+msgstr "Option de Likert 1"
+
+msgid "Example: Excellent!"
+msgstr "Exemple : Excellent !"
+
+msgid "Likert option 2"
+msgstr "Option de Likert 2"
+
+msgid "Example: Good"
+msgstr "Exemple : Bien"
+
+msgid "Likert option 3"
+msgstr "Option de Likert 3"
+
+msgid "Example: Average"
+msgstr "Exemple : Moyenne"
+
+msgid "Likert option 4"
+msgstr "Option de Likert 4"
+
+msgid "Example: Fair"
+msgstr "Exemple : Juste"
+
+msgid "Likert option 5"
+msgstr "Option de Likert 5"
+
+msgid "Example: Poor"
+msgstr "Exemple : Pauvre"
+
+msgid "Save"
+msgstr "Sauvegarder"
+
+msgid "Cancel"
+msgstr "Annuler"

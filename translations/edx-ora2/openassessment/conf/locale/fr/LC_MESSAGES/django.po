@@ -29,3 +29,2364 @@ msgstr ""
 
 msgid "Enter your response to the question above."
 msgstr ""
+
+msgid "Could not parse serialized rubric"
+msgstr "Impossible d&#39;analyser la rubrique sérialisée"
+
+msgid ""
+"If your assignment includes a learner training step, the rubric must have at"
+" least one criterion, and that criterion must have at least one option."
+msgstr ""
+"Si votre mission comprend une étape de formation des apprenants, la rubrique"
+" doit avoir au moins un critère, et ce critère doit avoir au moins une "
+"option."
+
+msgid "Example {example_number} has a validation error: {error}"
+msgstr "L&#39;exemple {example_number} a une erreur de validation : {error}"
+
+msgid ""
+"Example {example_number} has an invalid option for \"{criterion_name}\": "
+"\"{option_name}\""
+msgstr ""
+"L&#39;exemple {example_number} a une option non valide pour &quot; "
+"{criterion_name} &quot; : &quot; {option_name} &quot;"
+
+msgid "Example {example_number} has an extra option for \"{criterion_name}\""
+msgstr ""
+"L&#39;exemple {example_number} a une option supplémentaire pour &quot; "
+"{criterion_name} &quot;"
+
+msgid "Example {example_number} is missing an option for \"{criterion_name}\""
+msgstr ""
+"Dans l&#39;exemple {example_number} il manque une option pour &quot; "
+"{criterion_name} &quot;"
+
+msgid "Peer"
+msgstr "Pair"
+
+msgid "Self"
+msgstr "Soi"
+
+msgid "Staff"
+msgstr "Personnel"
+
+msgid "Unknown"
+msgstr "Inconnu"
+
+msgid "Criterion {number}: {label}"
+msgstr "Critère {number} : {label}"
+
+msgid "Points {number}"
+msgstr "Points {number}"
+
+msgid "Median Score {number}"
+msgstr "Score médian {number}"
+
+msgid "Feedback {number}"
+msgstr "Commentaires {number}"
+
+msgid "Item ID"
+msgstr "ID de l&#39;article"
+
+msgid "Submission ID"
+msgstr "ID de soumission"
+
+msgid "Anonymized Student ID"
+msgstr "Carte d&#39;étudiant anonymisée"
+
+msgid "Assessment ID"
+msgstr "ID d&#39;évaluation"
+
+msgid "Assessment Scored Date"
+msgstr "Date de notation de l&#39;évaluation"
+
+msgid "Assessment Scored Time"
+msgstr "Temps noté pour l&#39;évaluation"
+
+msgid "Assessment Type"
+msgstr "Type d&#39;évaluation"
+
+msgid "Anonymous Scorer Id"
+msgstr "Identifiant du buteur anonyme"
+
+msgid "Overall Feedback"
+msgstr "Commentaires globaux"
+
+msgid "Assessment Score Earned"
+msgstr "Score d&#39;évaluation obtenu"
+
+msgid "Assessment Scored At"
+msgstr "Évaluation notée à"
+
+msgid "Date/Time Final Score Given"
+msgstr "Date/heure Score final attribué"
+
+msgid "Final Score Earned"
+msgstr "Score final obtenu"
+
+msgid "Final Score Possible"
+msgstr "Score final possible"
+
+msgid "Feedback Statements Selected"
+msgstr "Déclarations de commentaires sélectionnées"
+
+msgid "Feedback on Assessment"
+msgstr "Commentaires sur l&#39;évaluation"
+
+msgid "Response Files"
+msgstr "Fichiers de réponses"
+
+msgid "No description provided."
+msgstr "Aucune description fournie."
+
+msgid "None"
+msgstr "Aucun"
+
+msgid "Save"
+msgstr "Sauvegarder"
+
+msgid "Cancel"
+msgstr "Annuler"
+
+msgid ""
+"Open Response Assessments allow you to configure single or multiple steps in"
+" a rubric based open response assessment sequence. The steps available below"
+" can be enabled, disable, and ordered for a flexible set of pedagogical "
+"needs."
+msgstr ""
+"Les évaluations à réponse ouverte vous permettent de configurer une ou "
+"plusieurs étapes dans une séquence d&#39;évaluation à réponse ouverte basée "
+"sur une rubrique. Les étapes disponibles ci-dessous peuvent être activées, "
+"désactivées et commandées pour un ensemble flexible de besoins pédagogiques."
+
+msgid "Display Name "
+msgstr "Afficher un nom "
+
+msgid "The display name for this component."
+msgstr "Le nom d&#39;affichage de ce composant."
+
+msgid "Text Response"
+msgstr "Réponse textuelle"
+
+msgid ""
+"Specify whether learners must include a text based response to this "
+"problem's prompt."
+msgstr ""
+"Spécifiez si les apprenants doivent inclure une réponse textuelle à "
+"l&#39;invite de ce problème."
+
+msgid "Response Editor"
+msgstr "Éditeur de réponse"
+
+msgid ""
+"Select which editor learners will use to include a text based response to "
+"this problem's prompt."
+msgstr ""
+"Sélectionnez l&#39;éditeur que les apprenants utiliseront pour inclure une "
+"réponse textuelle à l&#39;invite de ce problème."
+
+msgid "File Uploads Response"
+msgstr "Réponse aux téléchargements de fichiers"
+
+msgid ""
+"Specify whether learners are able to upload files as a part of their "
+"response."
+msgstr ""
+"Précisez si les apprenants peuvent télécharger des fichiers dans le cadre de"
+" leur réponse."
+
+msgid "Allow Multiple Files"
+msgstr "Autoriser plusieurs fichiers"
+
+msgid "False"
+msgstr "FAUX"
+
+msgid "True"
+msgstr "Vrai"
+
+msgid ""
+"Specify whether learners can upload more than one file. This has no effect "
+"if File Uploads Response is set to None. This is automatically set to True "
+"for Team Assignments. "
+msgstr ""
+"Spécifiez si les apprenants peuvent télécharger plusieurs fichiers. Cela "
+"n&#39;a aucun effet si la réponse aux téléchargements de fichiers est "
+"définie sur Aucun. Ceci est automatiquement défini sur True pour les "
+"affectations d’équipe. "
+
+msgid "File Upload Types"
+msgstr "Types de téléchargement de fichiers"
+
+msgid "PDF or Image Files"
+msgstr "Fichiers PDF ou images"
+
+msgid "Image Files"
+msgstr "Fichiers images"
+
+msgid "Custom File Types"
+msgstr "Types de fichiers personnalisés"
+
+msgid ""
+"Specify whether learners can submit files along with their text responses."
+msgstr ""
+"Spécifiez si les apprenants peuvent soumettre des fichiers avec leurs "
+"réponses textuelles."
+
+msgid "File Types"
+msgstr "Types de fichier"
+
+msgid ""
+"Enter the file extensions, separated by commas, that you want learners to be"
+" able to upload. For example: pdf,doc,docx."
+msgstr ""
+"Saisissez les extensions de fichiers, séparées par des virgules, que vous "
+"souhaitez que les apprenants puissent télécharger. Par exemple : "
+"pdf,doc,docx."
+
+msgid ""
+"To add more file extensions, select Custom File Types and enter the full "
+"list of acceptable file extensions to be included."
+msgstr ""
+"Pour ajouter plus d&#39;extensions de fichiers, sélectionnez Types de "
+"fichiers personnalisés et entrez la liste complète des extensions de "
+"fichiers acceptables à inclure."
+
+msgid "Allow LaTeX Responses"
+msgstr "Autoriser les réponses LaTeX"
+
+msgid "Specify whether learners can write LaTeX formatted strings"
+msgstr ""
+"Spécifiez si les apprenants peuvent écrire des chaînes au format LaTeX"
+
+msgid "Top Responses"
+msgstr "Principales réponses"
+
+msgid " (Disabled)"
+msgstr " (Désactivé)"
+
+msgid ""
+"Specify the number of top scoring responses to display after the learner has"
+" submitted a response. Valid numbers are 0 to 99. If the number is 0, the "
+"Top Responses section does not appear to learners."
+msgstr ""
+"Spécifiez le nombre de réponses les mieux notées à afficher une fois que "
+"l&#39;apprenant a soumis une réponse. Les nombres valides sont compris entre"
+" 0 et 99. Si le nombre est 0, la section Principales réponses n&#39;apparaît"
+" pas aux apprenants."
+
+msgid "When Teams Enabled is set to true, Top Responses will be disabled."
+msgstr ""
+"Lorsque Teams Enabled est défini sur true, les principales réponses seront "
+"désactivées."
+
+msgid "Teams Enabled"
+msgstr "Équipes activées"
+
+msgid "Specify whether team submissions are allowed for this response."
+msgstr ""
+"Spécifiez si les soumissions d&#39;équipe sont autorisées pour cette "
+"réponse."
+
+msgid "Select Team-Set"
+msgstr "Sélectionnez un ensemble d&#39;équipe"
+
+msgid "Show Rubric During Response"
+msgstr "Afficher la rubrique pendant la réponse"
+
+msgid ""
+"Specify whether learners can see the rubric while they are working on their "
+"response."
+msgstr ""
+"Précisez si les apprenants peuvent voir la grille d’évaluation pendant "
+"qu’ils travaillent sur leur réponse."
+
+msgid "Allow Learner Resubmissions"
+msgstr "Autoriser les resoumissions des apprenants"
+
+msgid ""
+"Set to TRUE to allow learners to resubmit ungraded work. Set to FALSE if "
+"resubmissions are not allowed."
+msgstr ""
+"Définissez sur TRUE pour permettre aux apprenants de soumettre à nouveau des"
+" travaux non notés. Définissez sur FALSE si les resoumissions ne sont pas "
+"autorisées."
+
+msgid "Resubmission Grace Period"
+msgstr "Délai de grâce pour la nouvelle soumission"
+
+msgid ""
+"Specify the maximum period during which resubmissions are allowed. If left "
+"blank, learners will be able to reset their submission as long as it has not"
+" been graded. The grace period starts once the learner has submitted their "
+"response."
+msgstr ""
+"Précisez la période maximale pendant laquelle les resoumissions sont "
+"autorisées. Si ce champ est laissé vide, les apprenants pourront "
+"réinitialiser leur soumission tant qu&#39;elle n&#39;a pas été notée. Le "
+"délai de grâce commence une fois que l&#39;apprenant a soumis sa réponse."
+
+msgid "Criterion"
+msgstr "Critère"
+
+msgid "You cannot delete a criterion after the assignment has been released."
+msgstr ""
+"Vous ne pouvez pas supprimer un critère une fois l&#39;affectation validée."
+
+msgid "Remove"
+msgstr "Retirer"
+
+msgid "Criterion Name"
+msgstr "Nom du critère"
+
+msgid "Criterion Prompt"
+msgstr "Invite de critères"
+
+msgid "Add Option"
+msgstr "Ajouter une option"
+
+msgid "Feedback for This Criterion"
+msgstr "Commentaires pour ce critère"
+
+msgid "Optional"
+msgstr "Facultatif"
+
+msgid "Required"
+msgstr "Requis"
+
+msgid ""
+"Select one of the options above. This describes whether or not the reviewer "
+"will have to provide criterion feedback."
+msgstr ""
+"Sélectionnez l&#39;une des options ci-dessus. Ceci décrit si "
+"l&#39;évaluateur devra ou non fournir des commentaires sur les critères."
+
+msgid "Open Response Assessment"
+msgstr "Évaluation à réponse ouverte"
+
+msgid "Prompt"
+msgstr "Rapide"
+
+msgid "Rubric"
+msgstr "Rubrique"
+
+msgid "Schedule"
+msgstr "Calendrier"
+
+msgid "Assessment steps"
+msgstr "Étapes d&#39;évaluation"
+
+msgid "Settings"
+msgstr "Paramètres"
+
+msgid "Option"
+msgstr "Option"
+
+msgid "Option Name"
+msgstr "Nom de l&#39;option"
+
+msgid "Option Points"
+msgstr "Points d&#39;options"
+
+msgid "Option Explanation"
+msgstr "Explication des options"
+
+msgid "Step: Peer Assessment"
+msgstr "Étape : Évaluation par les pairs"
+
+msgid ""
+"Peer Assessment allows students to provide feedback to other students and "
+"also receive feedback from others in their final grade. Often, though not "
+"always, this step is preceded by Self Assessment or Learner Training steps."
+msgstr ""
+"L&#39;évaluation par les pairs permet aux étudiants de fournir des "
+"commentaires aux autres étudiants et également de recevoir des commentaires "
+"des autres dans leur note finale. Souvent, mais pas toujours, cette étape "
+"est précédée d’étapes d’auto-évaluation ou de formation des apprenants."
+
+msgid ""
+"Configuration: For this step to be configured you must specify the number of"
+" peer reviews a student will be assessed with, and the number of peer a "
+"student must grade. Additional options can be specified."
+msgstr ""
+"Configuration : Pour que cette étape soit configurée, vous devez spécifier "
+"le nombre d&#39;évaluations par les pairs avec lesquelles un étudiant sera "
+"évalué, ainsi que le nombre de pairs qu&#39;un étudiant doit noter. Des "
+"options supplémentaires peuvent être spécifiées."
+
+msgid "View Options & Configuration"
+msgstr "Afficher les options et la configuration"
+
+msgid "Must Grade"
+msgstr "Doit être noté"
+
+msgid ""
+"Specify the number of peer assessments that each learner must complete. "
+"Valid numbers are 1 to 99."
+msgstr ""
+"Précisez le nombre d’évaluations par les pairs que chaque apprenant doit "
+"réaliser. Les nombres valides vont de 1 à 99."
+
+msgid "Graded By"
+msgstr "Noté par"
+
+msgid ""
+"Specify the number of learners that each response must be assessed by. Valid"
+" numbers are 1 to 99."
+msgstr ""
+"Précisez le nombre d’apprenants par lesquels chaque réponse doit être "
+"évaluée. Les nombres valides vont de 1 à 99."
+
+msgid "Enable Flexible Peer Grade Averaging"
+msgstr "Activer une moyenne flexible des notes des pairs"
+
+msgid ""
+"When enabled, learners who have received at least 30%% of the required \\"
+msgstr ""
+"Lorsqu&#39;il est activé, les apprenants qui ont reçu au moins 30 %% du \\ "
+"requis"
+
+msgid ""
+"This feature is being enabled by the course-level setting. It can be found "
+"under the Open Response Assessment Settings card on the Pages & Resources "
+"studio page."
+msgstr ""
+"Cette fonctionnalité est activée par le paramètre au niveau du cours. Il se "
+"trouve sous la carte Paramètres d’évaluation Open Response sur la page du "
+"studio Pages &amp; Ressources."
+
+msgid "Grading strategy for the peer assessment"
+msgstr "Stratégie de notation pour l&#39;évaluation par les pairs"
+
+msgid "Mean"
+msgstr "Signifier"
+
+msgid "Median (default)"
+msgstr "Médiane (par défaut)"
+
+msgid ""
+"Select the preferred grading strategy for the peer assessment. By default, "
+"the median across all peer reviews is used to calculate the final grade. If "
+"you select the mean, the average of all peer reviews will be used."
+msgstr ""
+"Sélectionnez la stratégie de notation préférée pour l’évaluation par les "
+"pairs. Par défaut, la médiane de toutes les évaluations par les pairs est "
+"utilisée pour calculer la note finale. Si vous sélectionnez la moyenne, la "
+"moyenne de toutes les évaluations par les pairs sera utilisée."
+
+msgid "Peer Assessment Deadlines"
+msgstr "Dates limites d’évaluation par les pairs"
+
+msgid "Start Date"
+msgstr "Date de début"
+
+msgid "Start Time"
+msgstr "Heure de début"
+
+msgid "The date and time when learners can begin assessing peer responses."
+msgstr ""
+"La date et l’heure auxquelles les apprenants peuvent commencer à évaluer les"
+" réponses de leurs pairs."
+
+msgid "Due Date"
+msgstr "Date d&#39;échéance"
+
+msgid "Due Time"
+msgstr "Délai"
+
+msgid "The date and time when all peer assessments must be complete."
+msgstr ""
+"La date et l’heure auxquelles toutes les évaluations par les pairs doivent "
+"être terminées."
+
+msgid "You cannot delete a prompt after the assignment has been released."
+msgstr ""
+"Vous ne pouvez pas supprimer une invite une fois l&#39;affectation libérée."
+
+msgid ""
+"Prompts. Replace the sample text with your own text. For more information, "
+"see the ORA documentation."
+msgstr ""
+"Instructions. Remplacez l’exemple de texte par votre propre texte. Pour plus"
+" d&#39;informations, consultez la documentation ORA."
+
+msgid "Add Prompt"
+msgstr "Ajouter une invite"
+
+msgid ""
+"Rubrics are made up of criteria, which usually contain one or more options. "
+"Each option has a point value. This template contains two sample criteria "
+"and their options. Replace the sample text with your own text. For more "
+"information, see the ORA documentation."
+msgstr ""
+"Les rubriques sont constituées de critères qui contiennent généralement une "
+"ou plusieurs options. Chaque option a une valeur en points. Ce modèle "
+"contient deux exemples de critères et leurs options. Remplacez l’exemple de "
+"texte par votre propre texte. Pour plus d&#39;informations, consultez la "
+"documentation ORA."
+
+msgid "Add Criterion"
+msgstr "Ajouter un critère"
+
+msgid "Feedback for This Response"
+msgstr "Commentaires pour cette réponse"
+
+msgid "Feedback Instructions"
+msgstr "Instructions de rétroaction"
+
+msgid ""
+"Encourage learners to provide feedback on the response they have graded. You"
+" can replace the sample text with your own."
+msgstr ""
+"Encouragez les apprenants à donner leur avis sur la réponse qu’ils ont "
+"notée. Vous pouvez remplacer l&#39;exemple de texte par le vôtre."
+
+msgid "Default Feedback Text"
+msgstr "Texte de commentaires par défaut"
+
+msgid ""
+"Enter feedback text that learners will see before they enter their own "
+"feedback. Use this text to show learners a good example peer assessment."
+msgstr ""
+"Saisissez le texte des commentaires que les apprenants verront avant de "
+"saisir leurs propres commentaires. Utilisez ce texte pour montrer aux "
+"apprenants un bon exemple d’évaluation par les pairs."
+
+msgid "Deadlines Configuration"
+msgstr "Configuration des délais"
+
+msgid "Select a deadline configuration option"
+msgstr "Sélectionnez une option de configuration de date limite"
+
+msgid "Configure deadlines manually"
+msgstr "Configurer les délais manuellement"
+
+msgid "Match deadlines to the subsection due date"
+msgstr ""
+"Faire correspondre les délais avec la date d&#39;échéance de la sous-section"
+
+msgid "Match deadlines to the course end date"
+msgstr "Faire correspondre les délais à la date de fin du cours"
+
+msgid "Learn more about open response date settings"
+msgstr "En savoir plus sur les paramètres de date de réponse ouverte"
+
+msgid "Response Start Date"
+msgstr "Date de début de réponse"
+
+msgid "Response Start Time"
+msgstr "Heure de début de réponse"
+
+msgid "The date and time when learners can begin submitting responses."
+msgstr ""
+"La date et l&#39;heure auxquelles les apprenants peuvent commencer à "
+"soumettre leurs réponses."
+
+msgid "Response Due Date"
+msgstr "Date d&#39;échéance de la réponse"
+
+msgid "Response Due Time"
+msgstr "Délai de réponse"
+
+msgid "The date and time when learners can no longer submit responses."
+msgstr ""
+"La date et l&#39;heure auxquelles les apprenants ne peuvent plus soumettre "
+"de réponses."
+
+msgid "Step: Self Assessment"
+msgstr "Étape : Auto-évaluation"
+
+msgid ""
+"Self Assessment asks learners to grade their own submissions against the "
+"rubric."
+msgstr ""
+"L&#39;auto-évaluation demande aux apprenants de noter leurs propres "
+"soumissions par rapport à la rubrique."
+
+msgid "Self Assessment Deadlines"
+msgstr "Dates limites d’auto-évaluation"
+
+msgid "The date and time when learners can begin assessing their responses."
+msgstr ""
+"La date et l’heure auxquelles les apprenants peuvent commencer à évaluer "
+"leurs réponses."
+
+msgid "The date and time when all self assessments must be complete."
+msgstr ""
+"La date et l’heure auxquelles toutes les auto-évaluations doivent être "
+"terminées."
+
+msgid "Step: Staff Assessment"
+msgstr "Étape : Évaluation du personnel"
+
+msgid ""
+"Staff Assessment gates sets the final grade for students if enabled with "
+"other steps, though it can also be used as a standalone step."
+msgstr ""
+"Les portes d&#39;évaluation du personnel définissent la note finale des "
+"étudiants si elles sont activées avec d&#39;autres étapes, bien qu&#39;elles"
+" puissent également être utilisées comme étape autonome."
+
+msgid "Step: Learner Training"
+msgstr "Étape : Formation des apprenants"
+
+msgid ""
+"Learner Training is used to help students practice grading a simulated peer "
+"submission in order to train them on the rubric and ensure learner's "
+"understand the rubric for either Self or Peer Assessment steps."
+msgstr ""
+"La formation des apprenants est utilisée pour aider les étudiants à "
+"s&#39;entraîner à noter une soumission simulée par un pair afin de les "
+"former à la rubrique et de garantir que l&#39;apprenant comprend la rubrique"
+" pour les étapes d&#39;auto-évaluation ou d&#39;évaluation par les pairs."
+
+msgid ""
+"Configuration: For this step to be fully configured you must provide one or "
+"more graded sample responses. Learners must then match this instructor score"
+" to advance and are provided feedback when their score doesn't match the "
+"sample response."
+msgstr ""
+"Configuration : pour que cette étape soit entièrement configurée, vous devez"
+" fournir un ou plusieurs exemples de réponses notées. Les apprenants doivent"
+" ensuite faire correspondre le score de l&#39;instructeur pour avancer et "
+"reçoivent un retour lorsque leur score ne correspond pas à l&#39;exemple de "
+"réponse."
+
+msgid "View / Add Sample Responses"
+msgstr "Afficher/Ajouter des exemples de réponses"
+
+msgid "Add Sample Response"
+msgstr "Ajouter un exemple de réponse"
+
+msgid "Clone Rubric"
+msgstr "Rubrique Cloner"
+
+msgid ""
+"To clone a rubric from an existing published or unpublished draft, you can "
+"search by the Block ID. Note that cloning is one-way, meaning changes made "
+"after cloning will only affect the rubric being modified, and will not "
+"modify any rubric it was cloned from."
+msgstr ""
+"Pour cloner une rubrique à partir d&#39;un brouillon existant publié ou non "
+"publié, vous pouvez effectuer une recherche par ID de bloc. Notez que le "
+"clonage est unidirectionnel, ce qui signifie que les modifications apportées"
+" après le clonage n&#39;affecteront que la rubrique en cours de modification"
+" et ne modifieront aucune rubrique à partir de laquelle elle a été clonée."
+
+msgid "Block ID For this ORA:"
+msgstr "ID de bloc Pour cet ORA :"
+
+msgid "Block ID"
+msgstr "Identifiant de blocage"
+
+msgid "No other Open Response Assessments found in course"
+msgstr "Aucune autre évaluation à réponse ouverte trouvée dans le cours"
+
+msgid "Clone"
+msgstr "Cloner"
+
+msgid "Rubric Successfully Cloned from Block ID: "
+msgstr "Rubrique clonée avec succès à partir de l&#39;ID de bloc : "
+
+msgid "Scored Response"
+msgstr "Réponse notée"
+
+msgid "Response Score"
+msgstr "Score de réponse"
+
+msgid "Response"
+msgstr "Réponse"
+
+msgid "Not Selected"
+msgstr "Non séléctionné"
+
+msgid "points"
+msgstr "points"
+
+msgid ""
+"\n"
+"                %(start_tag)s%(title)s%(end_tag)s%(start_grade_tag)s - %(grade)s%(end_tag)s\n"
+"              "
+msgstr ""
+"\n"
+"%(start_tag)s %(title)s %(end_tag)s %(start_grade_tag)s - %(grade)s %(end_tag)s\n"
+"              "
+
+msgid "More information about %(name)s"
+msgstr "Plus d&#39;informations sur %(name)s"
+
+msgid "Your Grade"
+msgstr "Ton niveau"
+
+msgid ""
+"\n"
+"                                        %(points_earned)s out of %(points_possible)s\n"
+"                                    "
+msgstr ""
+"\n"
+"%(points_earned)s sur %(points_possible)s\n"
+"                                    "
+
+msgid "Your submission has been cancelled."
+msgstr "Votre soumission a été annulée."
+
+msgid ""
+"\n"
+"                                            %(points_earned)s out of %(points_possible)s\n"
+"                                        "
+msgstr ""
+"\n"
+"%(points_earned)s sur %(points_possible)s\n"
+"                                        "
+
+msgid "Your Response"
+msgstr "Votre réponse"
+
+msgid "Your Upload"
+msgstr "Votre téléchargement"
+
+msgid "Assessments of Your Response"
+msgstr "Évaluations de votre réponse"
+
+msgid "Status"
+msgstr "Statut"
+
+msgid "Overall Grade"
+msgstr "Note globale"
+
+msgid "Points"
+msgstr "Points"
+
+msgid "Additional comments on your response"
+msgstr "Commentaires supplémentaires sur votre réponse"
+
+msgid "Provide feedback on peer assessments"
+msgstr "Fournir des commentaires sur les évaluations par les pairs"
+
+msgid "Submitting Feedback"
+msgstr "Soumettre des commentaires"
+
+msgid ""
+"Your feedback has been submitted. Course staff will be able to see this "
+"feedback when they review course records."
+msgstr ""
+"Vos commentaires ont été soumis. Le personnel du cours pourra voir ces "
+"commentaires lorsqu’il examinera les dossiers du cours."
+
+msgid ""
+"Course staff will be able to see any feedback that you provide here when "
+"they review course records."
+msgstr ""
+"Le personnel du cours pourra voir tous les commentaires que vous fournissez "
+"ici lorsqu&#39;il examinera les dossiers du cours."
+
+msgid ""
+"Select the statements below that best reflect your experience with peer "
+"assessments."
+msgstr ""
+"Sélectionnez les énoncés ci-dessous qui reflètent le mieux votre expérience "
+"des évaluations par les pairs."
+
+msgid "These assessments were useful."
+msgstr "Ces évaluations ont été utiles."
+
+msgid "These assessments were not useful."
+msgstr "Ces évaluations n’ont pas été utiles."
+
+msgid "I disagree with one or more of the peer assessments of my response."
+msgstr ""
+"Je ne suis pas d&#39;accord avec une ou plusieurs des évaluations par les "
+"pairs de ma réponse."
+
+msgid "Some comments I received were inappropriate."
+msgstr "Certains commentaires que j&#39;ai reçus étaient inappropriés."
+
+msgid ""
+"Provide feedback on the grade or comments that you received from your peers."
+msgstr ""
+"Fournissez des commentaires sur la note ou les commentaires que vous avez "
+"reçus de vos pairs."
+
+msgid "I feel the feedback I received was..."
+msgstr "Je pense que les commentaires que j&#39;ai reçus étaient..."
+
+msgid "We could not submit your feedback"
+msgstr "Nous n&#39;avons pas pu soumettre vos commentaires"
+
+msgid "Submit feedback on peer assessments"
+msgstr "Soumettre des commentaires sur les évaluations par les pairs"
+
+msgid "Not Completed"
+msgstr "Pas achevé"
+
+msgid "You have not completed all the steps of this problem."
+msgstr "Vous n&#39;avez pas terminé toutes les étapes de ce problème."
+
+msgid "Not Started"
+msgstr "Pas commencé"
+
+msgid "You have not started this problem yet."
+msgstr "Vous n&#39;avez pas encore commencé ce problème."
+
+msgid "Waiting for Assessments"
+msgstr "En attente des évaluations"
+
+msgid ""
+"You have completed your steps in the assignment, but some assessments still "
+"need to be done on your response. When the assessments of your response are "
+"complete, you will see feedback from everyone who assessed your response, "
+"and you will receive your final grade."
+msgstr ""
+"Vous avez terminé les étapes du devoir, mais certaines évaluations doivent "
+"encore être effectuées sur votre réponse. Une fois l’évaluation de votre "
+"réponse terminée, vous verrez les commentaires de toutes les personnes qui "
+"ont évalué votre réponse et vous recevrez votre note finale."
+
+msgid "Grade Available Responses"
+msgstr "Noter les réponses disponibles"
+
+msgid ""
+"Grade Available Responses is unavailable. This item is not configured for "
+"Staff Assessment."
+msgstr ""
+"La note des réponses disponibles n&#39;est pas disponible. Cet élément "
+"n&#39;est pas configuré pour l&#39;évaluation du personnel."
+
+msgid "Please wait"
+msgstr "S&#39;il vous plaît, attendez"
+
+msgid "Waiting Step Details"
+msgstr "Détails de l&#39;étape d&#39;attente"
+
+msgid ""
+"Waiting Step details view is unavailable. This item is not configured for "
+"peer assessments."
+msgstr ""
+"La vue détaillée de l’étape d’attente n’est pas disponible. Cet élément "
+"n&#39;est pas configuré pour les évaluations par les pairs."
+
+msgid "%(num_points)s points"
+msgstr "%(num_points)s points"
+
+msgid "Your peer's response to the prompt above"
+msgstr "La réponse de votre pair à l&#39;invite ci-dessus"
+
+msgid ""
+"After you complete all the steps of this assignment, you can see the top-"
+"scoring responses from your peers."
+msgstr ""
+"Après avoir terminé toutes les étapes de ce devoir, vous pouvez voir les "
+"réponses les mieux notées de vos pairs."
+
+msgid ""
+"Your team’s submission has been cancelled. Your team will receive a grade of"
+" zero unless course staff resets your assessment to allow the team to "
+"resubmit a response."
+msgstr ""
+"La soumission de votre équipe a été annulée. Votre équipe recevra une note "
+"de zéro à moins que le personnel du cours ne réinitialise votre évaluation "
+"pour permettre à l&#39;équipe de soumettre à nouveau une réponse."
+
+msgid ""
+"Your submission has been cancelled. You will receive a grade of zero unless "
+"course staff resets your assessment to allow you to resubmit a response."
+msgstr ""
+"Votre soumission a été annulée. Vous recevrez une note de zéro à moins que "
+"le personnel du cours ne réinitialise votre évaluation pour vous permettre "
+"de soumettre à nouveau une réponse."
+
+msgid ""
+"This task is not yet available. Check back to complete the assignment once "
+"this section has opened."
+msgstr ""
+"Cette tâche n&#39;est pas encore disponible. Revenez pour terminer le devoir"
+" une fois cette section ouverte."
+
+msgid ""
+"This assignment has closed. One or more deadlines for this assignment have "
+"passed. You will receive an incomplete grade for this assignment."
+msgstr ""
+"Cette mission est terminée. Une ou plusieurs échéances pour cette mission "
+"sont dépassées. Vous recevrez une note incomplète pour ce devoir."
+
+msgid ""
+"You have completed this assignment. Your final grade will be available when "
+"the assessments of your response are complete."
+msgstr ""
+"Vous avez terminé cette mission. Votre note finale sera disponible lorsque "
+"les évaluations de votre réponse seront terminées."
+
+msgid ""
+"You have completed this assignment. Review your grade and your assessment "
+"details."
+msgstr ""
+"Vous avez terminé cette mission. Vérifiez votre note et les détails de votre"
+" évaluation."
+
+msgid ""
+"This assignment is in progress. Learner training will close soon. Complete "
+"the learner training step to move on."
+msgstr ""
+"Cette mission est en cours. La formation des apprenants se terminera "
+"bientôt. Terminez l’étape de formation de l’apprenant pour passer à autre "
+"chose."
+
+msgid ""
+"This assignment is in progress. Complete the learner training step to move "
+"on."
+msgstr ""
+"Cette mission est en cours. Terminez l’étape de formation de l’apprenant "
+"pour passer à autre chose."
+
+msgid ""
+"This assignment is in progress. Check back later when the assessment period "
+"has started."
+msgstr ""
+"Cette mission est en cours. Revenez plus tard lorsque la période "
+"d’évaluation aura commencé."
+
+msgid ""
+"\n"
+"                                    %(start_strong)sThis assignment is in progress. The self assessment step will close soon.%(end_strong)s You still need to complete the %(start_link)sself assessment%(end_link)s step.\n"
+"                                "
+msgstr ""
+"\n"
+"%(start_strong)s Cette mission est en cours. L’étape d’auto-évaluation sera bientôt clôturée. %(end_strong)s Vous devez encore compléter l&#39;étape d&#39;auto-évaluation %(start_link)s %(end_link)s .\n"
+"                                "
+
+msgid ""
+"\n"
+"                                    This assignment is in progress. You still need to complete the %(start_link)sself assessment%(end_link)s step.\n"
+"                                "
+msgstr ""
+"\n"
+"Cette mission est en cours. Vous devez toujours compléter l’étape d’auto-évaluation %(start_link)s %(end_link)s .\n"
+"                                "
+
+msgid ""
+"\n"
+"                                    This assignment is in progress.%(start_strong)sThe peer assessment step will close soon.%(end_strong)s All submitted peer responses have been assessed. Check back later to see if more learners have submitted responses. You still need to complete the %(start_link)speer assessment%(end_link)s step.\n"
+"                                "
+msgstr ""
+"\n"
+"Cette mission est en cours. %(start_strong)s L&#39;étape d&#39;évaluation par les pairs sera bientôt clôturée. %(end_strong)s Toutes les réponses soumises par les pairs ont été évaluées. Revenez plus tard pour voir si d&#39;autres apprenants ont soumis des réponses. Vous devez toujours compléter l’étape %(start_link)s d’évaluation par les pairs %(end_link)s .\n"
+"                                "
+
+msgid ""
+"\n"
+"                                    This assignment is in progress. All submitted peer responses have been assessed. Check back later to see if more learners have submitted responses. You still need to complete the %(start_link)speer assessment%(end_link)s step.\n"
+"                                "
+msgstr ""
+"\n"
+"Cette mission est en cours. Toutes les réponses soumises par les pairs ont été évaluées. Revenez plus tard pour voir si d&#39;autres apprenants ont soumis des réponses. Vous devez toujours compléter l’étape %(start_link)s d’évaluation par les pairs %(end_link)s .\n"
+"                                "
+
+msgid ""
+"\n"
+"                                    This assignment is in progress. %(start_strong)sThe peer assessment step will close soon.%(end_strong)s You still need to complete the %(start_link)speer assessment%(end_link)s step.\n"
+"                                "
+msgstr ""
+"\n"
+"Cette mission est en cours. %(start_strong)s L&#39;étape d&#39;évaluation par les pairs sera bientôt clôturée. %(end_strong)s Vous devez encore compléter l&#39;étape %(start_link)s d&#39;évaluation par les pairs %(end_link)s .\n"
+"                                "
+
+msgid ""
+"\n"
+"                                    This assignment is in progress. You still need to complete the %(start_link)speer assessment%(end_link)s step.\n"
+"                                "
+msgstr ""
+"\n"
+"Cette mission est en cours. Vous devez toujours compléter l’étape %(start_link)s d’évaluation par les pairs %(end_link)s .\n"
+"                                "
+
+msgid "Team membership is required to view this assignment"
+msgstr "L&#39;adhésion à l&#39;équipe est requise pour voir cette mission"
+
+msgid ""
+"\n"
+"            This is a team assignment for team-set \"%(teamset_name)s\".\n"
+"            You are currently not on a team in team-set \"%(teamset_name)s\".\n"
+"            You must be on a team in team-set \"%(teamset_name)s\" to access this team assignment.\n"
+"            "
+msgstr ""
+"\n"
+"Il s&#39;agit d&#39;une affectation d&#39;équipe pour l&#39;ensemble d&#39;équipes &quot; %(teamset_name)s &quot;.\n"
+" Vous ne faites actuellement pas partie d&#39;une équipe dans l&#39;ensemble d&#39;équipes &quot; %(teamset_name)s &quot;.\n"
+" Vous devez faire partie d&#39;une équipe dans l&#39;ensemble d&#39;équipe « %(teamset_name)s » pour accéder à cette affectation d&#39;équipe.\n"
+"            "
+
+msgid ""
+"\n"
+"                    Assignment submissions will close soon. To receive a grade, first provide a response to the prompt, then complete the steps below the %(start_tag)sYour Response%(end_tag)s field.\n"
+"                "
+msgstr ""
+"\n"
+"Les soumissions de missions seront bientôt closes. Pour recevoir une note, fournissez d&#39;abord une réponse à l&#39;invite, puis suivez les étapes ci-dessous dans le champ %(start_tag)s Votre réponse %(end_tag)s .\n"
+"                "
+
+msgid ""
+"\n"
+"                    This assignment has several steps. In the first step, you'll provide a response to the prompt. The other steps appear below the %(start_tag)sYour Response%(end_tag)s field.\n"
+"                "
+msgstr ""
+"\n"
+"Cette mission comporte plusieurs étapes. Dans la première étape, vous fournirez une réponse à l’invite. Les autres étapes apparaissent sous le champ %(start_tag)s Votre réponse %(end_tag)s .\n"
+"                "
+
+msgid "Instructions Unavailable"
+msgstr "Instructions non disponibles"
+
+msgid "The instructions for this step could not be loaded."
+msgstr "Les instructions pour cette étape n&#39;ont pas pu être chargées."
+
+msgid ""
+"This assignment has several steps. In the first step, you'll provide a "
+"response to the prompt. The other steps appear below the Your Response "
+"field."
+msgstr ""
+"Cette mission comporte plusieurs étapes. Dans la première étape, vous "
+"fournirez une réponse à l’invite. Les autres étapes apparaissent sous le "
+"champ Votre réponse."
+
+msgid "Loading"
+msgstr "Chargement"
+
+msgid "Preview in LaTeX"
+msgstr "Aperçu dans LaTeX"
+
+msgid "Click to preview your submission in LaTeX."
+msgstr "Cliquez pour prévisualiser votre soumission dans LaTeX."
+
+msgid "Preview Response"
+msgstr "Aperçu de la réponse"
+
+msgid "Comments"
+msgstr "commentaires"
+
+msgid "The question for this section"
+msgstr "La question pour cette section"
+
+msgid "Files that were uploaded by your teammates:"
+msgstr "Fichiers téléchargés par vos coéquipiers :"
+
+msgid "View the files associated with this submission:"
+msgstr "Consultez les fichiers associés à cette soumission :"
+
+msgid "Uploaded by"
+msgstr "telechargé par"
+
+msgid "Files that were uploaded by you:"
+msgstr "Fichiers que vous avez téléchargés :"
+
+msgid ""
+"Caution: These files were uploaded by another course learner and have not "
+"been verified, screened, approved, reviewed, or endorsed by the site "
+"administrator. If you access the files, you do so at your own risk.)"
+msgstr ""
+"Attention : ces fichiers ont été téléchargés par un autre apprenant du cours"
+" et n&#39;ont pas été vérifiés, examinés, approuvés, examinés ou approuvés "
+"par l&#39;administrateur du site. Si vous accédez aux fichiers, vous le "
+"faites à vos propres risques.)"
+
+msgid "Assess Peers"
+msgstr "Évaluer les pairs"
+
+msgid ""
+"\n"
+"            <span id=\"oa_step_deadline_peer\" class=\"date ora-datetime\" data-datetime=\"%(start_date)s\" data-string=\"available {date} (in %(time_until)s)\" data-timezone=\"%(user_timezone)s\" data-language=\"%(user_language)s\"></span>\n"
+"            "
+msgstr ""
+"\n"
+"            <span id=\"oa_step_deadline_peer\" class=\"date ora-datetime\" data-datetime=\"%(start_date)s\" data-string=\"available {date} (in %(time_until)s)\" data-timezone=\"%(user_timezone)s\" data-language=\"%(user_language)s\"></span>\n"
+"            "
+
+msgid ""
+"\n"
+"            <span id=\"oa_step_deadline_peer\" class=\"date ora-datetime\" data-datetime=\"%(due_date)s\" data-string=\"due {date} (in %(time_until)s)\" data-timezone=\"%(user_timezone)s\" data-language=\"%(user_language)s\"></span>\n"
+"            "
+msgstr ""
+"\n"
+"            <span id=\"oa_step_deadline_peer\" class=\"date ora-datetime\" data-datetime=\"%(due_date)s\" data-string=\"due {date} (in %(time_until)s)\" data-timezone=\"%(user_timezone)s\" data-language=\"%(user_language)s\"></span>\n"
+"            "
+
+msgid ""
+"\n"
+"                    In Progress (%(review_number)s of %(num_must_grade)s)\n"
+"                "
+msgstr ""
+"\n"
+"En cours ( %(review_number)s sur %(num_must_grade)s )\n"
+"                "
+
+msgid "Read and assess the following response from one of your peers."
+msgstr "Lisez et évaluez la réponse suivante d’un de vos pairs."
+
+msgid "Associated Files"
+msgstr "Fichiers associés"
+
+msgid "We could not submit your assessment"
+msgstr "Nous n&#39;avons pas pu soumettre votre évaluation"
+
+msgid "Cancelled"
+msgstr "Annulé"
+
+msgid ""
+"\n"
+"            Incomplete (%(num_graded)s of %(num_must_grade)s)\n"
+"        "
+msgstr ""
+"\n"
+"Incomplet ( %(num_graded)s de %(num_must_grade)s )\n"
+"        "
+
+msgid ""
+"The due date for this step has passed. This step is now closed. You can no "
+"longer complete peer assessments or continue with this assignment, and you "
+"will receive a grade of Incomplete."
+msgstr ""
+"La date limite pour cette étape est dépassée. Cette étape est désormais "
+"clôturée. Vous ne pouvez plus effectuer les évaluations par les pairs ou "
+"continuer ce devoir, et vous recevrez la note Incomplet."
+
+msgid "Completed"
+msgstr "Complété"
+
+msgid ""
+"You have successfully completed all of the required peer assessments for "
+"this assignment. You may assess additional peer responses if you want to. "
+"Completing additional assessments will not affect your final grade."
+msgstr ""
+"Vous avez réussi toutes les évaluations par les pairs requises pour cette "
+"mission. Vous pouvez évaluer les réponses supplémentaires de vos pairs si "
+"vous le souhaitez. La réalisation d&#39;évaluations supplémentaires "
+"n&#39;affectera pas votre note finale."
+
+msgid "We could not retrieve additional submissions for assessment"
+msgstr ""
+"Nous n&#39;avons pas pu récupérer de soumissions supplémentaires pour "
+"évaluation"
+
+msgid "Continue Assessing Peers"
+msgstr "Continuer à évaluer les pairs"
+
+msgid ""
+"\n"
+"        Complete (%(num_graded)s)\n"
+"      "
+msgstr ""
+"\n"
+"Complet ( %(num_graded)s )\n"
+"      "
+
+msgid ""
+"All submitted peer responses have been assessed. Check back later to see if "
+"more learners have submitted responses."
+msgstr ""
+"Toutes les réponses soumises par les pairs ont été évaluées. Revenez plus "
+"tard pour voir si d&#39;autres apprenants ont soumis des réponses."
+
+msgid "Not Available"
+msgstr "Pas disponible"
+
+msgid ""
+"\n"
+"          In Progress (%(review_number)s of %(num_must_grade)s)\n"
+"        "
+msgstr ""
+"\n"
+"En cours ( %(review_number)s sur %(num_must_grade)s )\n"
+"        "
+
+msgid ""
+"All available peer responses have been assessed. Check back later to see if "
+"more learners have submitted responses. You will receive your grade after "
+"you've completed all the steps for this problem and your peers have assessed"
+" your response."
+msgstr ""
+"Toutes les réponses disponibles des pairs ont été évaluées. Revenez plus "
+"tard pour voir si d&#39;autres apprenants ont soumis des réponses. Vous "
+"recevrez votre note après avoir terminé toutes les étapes de ce problème et "
+"que vos pairs auront évalué votre réponse."
+
+msgid "Your Team's Response"
+msgstr "La réponse de votre équipe"
+
+msgid ""
+"\n"
+"            <span id=\"oa_step_deadline_response\" class=\"date ora-datetime\" data-datetime=\"%(start_date)s\" data-string=\"available {date} (in %(time_until)s)\" data-timezone=\"%(user_timezone)s\" data-language=\"%(user_language)s\"></span>\n"
+"            "
+msgstr ""
+"\n"
+"            <span id=\"oa_step_deadline_response\" class=\"date ora-datetime\" data-datetime=\"%(start_date)s\" data-string=\"available {date} (in %(time_until)s)\" data-timezone=\"%(user_timezone)s\" data-language=\"%(user_language)s\"></span>\n"
+"            "
+
+msgid ""
+"\n"
+"            <span id=\"oa_step_deadline_response\" class=\"date ora-datetime\" data-datetime=\"%(due_date)s\" data-string=\"due {date} (in %(time_until)s)\" data-timezone=\"%(user_timezone)s\" data-language=\"%(user_language)s\"></span>\n"
+"            "
+msgstr ""
+"\n"
+"            <span id=\"oa_step_deadline_response\" class=\"date ora-datetime\" data-datetime=\"%(due_date)s\" data-string=\"due {date} (in %(time_until)s)\" data-timezone=\"%(user_timezone)s\" data-language=\"%(user_language)s\"></span>\n"
+"            "
+
+msgid "In Progress"
+msgstr "En cours"
+
+msgid "Enter your team's response to the prompt."
+msgstr "Saisissez la réponse de votre équipe à l&#39;invite."
+
+msgid ""
+"\n"
+"                        Your work will save automatically and you can return to complete your team's response at any time before the due date\n"
+"                      "
+msgstr ""
+"\n"
+"Votre travail sera sauvegardé automatiquement et vous pourrez revenir compléter la réponse de votre équipe à tout moment avant la date d&#39;échéance.\n"
+"                      "
+
+msgid ""
+"\n"
+"                        Your work will save automatically and you can return to complete your team's response at any time.\n"
+"                      "
+msgstr ""
+"\n"
+"Votre travail sera sauvegardé automatiquement et vous pourrez revenir compléter la réponse de votre équipe à tout moment.\n"
+"                      "
+
+msgid ""
+"After you submit a response on behalf of your team, it cannot be edited."
+msgstr ""
+"Une fois que vous avez soumis une réponse au nom de votre équipe, celle-ci "
+"ne peut plus être modifiée."
+
+msgid "Enter your response to the prompt."
+msgstr "Entrez votre réponse à l&#39;invite."
+
+msgid ""
+"Your work will save automatically and you can return to complete your "
+"response at any time before the subsection due date "
+msgstr ""
+"Votre travail sera sauvegardé automatiquement et vous pourrez revenir "
+"compléter votre réponse à tout moment avant la date d&#39;échéance de la "
+"sous-section. "
+
+msgid ""
+"Your work will save automatically and you can return to complete your "
+"response at any time before the course ends "
+msgstr ""
+"Votre travail sera automatiquement sauvegardé et vous pourrez revenir "
+"compléter votre réponse à tout moment avant la fin du cours. "
+
+msgid ""
+"Your work will save automatically and you can return to complete your "
+"response at any time before the due date "
+msgstr ""
+"Votre travail sera sauvegardé automatiquement et vous pourrez revenir "
+"compléter votre réponse à tout moment avant la date d&#39;échéance. "
+
+msgid ""
+"Your work will save automatically and you can return to complete your "
+"response at any time."
+msgstr ""
+"Votre travail sera sauvegardé automatiquement et vous pourrez revenir "
+"compléter votre réponse à tout moment."
+
+msgid "After you submit your response, you cannot edit it"
+msgstr "Après avoir soumis votre réponse, vous ne pouvez pas la modifier"
+
+msgid "What will this assignment be graded on?"
+msgstr "Sur quoi ce devoir sera-t-il noté ?"
+
+msgid "The prompt for this section"
+msgstr "L&#39;invite pour cette section"
+
+msgid "You are on team "
+msgstr "Vous êtes dans l&#39;équipe "
+
+msgid "Team Members: "
+msgstr "Membres de l&#39;équipe: "
+
+msgid ""
+"\n"
+"                                              %(team_members_with_external_submissions)s\n"
+"                                              have/has already submitted a response to this assignment with another team,\n"
+"                                              and will not be a part of your team's submission or assignment grade.\n"
+"                                          "
+msgstr ""
+"\n"
+"%(team_members_with_external_submissions)s\n"
+" avoir/a déjà soumis une réponse à cette mission avec une autre équipe,\n"
+" et ne fera pas partie de la soumission ou de la note du devoir de votre équipe.\n"
+"                                          "
+
+msgid "Team Response "
+msgstr "Réponse de l&#39;équipe "
+
+msgid "Your Response "
+msgstr "Votre réponse "
+
+msgid "(Required)"
+msgstr "(Requis)"
+
+msgid "(Optional)"
+msgstr "(Facultatif)"
+
+msgid ""
+"\n"
+"                                              Teams should designate one team member to submit a response on behalf of the\n"
+"                                              entire team.  All team members can use this space to work on draft responses,\n"
+"                                              but you will not be able to see your teammates' drafts made in this space, so\n"
+"                                              please coordinate with them to decide on the final response the designated team\n"
+"                                              member should submit.\n"
+"                                          "
+msgstr ""
+"\n"
+"Les équipes doivent désigner un membre de l&#39;équipe pour soumettre une réponse au nom de l&#39;équipe.\n"
+" équipe entière. Tous les membres de l&#39;équipe peuvent utiliser cet espace pour travailler sur des projets de réponses,\n"
+" mais vous ne pourrez pas voir les drafts de vos coéquipiers réalisés dans cet espace, donc\n"
+" veuillez vous coordonner avec eux pour décider de la réponse finale de l&#39;équipe désignée\n"
+" Le député devrait soumettre.\n"
+"                                          "
+
+msgid "Enter your response to the prompt above."
+msgstr "Entrez votre réponse à l&#39;invite ci-dessus."
+
+msgid ""
+"\n"
+"                                      You are currently on Team %(team_name)s. Since you were on Team %(previous_team_name)s\n"
+"                                      when they submitted a response to this assignment, you are seeing Team %(previous_team_name)s’s\n"
+"                                      response and will receive the same grade for this assignment as your former teammates.\n"
+"                                      You will not be part of Team %(team_name)s’s submission for this assignment and will not\n"
+"                                      receive a grade for their submission.\n"
+"                                  "
+msgstr ""
+"\n"
+"Vous faites actuellement partie de l&#39;équipe %(team_name)s . Depuis que vous faites partie de l&#39;équipe %(previous_team_name)s\n"
+" lorsqu&#39;ils ont soumis une réponse à cette mission, vous voyez l&#39;équipe %(previous_team_name)s\n"
+" réponse et recevra la même note pour cette mission que vos anciens coéquipiers.\n"
+" Vous ne ferez pas partie de la soumission de l&#39;équipe %(team_name)s pour cette mission et ne\n"
+" recevoir une note pour leur soumission.\n"
+"                                  "
+
+msgid "We could not save your progress"
+msgstr "Nous n&#39;avons pas pu enregistrer votre progression"
+
+msgid "Status of Your Response"
+msgstr "Statut de votre réponse"
+
+msgid "File Uploads "
+msgstr "Téléchargements de fichiers "
+
+msgid ""
+"\n"
+"                                  Upload files and review files uploaded by you and your teammates below. Be sure to add\n"
+"                                  descriptions to your files to help your teammates identify them.\n"
+"                              "
+msgstr ""
+"\n"
+"Téléchargez des fichiers et examinez les fichiers téléchargés par vous et vos coéquipiers ci-dessous. Assurez-vous d&#39;ajouter\n"
+" des descriptions à vos fichiers pour aider vos coéquipiers à les identifier.\n"
+"                              "
+
+msgid "We could not upload files"
+msgstr "Nous n&#39;avons pas pu télécharger de fichiers"
+
+msgid "We could not delete files"
+msgstr "Nous n&#39;avons pas pu supprimer les fichiers"
+
+msgid "Select one or more files to upload for this submission."
+msgstr ""
+"Sélectionnez un ou plusieurs fichiers à télécharger pour cette soumission."
+
+msgid "Select a file to upload for this submission."
+msgstr "Sélectionnez un fichier à télécharger pour cette soumission."
+
+msgid "Supported file types: "
+msgstr "Types de fichiers pris en charge : "
+
+msgid "Upload files"
+msgstr "Télécharger des fichiers"
+
+msgid "Upload file"
+msgstr "Téléverser un fichier"
+
+msgid "This is a team submission."
+msgstr "Ceci est une soumission d’équipe."
+
+msgid ""
+"One team member should submit a response with the team’s shared files and a "
+"text response on behalf of the entire team."
+msgstr ""
+"Un membre de l&#39;équipe doit soumettre une réponse avec les fichiers "
+"partagés de l&#39;équipe et une réponse textuelle au nom de l&#39;ensemble "
+"de l&#39;équipe."
+
+msgid ""
+"One team member should submit a response with the team’s shared files on "
+"behalf of the entire team."
+msgstr ""
+"Un membre de l&#39;équipe doit soumettre une réponse avec les fichiers "
+"partagés de l&#39;équipe au nom de l&#39;ensemble de l&#39;équipe."
+
+msgid ""
+"One team member should submit a text response on behalf of the entire team."
+msgstr ""
+"Un membre de l&#39;équipe doit soumettre une réponse textuelle au nom de "
+"toute l&#39;équipe."
+
+msgid "One team member should submit on behalf of the entire team."
+msgstr ""
+"Un membre de l’équipe doit soumettre sa candidature au nom de toute "
+"l’équipe."
+
+msgid ""
+"\n"
+"                  Learn more about team assignments here: (<a target=\"_blank\" href=\"https://support.edx.org/hc/en-us/articles/360000191067-Submit-your-response#h_01FVD8SXM9E5H2DNAG87X25ZHR\">link</a>)\n"
+"                  "
+msgstr ""
+"\n"
+"En savoir plus sur les affectations des équipes ici : ( <a target=\"_blank\" href=\"https://support.edx.org/hc/en-us/articles/360000191067-Submit-your-response#h_01FVD8SXM9E5H2DNAG87X25ZHR\">lien</a> )\n"
+"                  "
+
+msgid "We could not submit your response"
+msgstr "Nous n&#39;avons pas pu soumettre votre réponse"
+
+msgid "Submit your response and move to the next step"
+msgstr "Soumettez votre réponse et passez à l&#39;étape suivante"
+
+msgid "Your submission was cancelled. "
+msgstr "Votre soumission a été annulée. "
+
+msgid ""
+"\n"
+"                                Your submission has been cancelled by %(removed_by_username)s on %(removed_datetime)s\n"
+"                            "
+msgstr ""
+"\n"
+"Votre soumission a été annulée par %(removed_by_username)s sur %(removed_datetime)s\n"
+"                            "
+
+msgid ""
+"\n"
+"                               Your submission was cancelled on %(removed_datetime)s\n"
+"                            "
+msgstr ""
+"\n"
+"Votre soumission a été annulée le %(removed_datetime)s\n"
+"                            "
+
+msgid ""
+"\n"
+"                            Comments: %(comments)s\n"
+"                        "
+msgstr ""
+"\n"
+"Commentaires : %(comments)s\n"
+"                        "
+
+msgid "Incomplete"
+msgstr "Incomplet"
+
+msgid ""
+"The due date for this step has passed. This step is now closed. You can no "
+"longer submit a response or continue with this problem, and you will receive"
+" a grade of Incomplete. If you saved but did not submit a response, the "
+"response appears in the course records."
+msgstr ""
+"La date limite pour cette étape est dépassée. Cette étape est désormais "
+"clôturée. Vous ne pouvez plus soumettre de réponse ou poursuivre ce problème"
+" et vous recevrez la note Incomplet. Si vous avez enregistré mais n&#39;avez"
+" pas soumis de réponse, la réponse apparaît dans les dossiers du cours."
+
+msgid "Complete"
+msgstr "Complet"
+
+msgid "Your response"
+msgstr "Votre réponse"
+
+msgid "Your Uploaded Files"
+msgstr "Vos fichiers téléchargés"
+
+msgid ""
+"Your response has been submitted. You will receive your grade after all "
+"steps are complete and your response is fully assessed."
+msgstr ""
+"Votre réponse a été soumise. Vous recevrez votre note une fois toutes les "
+"étapes terminées et votre réponse entièrement évaluée."
+
+msgid ""
+"\n"
+"                        You still need to complete the %(peer_start_tag)speer assessment%(end_tag)s and %(self_start_tag)sself assessment%(end_tag)s steps.\n"
+"                    "
+msgstr ""
+"\n"
+"Vous devez toujours suivre les étapes d&#39;évaluation par les pairs %(peer_start_tag)s %(end_tag)s et d&#39;auto-évaluation %(self_start_tag)s %(end_tag)s .\n"
+"                    "
+
+msgid ""
+"\n"
+"                        You still need to complete the %(start_tag)speer assessment%(end_tag)s step.\n"
+"                    "
+msgstr ""
+"\n"
+"Vous devez toujours compléter l’étape %(start_tag)s d’évaluation par les pairs %(end_tag)s .\n"
+"                    "
+
+msgid ""
+"\n"
+"                        You still need to complete the %(start_tag)sself assessment%(end_tag)s step.\n"
+"                    "
+msgstr ""
+"\n"
+"Vous devez toujours compléter l’étape d’auto-évaluation %(start_tag)s %(end_tag)s .\n"
+"                    "
+
+msgid "We could not reset your response"
+msgstr "Nous n&#39;avons pas pu réinitialiser votre réponse"
+
+msgid "Reset response and submit again"
+msgstr "Réinitialiser la réponse et soumettre à nouveau"
+
+msgid "Error"
+msgstr "Erreur"
+
+msgid ""
+"\n"
+"                            You joined Team %(team_name)s after they submitted a response for this assignment\n"
+"                            and you will not receive a grade for their response. You have also not previously submitted\n"
+"                            a response to this assignment with another team. Please contact course staff to discuss your\n"
+"                            options for this assignment.\n"
+"                        "
+msgstr ""
+"\n"
+"Vous avez rejoint l&#39;équipe %(team_name)s après avoir soumis une réponse pour cette mission.\n"
+" et vous ne recevrez pas de note pour leur réponse. Vous n&#39;avez pas non plus soumis auparavant\n"
+" une réponse à cette mission avec une autre équipe. Veuillez contacter le personnel du cours pour discuter de votre\n"
+" options pour cette mission.\n"
+"                        "
+
+msgid "Assess Your Response"
+msgstr "Évaluez votre réponse"
+
+msgid ""
+"\n"
+"               <span id=\"oa_step_deadline_self\" class=\"date ora-datetime\" data-datetime=\"%(start_date)s\" data-string=\"available {date} (in %(time_until)s)\" data-timezone=\"%(user_timezone)s\" data-language=\"%(user_language)s\"></span>\n"
+"           "
+msgstr ""
+"\n"
+"               <span id=\"oa_step_deadline_self\" class=\"date ora-datetime\" data-datetime=\"%(start_date)s\" data-string=\"available {date} (in %(time_until)s)\" data-timezone=\"%(user_timezone)s\" data-language=\"%(user_language)s\"></span>\n"
+"           "
+
+msgid ""
+"\n"
+"               <span id=\"oa_step_deadline_self\" class=\"date ora-datetime\" data-datetime=\"%(due_date)s\" data-string=\"due {date} (in %(time_until)s)\" data-timezone=\"%(user_timezone)s\" data-language=\"%(user_language)s\"></span>\n"
+"           "
+msgstr ""
+"\n"
+"               <span id=\"oa_step_deadline_self\" class=\"date ora-datetime\" data-datetime=\"%(due_date)s\" data-string=\"due {date} (in %(time_until)s)\" data-timezone=\"%(user_timezone)s\" data-language=\"%(user_language)s\"></span>\n"
+"           "
+
+msgid "Submit your assessment"
+msgstr "Soumettez votre évaluation"
+
+msgid ""
+"The due date for this step has passed. This step is now closed. You can no "
+"longer complete a self assessment or continue with this assignment, and you "
+"will receive a grade of Incomplete."
+msgstr ""
+"La date limite pour cette étape est dépassée. Cette étape est désormais "
+"clôturée. Vous ne pouvez plus effectuer une auto-évaluation ou continuer ce "
+"devoir, et vous recevrez la note Incomplet."
+
+msgid "Staff Grade"
+msgstr "Catégorie du personnel"
+
+msgid "Manage Individual Learners"
+msgstr "Gérer les apprenants individuels"
+
+msgid "Manage Team Responses"
+msgstr "Gérer les réponses de l&#39;équipe"
+
+msgid "View Assignment Statistics"
+msgstr "Afficher les statistiques d&#39;affectation"
+
+msgid "Demo the new Grading Experience"
+msgstr "Démonstration de la nouvelle expérience de notation"
+
+msgid "View ORA in Studio"
+msgstr "Voir ORA dans Studio"
+
+msgid "Close"
+msgstr "Fermer"
+
+msgid "Manage Teams"
+msgstr "Gérer les équipes"
+
+msgid "Enter an individual learner's username or email"
+msgstr ""
+"Saisissez le nom d&#39;utilisateur ou l&#39;adresse e-mail d&#39;un "
+"apprenant individuel"
+
+msgid "Enter a team member's username or edX email"
+msgstr ""
+"Entrez le nom d&#39;utilisateur ou l&#39;adresse e-mail edX d&#39;un membre "
+"de l&#39;équipe"
+
+msgid "Submit"
+msgstr "Soumettre"
+
+msgid "Response total"
+msgstr "Total des réponses"
+
+msgid "Location"
+msgstr "Emplacement"
+
+msgid "Learner Progress"
+msgstr "Progrès de l&#39;apprenant"
+
+msgid "Problem Step"
+msgstr "Étape du problème"
+
+msgid "Active Learners in Step"
+msgstr "Apprenants actifs en marche"
+
+msgid "Dates"
+msgstr "Rendez-vous"
+
+msgid "Release Date"
+msgstr "Date de sortie"
+
+msgid "N/A"
+msgstr "N / A"
+
+msgid "Staff Assessment"
+msgstr "Évaluation du personnel"
+
+msgid "Give this team a grade using the problem's rubric."
+msgstr "Donnez une note à cette équipe en utilisant la rubrique du problème."
+
+msgid "Give this learner a grade using the problem's rubric."
+msgstr "Donnez une note à cet apprenant en utilisant la rubrique du problème."
+
+msgid ""
+"\n"
+"                                        Response for: %(team_name)s with %(team_usernames)s\n"
+"                                    "
+msgstr ""
+"\n"
+"Réponse pour : %(team_name)s avec %(team_usernames)s\n"
+"                                    "
+
+msgid ""
+"\n"
+"                                        Response for: %(student_username)s\n"
+"                                    "
+msgstr ""
+"\n"
+"Réponse pour : %(student_username)s\n"
+"                                    "
+
+msgid "Learner Response"
+msgstr "Réponse de l&#39;apprenant"
+
+msgid "The teams's response to the prompt above"
+msgstr "La réponse des équipes à l&#39;invite ci-dessus"
+
+msgid "The learner's response to the prompt above"
+msgstr "La réponse de l&#39;apprenant à l&#39;invite ci-dessus"
+
+msgid "Submit assessment"
+msgstr "Soumettre l&#39;évaluation"
+
+msgid "Submit assessment and continue grading"
+msgstr "Soumettre l&#39;évaluation et continuer la notation"
+
+msgid ""
+"\n"
+"                %(ungraded)s Available and %(in_progress)s Checked Out\n"
+"            "
+msgstr ""
+"\n"
+"%(ungraded)s disponible et %(in_progress)s extrait\n"
+"            "
+
+msgid "Override this learner's current grade using the problem's rubric."
+msgstr ""
+"Remplacez la note actuelle de cet apprenant en utilisant la rubrique du "
+"problème."
+
+msgid "Override this team's current grade using the problem's rubric."
+msgstr ""
+"Remplacez la note actuelle de cette équipe en utilisant la rubrique du "
+"problème."
+
+msgid "Team Response"
+msgstr "Réponse de l&#39;équipe"
+
+msgid "The team's response to the prompt above"
+msgstr "La réponse de l&#39;équipe à l&#39;invite ci-dessus"
+
+msgid ""
+"\n"
+"                    Viewing learner: %(learner)s\n"
+"                "
+msgstr ""
+"\n"
+"Affichage de l&#39;apprenant : %(learner)s\n"
+"                "
+
+msgid ""
+"\n"
+"                    Viewing team: %(team)s\n"
+"                "
+msgstr ""
+"\n"
+"Équipe de visionnage : %(team)s\n"
+"                "
+
+msgid "Learner's Response"
+msgstr "Réponse de l&#39;apprenant"
+
+msgid "Team's Response"
+msgstr "Réponse de l&#39;équipe"
+
+msgid ""
+"\n"
+"                            Learner submission removed by %(removed_by_username)s on %(removed_datetime)s\n"
+"                        "
+msgstr ""
+"\n"
+"Soumission de l&#39;apprenant supprimée par %(removed_by_username)s sur %(removed_datetime)s\n"
+"                        "
+
+msgid ""
+"\n"
+"                            Learner submission removed on %(removed_datetime)s\n"
+"                        "
+msgstr ""
+"\n"
+"Soumission de l&#39;apprenant supprimée le %(removed_datetime)s\n"
+"                        "
+
+msgid ""
+"\n"
+"                        Comments: %(comments)s\n"
+"                    "
+msgstr ""
+"\n"
+"Commentaires : %(comments)s\n"
+"                    "
+
+msgid "Peer Assessments for This Learner"
+msgstr "Évaluations par les pairs pour cet apprenant"
+
+msgid "Peer Assessments Completed by This Learner"
+msgstr "Évaluations par les pairs réalisées par cet apprenant"
+
+msgid "Learner's Self Assessment"
+msgstr "Auto-évaluation de l&#39;apprenant"
+
+msgid "Staff Assessment for This Learner"
+msgstr "Évaluation du personnel pour cet apprenant"
+
+msgid "Staff Assessment for this Team"
+msgstr "Évaluation du personnel pour cette équipe"
+
+msgid "Learner's Final Grade"
+msgstr "Note finale de l&#39;apprenant"
+
+msgid "Team's Final Grade"
+msgstr "Note finale de l&#39;équipe"
+
+msgid ""
+"\n"
+"                            Final grade: %(points_earned)s out of %(points_possible)s\n"
+"                        "
+msgstr ""
+"\n"
+"Note finale : %(points_earned)s sur %(points_possible)s\n"
+"                        "
+
+msgid "Final Grade Details"
+msgstr "Détails de la note finale"
+
+msgid "Feedback Recorded"
+msgstr "Commentaires enregistrés"
+
+msgid "The submission is waiting for assessments."
+msgstr "La soumission est en attente d’évaluations."
+
+msgid ""
+"The learner's submission has been removed from peer assessment. The learner "
+"receives a grade of zero unless you delete the learner's state for the "
+"problem to allow them to resubmit a response."
+msgstr ""
+"La soumission de l&#39;apprenant a été supprimée de l&#39;évaluation par les"
+" pairs. L&#39;apprenant reçoit une note de zéro, sauf si vous supprimez son "
+"état pour le problème afin de lui permettre de soumettre à nouveau une "
+"réponse."
+
+msgid ""
+"The team’s submission has been removed from grading. The team receives a "
+"grade of zero unless you delete the a team member’s state for the problem to"
+" allow the team to resubmit a response."
+msgstr ""
+"La soumission de l&#39;équipe a été supprimée de la notation. L&#39;équipe "
+"reçoit une note de zéro, sauf si vous supprimez l&#39;état d&#39;un membre "
+"de l&#39;équipe pour le problème afin de permettre à l&#39;équipe de "
+"soumettre à nouveau une réponse."
+
+msgid "The problem has not been started."
+msgstr "Le problème n&#39;a pas été lancé."
+
+msgid "The problem has not been completed."
+msgstr "Le problème n&#39;est pas résolu."
+
+msgid "Submit Assessment Grade Override"
+msgstr "Soumettre un remplacement de note d’évaluation"
+
+msgid "Submit Team Grade Override"
+msgstr "Soumettre un remplacement de note d&#39;équipe"
+
+msgid "Unable to perform grade override"
+msgstr "Impossible d&#39;effectuer un remplacement de note"
+
+msgid ""
+"Grades are frozen. Grades are automatically frozen 30 days after the course "
+"end date."
+msgstr ""
+"Les notes sont gelées. Les notes sont automatiquement gelées 30 jours après "
+"la date de fin du cours."
+
+msgid ""
+"This submission has been cancelled and cannot recieve a grade. Refer to "
+"documentation for how to delete the learner’s state for this problem to "
+"allow them to resubmit."
+msgstr ""
+"Cette soumission a été annulée et ne peut pas recevoir de note. Reportez-"
+"vous à la documentation pour savoir comment supprimer l&#39;état de "
+"l&#39;apprenant pour ce problème afin de lui permettre de soumettre à "
+"nouveau."
+
+msgid "Remove Submission From Peer Grading"
+msgstr "Supprimer la soumission de la notation par les pairs"
+
+msgid "Remove Team Submission from Grading"
+msgstr "Supprimer la soumission d&#39;équipe de la notation"
+
+msgid "Caution: This Action Cannot Be Undone"
+msgstr "Attention : cette action ne peut pas être annulée"
+
+msgid ""
+"Removing a learner's submission cannot be undone and should be done with "
+"caution."
+msgstr ""
+"La suppression de la soumission d&#39;un apprenant est irréversible et doit "
+"être effectuée avec prudence."
+
+msgid ""
+"Removing a team's submission cannot be undone and should be done with "
+"caution."
+msgstr ""
+"La suppression de la soumission d&#39;une équipe est irréversible et doit "
+"être effectuée avec prudence."
+
+msgid "Comments:"
+msgstr "Commentaires:"
+
+msgid "Remove submission"
+msgstr "Supprimer la soumission"
+
+msgid "A response was not found for this learner."
+msgstr "Aucune réponse n&#39;a été trouvée pour cet apprenant."
+
+msgid ""
+"\n"
+"                            Assessment %(assessment_num)s:\n"
+"                        "
+msgstr ""
+"\n"
+"Bilan %(assessment_num)s :\n"
+"                        "
+
+msgid "Assessment Details"
+msgstr "Détails de l&#39;évaluation"
+
+msgid "Selected Option"
+msgstr "Option sélectionnée"
+
+msgid "Feedback"
+msgstr "Retour"
+
+msgid "Points Possible"
+msgstr "Points possibles"
+
+msgid "Learn to Assess Responses"
+msgstr "Apprenez à évaluer les réponses"
+
+msgid ""
+"\n"
+"                      In Progress (%(current_progress_num)s of %(training_available_num)s)\n"
+"                  "
+msgstr ""
+"\n"
+"En cours ( %(current_progress_num)s sur %(training_available_num)s )\n"
+"                  "
+
+msgid ""
+"\n"
+"            <span id=\"oa_step_deadline\" class=\"date ora-datetime\" data-datetime=\"%(start_date)s\" data-string=\"available {date} (in %(time_until)s)\" data-timezone=\"%(user_timezone)s\" data-language=\"%(user_language)s\"></span>\n"
+"            "
+msgstr ""
+"\n"
+"            <span id=\"oa_step_deadline\" class=\"date ora-datetime\" data-datetime=\"%(start_date)s\" data-string=\"available {date} (in %(time_until)s)\" data-timezone=\"%(user_timezone)s\" data-language=\"%(user_language)s\"></span>\n"
+"            "
+
+msgid ""
+"\n"
+"            <span id=\"oa_step_deadline\" class=\"date ora-datetime\" data-datetime=\"%(due_date)s\" data-string=\"due {date} (in %(time_until)s)\" data-timezone=\"%(user_timezone)s\" data-language=\"%(user_language)s\"></span>\n"
+"            "
+msgstr ""
+"\n"
+"            <span id=\"oa_step_deadline\" class=\"date ora-datetime\" data-datetime=\"%(due_date)s\" data-string=\"due {date} (in %(time_until)s)\" data-timezone=\"%(user_timezone)s\" data-language=\"%(user_language)s\"></span>\n"
+"            "
+
+msgid "Learning to Assess Responses"
+msgstr "Apprendre à évaluer les réponses"
+
+msgid ""
+"Before you begin to assess your peers' responses, you'll learn how to "
+"complete peer assessments by reviewing responses that instructors have "
+"already assessed. If you select the same options for the response that the "
+"instructor selected, you'll move to the next step. If you don't select the "
+"same options, you'll review the response and try again."
+msgstr ""
+"Avant de commencer à évaluer les réponses de vos pairs, vous apprendrez à "
+"réaliser des évaluations par les pairs en examinant les réponses que les "
+"instructeurs ont déjà évaluées. Si vous sélectionnez les mêmes options pour "
+"la réponse que celles sélectionnées par l&#39;instructeur, vous passerez à "
+"l&#39;étape suivante. Si vous ne sélectionnez pas les mêmes options, vous "
+"examinerez la réponse et réessayerez."
+
+msgid ""
+"Your assessment differs from the instructor's assessment of this response. "
+"Review the response and consider why the instructor may have assessed it "
+"differently. Then, try the assessment again."
+msgstr ""
+"Votre évaluation diffère de l’évaluation de cette réponse par l’instructeur."
+" Examinez la réponse et réfléchissez aux raisons pour lesquelles "
+"l’instructeur a pu l’évaluer différemment. Ensuite, réessayez l’évaluation."
+
+msgid "The response to the prompt above:"
+msgstr "La réponse à l&#39;invite ci-dessus :"
+
+msgid "Selected Options Agree"
+msgstr "Options sélectionnées Accepter"
+
+msgid "The option you selected is the option that the instructor selected."
+msgstr ""
+"L&#39;option que vous avez sélectionnée est celle sélectionnée par "
+"l&#39;instructeur."
+
+msgid "Selected Options Differ"
+msgstr "Les options sélectionnées diffèrent"
+
+msgid ""
+"The option you selected is not the option that the instructor selected."
+msgstr ""
+"L’option que vous avez sélectionnée n’est pas celle sélectionnée par "
+"l’instructeur."
+
+msgid "We could not check your assessment"
+msgstr "Nous n&#39;avons pas pu vérifier votre évaluation"
+
+msgid "Compare your selections with the instructor's selections"
+msgstr "Comparez vos sélections avec celles du professeur"
+
+msgid ""
+"The due date for this step has passed. This step is now closed. You can no "
+"longer continue with this assignment, and you will receive a grade of "
+"Incomplete."
+msgstr ""
+"La date limite pour cette étape est dépassée. Cette étape est désormais "
+"clôturée. Vous ne pouvez plus continuer ce devoir et vous recevrez la note "
+"Incomplet."
+
+msgid "Error Loading Learner Training Examples"
+msgstr "Erreur lors du chargement des exemples de formation des apprenants"
+
+msgid "The Learner Training Step of this assignment could not be loaded."
+msgstr ""
+"L&#39;étape de formation des apprenants de ce devoir n&#39;a pas pu être "
+"chargée."
+
+msgid "Loading Open Response Assessment..."
+msgstr "Chargement de l&#39;évaluation à réponse ouverte..."
+
+msgid "An unexpected error occurred."
+msgstr "Une erreur inattendue est apparue."
+
+msgid "Peer Assessment"
+msgstr "Évaluation par les pairs"
+
+msgid "Self Assessment"
+msgstr "Auto-évaluation"
+
+msgid "Assessment feedback could not be saved."
+msgstr "Les commentaires d’évaluation n’ont pas pu être enregistrés."
+
+msgid "Feedback saved."
+msgstr "Commentaires enregistrés."
+
+msgid "Staff Comments"
+msgstr "Commentaires du personnel"
+
+msgid "Peer {peer_index}"
+msgstr "Pair {peer_index}"
+
+msgid "Peer Comments"
+msgstr "Commentaires des pairs"
+
+msgid "Self Assessment Grade"
+msgstr "Note d&#39;auto-évaluation"
+
+msgid "Your Self Assessment"
+msgstr "Votre auto-évaluation"
+
+msgid "Your Comments"
+msgstr "Vos commentaires"
+
+msgid "Peer Mean Grade"
+msgstr "Note moyenne des pairs"
+
+msgid "Peer Median Grade"
+msgstr "Note médiane des pairs"
+
+msgid "Waiting for peer reviews"
+msgstr "En attente des évaluations par les pairs"
+
+msgid "The grade for this problem is determined by your Staff Grade."
+msgstr "La note pour ce problème est déterminée par votre note du personnel."
+
+msgid "The grade for this problem is determined by your Self Assessment."
+msgstr "La note pour ce problème est déterminée par votre auto-évaluation."
+
+msgid ""
+"You have successfully completed this problem and received a "
+"{earned_points}/{total_points}."
+msgstr ""
+"Vous avez résolu ce problème avec succès et reçu un {earned_points} / "
+"{total_points} ."
+
+msgid ""
+"You have not yet received all necessary peer reviews to determine your final"
+" grade."
+msgstr ""
+"Vous n&#39;avez pas encore reçu toutes les évaluations par les pairs "
+"nécessaires pour déterminer votre note finale."
+
+msgid ""
+"The grade for this problem is determined by the median score of your Peer "
+"Assessments."
+msgstr ""
+"La note pour ce problème est déterminée par le score médian de vos "
+"évaluations par les pairs."
+
+msgid ""
+"The grade for this problem is determined by the mean score of your Peer "
+"Assessments."
+msgstr ""
+"La note pour ce problème est déterminée par le score moyen de vos "
+"évaluations par les pairs."
+
+msgid "Peer Assessment Only"
+msgstr "Évaluation par les pairs uniquement"
+
+msgid "Self Assessment Only"
+msgstr "Auto-évaluation uniquement"
+
+msgid "Staff Assessment Only"
+msgstr "Évaluation du personnel uniquement"
+
+msgid "Self Assessment to Peer Assessment"
+msgstr "Auto-évaluation à l’évaluation par les pairs"
+
+msgid "Self Assessment to Staff Assessment"
+msgstr "Auto-évaluation et évaluation du personnel"
+
+msgid "You can't reset your submission."
+msgstr "Vous ne pouvez pas réinitialiser votre soumission."
+
+msgid "The user does not exist."
+msgstr "L&#39;utilisateur n&#39;existe pas."
+
+msgid "There is no submission to reset."
+msgstr "Il n’y a aucune soumission à réinitialiser."
+
+msgid "Submission reset successfully."
+msgstr "La soumission a été réinitialisée avec succès."
+
+msgid "You must specify a block id from which to copy a rubric."
+msgstr ""
+"Vous devez spécifier un identifiant de bloc à partir duquel copier une "
+"rubrique."
+
+msgid "Invalid block id."
+msgstr "Identifiant de bloc invalide."
+
+msgid ""
+"No Open Response Assessment found in {course_id} with block id {block_id}"
+msgstr ""
+"Aucune évaluation de réponse ouverte trouvée dans {course_id} avec l&#39;ID "
+"de bloc {block_id}"
+
+msgid "You do not have permission to schedule training"
+msgstr "Vous n&#39;êtes pas autorisé à planifier une formation"
+
+msgid "You do not have permission to reschedule tasks."
+msgstr "Vous n&#39;êtes pas autorisé à replanifier des tâches."
+
+msgid "You do not have permission to access the ORA staff area"
+msgstr ""
+"Vous n&#39;êtes pas autorisé à accéder à l&#39;espace personnel de l&#39;ORA"
+
+msgid "You do not have permission to access ORA learner information."
+msgstr ""
+"Vous n&#39;êtes pas autorisé à accéder aux informations sur les apprenants "
+"ORA."
+
+msgid "You do not have permission to access ORA staff grading."
+msgstr ""
+"Vous n&#39;êtes pas autorisé à accéder aux notes du personnel d&#39;ORA."
+
+msgid "Pending"
+msgstr "En attente"
+
+msgid "Complete/Overwritten"
+msgstr "Complété/Écrasé"
+
+msgid "Not applicable"
+msgstr "N&#39;est pas applicable"
+
+msgid "Not submitted"
+msgstr "Pas transmis"
+
+msgid "Submitted"
+msgstr "Soumis"
+
+msgid "Error getting learner information."
+msgstr "Erreur lors de l&#39;obtention des informations sur l&#39;apprenant."
+
+msgid "Error loading the checked out learner response."
+msgstr "Erreur lors du chargement de la réponse de l&#39;apprenant extraite."
+
+msgid "No other learner responses are available for grading at this time."
+msgstr ""
+"Aucune autre réponse de l&#39;apprenant n&#39;est disponible pour la "
+"notation pour le moment."
+
+msgid "Error getting staff grade information."
+msgstr ""
+"Erreur lors de l&#39;obtention des informations sur les notes du personnel."
+
+msgid "Error getting staff grade ungraded and checked out counts."
+msgstr ""
+"Erreur lors de la non-classification du personnel et des décomptes vérifiés."
+
+msgid "Please enter valid reason to remove the submission."
+msgstr "Veuillez saisir une raison valable pour supprimer la soumission."
+
+msgid "Submission not found"
+msgstr "Soumission introuvable"
+
+msgid "Submission for team assignment has no associated team submission"
+msgstr ""
+"La soumission pour l’affectation d’équipe n’a aucune soumission d’équipe "
+"associée"
+
+msgid ""
+"The learner submission has been removed from peer assessment. The learner "
+"receives a grade of zero unless you delete the learner's state for the "
+"problem to allow them to resubmit a response."
+msgstr ""
+"La soumission de l’apprenant a été supprimée de l’évaluation par les pairs. "
+"L&#39;apprenant reçoit une note de zéro, sauf si vous supprimez son état "
+"pour le problème afin de lui permettre de soumettre à nouveau une réponse."
+
+msgid ""
+"The team’s submission has been removed from grading. The team receives a "
+"grade of zero unless you delete a team member’s state for the problem to "
+"allow the team to resubmit a response."
+msgstr ""
+"La soumission de l&#39;équipe a été supprimée de la notation. L&#39;équipe "
+"reçoit une note de zéro, sauf si vous supprimez l&#39;état d&#39;un membre "
+"de l&#39;équipe pour le problème afin de permettre à l&#39;équipe de "
+"soumettre à nouveau une réponse."
+
+msgid "Error updating XBlock configuration"
+msgstr "Erreur lors de la mise à jour de la configuration XBlock"
+
+msgid "Error: Text Response and File Upload Response cannot both be disabled"
+msgstr ""
+"Erreur : La réponse texte et la réponse de téléchargement de fichier ne "
+"peuvent pas être désactivées toutes les deux"
+
+msgid ""
+"Error: When Text Response is disabled, File Upload Response must be Required"
+msgstr ""
+"Erreur : lorsque la réponse textuelle est désactivée, la réponse de "
+"téléchargement de fichier doit être obligatoire"
+
+msgid ""
+"Error: When File Upload Response is disabled, Text Response must be Required"
+msgstr ""
+"Erreur : lorsque la réponse de téléchargement de fichier est désactivée, la "
+"réponse textuelle doit être obligatoire"
+
+msgid "Validation error: {error}"
+msgstr "Erreur de validation : {error}"
+
+msgid "Successfully updated OpenAssessment XBlock"
+msgstr "OpenAssessment XBlock mis à jour avec succès"
+
+msgid "You must provide options selected in the assessment."
+msgstr "Vous devez fournir les options sélectionnées lors de l’évaluation."
+
+msgid "You must provide overall feedback in the assessment."
+msgstr "Vous devez fournir une rétroaction globale dans l’évaluation."
+
+msgid "You must provide feedback for criteria in the assessment."
+msgstr "Vous devez fournir des commentaires sur les critères de l’évaluation."
+
+msgid ""
+"'{date}' is an invalid date format. Make sure the date is formatted as YYYY-"
+"MM-DDTHH:MM:SS."
+msgstr ""
+"« {date} » est un format de date non valide. Assurez-vous que la date est au"
+" format AAAA-MM-JJTHH:MM:SS."
+
+msgid "'{date}' must be a date string or datetime"
+msgstr "&#39;{date}&#39; doit être une chaîne de date ou une date/heure"
+
+msgid ""
+"This step's start date '{start}' cannot be earlier than the previous step's "
+"start date '{prev}'."
+msgstr ""
+"La date de début de cette étape « {start} » ne peut pas être antérieure à la"
+" date de début de l&#39;étape précédente « {prev} »."
+
+msgid ""
+"This step's due date '{due}' cannot be later than the next step's due date "
+"'{prev}'."
+msgstr ""
+"La date d&#39;échéance de cette étape « {due} » ne peut pas être postérieure"
+" à la date d&#39;échéance de l&#39;étape suivante « {prev} »."
+
+msgid "The start date '{start}' cannot be later than the due date '{due}'"
+msgstr ""
+"La date de début &#39;{start}&#39; ne peut pas être postérieure à la date "
+"d&#39;échéance &#39;{due}&#39;"
+
+msgid "This problem must include at least one assessment."
+msgstr "Ce problème doit inclure au moins une évaluation."
+
+msgid "The assessment order you selected is invalid."
+msgstr ""
+"L&#39;ordre d&#39;évaluation que vous avez sélectionné n&#39;est pas valide."
+
+msgid "In peer assessment, the \"Must Grade\" value must be a positive integer."
+msgstr ""
+"Lors de l&#39;évaluation par les pairs, la valeur « Must Grade » doit être "
+"un entier positif."
+
+msgid "In peer assessment, the \"Graded By\" value must be a positive integer."
+msgstr ""
+"Lors de l&#39;évaluation par les pairs, la valeur « Noté par » doit être un "
+"entier positif."
+
+msgid ""
+"In peer assessment, the \"Must Grade\" value must be greater than or equal "
+"to the \"Graded By\" value."
+msgstr ""
+"Dans l&#39;évaluation par les pairs, la valeur « Doit noter » doit être "
+"supérieure ou égale à la valeur « Noté par »."
+
+msgid "You must provide at least one example response for learner training."
+msgstr ""
+"Vous devez fournir au moins un exemple de réponse pour la formation des "
+"apprenants."
+
+msgid "Each example response for learner training must be unique."
+msgstr ""
+"Chaque exemple de réponse pour la formation des apprenants doit être unique."
+
+msgid "The \"required\" value must be true if staff assessment is the only step."
+msgstr ""
+"La valeur « requise » doit être vraie si l&#39;évaluation du personnel est "
+"la seule étape."
+
+msgid ""
+"The number of assessments cannot be changed after the problem has been "
+"released."
+msgstr ""
+"Le nombre d&#39;évaluations ne peut pas être modifié une fois le problème "
+"résolu."
+
+msgid ""
+"The assessment type cannot be changed after the problem has been released."
+msgstr ""
+"Le type d&#39;évaluation ne peut pas être modifié une fois le problème "
+"résolu."
+
+msgid ""
+"The grading strategy for peer assessments cannot be changed after the "
+"problem has been released."
+msgstr ""
+"La stratégie de notation pour les évaluations par les pairs ne peut pas être"
+" modifiée une fois le problème publié."
+
+msgid "This rubric definition is not valid."
+msgstr "Cette définition de rubrique n’est pas valide."
+
+msgid "You must provide at least one prompt."
+msgstr "Vous devez fournir au moins une invite."
+
+msgid "Options in '{criterion}' have duplicate name(s): {duplicates}"
+msgstr "Les options dans « {critère} » ont des noms en double : {duplicates}"
+
+msgid "Criteria with no options must require written feedback."
+msgstr "Les critères sans options doivent nécessiter une rétroaction écrite."
+
+msgid "Prompts cannot be created or deleted after a problem is released."
+msgstr ""
+"Les invites ne peuvent pas être créées ou supprimées une fois qu&#39;un "
+"problème est résolu."
+
+msgid "The number of criteria cannot be changed after a problem is released."
+msgstr ""
+"Le nombre de critères ne peut pas être modifié après la publication d&#39;un"
+" problème."
+
+msgid "Criteria names cannot be changed after a problem is released"
+msgstr ""
+"Les noms des critères ne peuvent pas être modifiés après la publication "
+"d&#39;un problème"
+
+msgid "The number of options cannot be changed after a problem is released."
+msgstr ""
+"Le nombre d&#39;options ne peut pas être modifié une fois qu&#39;un problème"
+" est résolu."
+
+msgid "Point values cannot be changed after a problem is released."
+msgstr ""
+"Les valeurs de points ne peuvent pas être modifiées une fois qu&#39;un "
+"problème est résolu."
+
+msgid "Learner training must have at least one training example."
+msgstr ""
+"La formation des apprenants doit comporter au moins un exemple de formation."
+
+msgid "Leaderboard number is invalid."
+msgstr "Le numéro du classement n&#39;est pas valide."
+
+msgid "The submission format is invalid."
+msgstr "Le format de soumission n&#39;est pas valide."

@@ -2,10 +2,10 @@
 # Copyright (C) 2025 EdX
 # This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
 # EdX Team <info@edx.org>, 2025.
-# 
+#
 # Translators:
 # Brian Smith, 2025
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1a\n"
@@ -14,8 +14,56 @@ msgstr ""
 "PO-Revision-Date: 2025-11-17 07:23+0000\n"
 "Last-Translator: Brian Smith, 2025\n"
 "Language-Team: French (https://app.transifex.com/open-edx/teams/6205/fr/)\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: fr\n"
 "Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+msgid "Display Name"
+msgstr "Afficher un nom"
+
+msgid "This is the XBlock's display name"
+msgstr "Ceci est le nom d&#39;affichage du XBlock"
+
+msgid "Image URL"
+msgstr "URL de l&#39;image"
+
+msgid "This is the location of the full-screen image to be displayed."
+msgstr ""
+"Il s&#39;agit de l&#39;emplacement de l&#39;image plein écran à afficher."
+
+msgid "Thumbnail URL"
+msgstr "URL de la miniature"
+
+msgid ""
+"This is the (optional) location of a thumbnail image to be displayed before "
+"the main image has been enlarged."
+msgstr ""
+"Il s&#39;agit de l&#39;emplacement (facultatif) d&#39;une image miniature à "
+"afficher avant que l&#39;image principale ne soit agrandie."
+
+msgid "Description"
+msgstr "Description"
+
+msgid "Description text, displayed to screen readers"
+msgstr "Texte de description, affiché aux lecteurs d&#39;écran"
+
+msgid "Alt Text"
+msgstr "Texte alternatif"
+
+msgid ""
+"This field allows you to add alternate or descriptive text that pertains to "
+"your image."
+msgstr ""
+"Ce champ vous permet d&#39;ajouter un texte alternatif ou descriptif relatif"
+" à votre image."
+
+msgid "Fullscreen"
+msgstr "Plein écran"
+
+msgid "Zoom In"
+msgstr "Agrandir"
+
+msgid "Close"
+msgstr "Fermer"
