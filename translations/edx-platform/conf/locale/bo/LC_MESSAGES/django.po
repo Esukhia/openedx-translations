@@ -8268,19 +8268,19 @@ msgid "Course Categories"
 msgstr "མཚན་འབེབས་སྒོ་རིག"
 
 msgid "About Us"
-msgstr "ང་ཚོ་སྐོར།"
+msgstr "O nama"
 
 msgid "Centers"
-msgstr "ཁང་ཚན་ཚོགས་པ།"
+msgstr "Centri"
 
 msgid "My Wishlist"
-msgstr "ངའི་དགའ་ཐོ།"
+msgstr "Moj željeni popis"
 
 msgid "You have no courses in your wishlist."
-msgstr "ཁྱེད་ཀྱི་དགའ་ཐོའི་ནང་སློབ་ཚན་མེད།"
+msgstr "Nemate nijedan kurs u vašem željenom popisu."
 
 msgid "Open Course"
-msgstr "སློབ་ཚན་ཁ་ཕྱེ།"
+msgstr "Otvoreni kurs"
 
 msgid "Go to main page"
 msgstr "ངོས་དོན་ཤོག་ངོས་ལ་ཕེབས།"
