@@ -3,10 +3,10 @@
 # Copyright (C) 2018 edX
 # This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
 # EdX Team <info@edx.org>, 2018.
-# 
+#
 # Translators:
 # Brian Smith, 2025
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: edx-ora2\n"
@@ -15,10 +15,10 @@ msgstr ""
 "PO-Revision-Date: 2025-11-17 07:23+0000\n"
 "Last-Translator: Brian Smith, 2025\n"
 "Language-Team: Chinese (China) (https://app.transifex.com/open-edx/teams/301281/zh_CN/)\n"
+"Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: zh_CN\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: xblock/static/dist/openassessment-lms.0ed216fc6ce56a916473.js:8
@@ -379,3 +379,12 @@ msgstr "文件类型不能为空。"
 #: xblock/static/js/src/studio/oa_edit_settings.js:128
 msgid "The following file types are not allowed: "
 msgstr "下列文件类型不可用："
+
+msgid ""
+"\n"
+"                    Please respond to the question below. Your response will be saved automatically and %(start_tag)scannot be edited once submitted%(end_tag)s.\n"
+"                "
+msgstr ""
+
+msgid "Enter your response to the question above."
+msgstr ""
