@@ -98,5 +98,8 @@
   "ora-grading.lms-api.gradingStatusDisplay.ungraded": "Chưa chấm",
   "ora-grading.lms-api.gradingStatusDisplay.locked": "Hiện đang được người khác chấm điểm",
   "ora-grading.lms-api.gradingStatusDisplay.graded": "Chấm điểm đã hoàn thành",
-  "ora-grading.lms-api.gradingStatusDisplay.inProgress": "Bạn hiện đang chấm điểm câu trả lời này"
+  "ora-grading.lms-api.gradingStatusDisplay.inProgress": "Bạn hiện đang chấm điểm câu trả lời này",
+  "ora-grading.CTA.feedbackMessage": "Thanks for using the new ORA staff grading experience.",
+  "ora-grading.CTA.linkMessage": "Provide some feedback",
+  "ora-grading.CTA.letUsKnowMessage": "and let us know what you think!"
 }
