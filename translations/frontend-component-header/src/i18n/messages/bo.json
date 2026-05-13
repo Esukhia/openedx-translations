@@ -32,5 +32,7 @@
   "header.menu.aria-label": "ལག་ལེན་པའི་གདམ་ཁ་",
   "header.user.menu.studio": "སྒྲིག་སྟེགས་གཙོ་ངོས།",
   "header.label.courseOutline": "སྒྲིག་སྟེགས་ནང་གི་སློབ་ཚན་གྱི་སྡེ་ཚན་ས་བཅད་ཀྱི་མཚམས་སུ་ཕྱིར་ལོག",
-  "header.label.search.nav": "ནང་དོན་འཚོལ་བཤེར།"
+  "header.label.search.nav": "ནང་དོན་འཚོལ་བཤེར།",
+  "header.user.menu.studio.maintenance": "Maintenance",
+  "header.user.menu.maintenance": "Maintenance"
 }

@@ -2,10 +2,10 @@
 # Copyright (C) 2025 EdX
 # This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
 # EdX Team <info@edx.org>, 2025.
-# 
+#
 # Translators:
 # Brian Smith, 2025
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1a\n"
@@ -14,10 +14,10 @@ msgstr ""
 "PO-Revision-Date: 2025-11-17 07:23+0000\n"
 "Last-Translator: Brian Smith, 2025\n"
 "Language-Team: Tibetan (https://app.transifex.com/open-edx/teams/6205/bo/)\n"
+"Language: bo\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: bo\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: image_explorer.py:59
@@ -56,3 +56,32 @@ msgstr "ཉར་ཚགས།"
 #: templates/html/image_explorer_edit.html:40
 msgid "Cancel"
 msgstr "ཕྱིར་འཐེན།"
+
+msgid "Hot Spots Coordinates Centered"
+msgstr "ཚ་ཁུལ་གྱི་སྦྲེལ་མཐུད་དབུས་སུ་བཞག་ཡོད།"
+
+msgid "Store hotspots opened by student, for completion"
+msgstr "སློབ་མས་མཇུག་སྒྲིལ་ཆེད་ཁ་ཕྱེ་བའི་ཚོང་ཁང་གི་ཚ་དྲོད་ས་ཚིགས།"
+
+msgid "XML contents to display for this module"
+msgstr "ཚད་གཞི་འདིའི་ཆེད་དུ་མངོན་པའི་XMLནང་དོན།"
+
+msgid "Hotspot coordinates centered"
+msgstr "Hotspot coordinates centered"
+
+msgid ""
+"If set to true, hotspot coordinates interpreted to point to the center of "
+"the hotspot"
+msgstr ""
+"གལ་ཏེ་བདེན་པར་སྒྲིག་ཚེ། "
+"དྲ་ཚིགས་ཀྱི་སྦྲེལ་མཐུད་དེ་དྲ་ཚིགས་ཀྱི་དབུས་སུ་སྟོན་པར་དོན་འགྲེལ་བྱེད།"
+
+msgid ""
+"If set to false, assumed to point to the top left corner of the hotspot "
+"image"
+msgstr ""
+"གལ་ཏེ་རྫུན་མ་ལ་སྒྲིག་ཚེ། "
+"དྲ་ཚིགས་པར་རིས་ཀྱི་གཡོན་ཕྱོགས་སྟེང་ཟུར་ལ་སྟོན་པར་བསམ་གཞིག་བྱེད།"
+
+msgid "The XML definition for the Image Explorer"
+msgstr "པར་རིས་འཚོལ་ཞིབ་བྱེད་མཁན་གྱི་XMLངེས་ཚིག"

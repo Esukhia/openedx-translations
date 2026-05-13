@@ -2,11 +2,11 @@
 # edX translation file
 # Copyright (C) 2018 edX
 # This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
-# 
+#
 # Translators:
 # Translators:
 # Brian Smith, 2025
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: edx-platform\n"
@@ -15,10 +15,10 @@ msgstr ""
 "PO-Revision-Date: 2025-11-17 07:23+0000\n"
 "Last-Translator: Brian Smith, 2025\n"
 "Language-Team: Tibetan (https://app.transifex.com/open-edx/teams/301281/bo/)\n"
+"Language: bo\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: bo\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: apps/api/filters.py:48
@@ -844,7 +844,7 @@ msgstr "ཁྱེད་ཀྱིས་ངེས་པར་དུ་ --མཉམ
 #, python-brace-format
 msgid "Supplied Course Run Type slug [{rt_slug}] does not exist."
 msgstr ""
-"མཁོ་སྤྲོད་བྱས་ཟིན་པའི་སློབ་ཚན་་གནས་ཚུལ་རིགས་ཀྱི་དྲ་ཐག་གམ་ slug [{rt_slug}] "
+"མཁོ་སྤྲོད་བྱས་ཟིན་པའི་སློབ་ཚན་་གནས་ཚུལ་རིགས་ཀྱི་དྲ་ཐག་གམ་ slug [{ct_slug}] "
 "གནས་མི་འདུག"
 
 #: apps/course_metadata/management/commands/backpopulate_course_type.py:78
@@ -1908,3 +1908,528 @@ msgstr "མཉམ་འབྲེལ་གང་ཡང་རྙེད་མ་ས
 #: urls.py:32
 msgid "Discovery Service Administration"
 msgstr "འཛིན་སྐྱོང་ཞབས་ཞུ་ལ་གཟིགས།"
+
+msgid "Dictionary mapping course run IDs to boolean values"
+msgstr "Dictionary mapping course run IDs to boolean values"
+
+msgid "Dictionary mapping course IDs to boolean values"
+msgstr "ཚིག་མཛོད་ཀྱིས་སློབ་ཚན་གྱི་ཨང་རྟགས་དེ་བུ་ལིན་རིན་ཐང་ལ་ས་ཁྲ་བཟོས་པ།"
+
+msgid "Can only update status, ofac restrictions, and ofac comment"
+msgstr "གནས་བབ་དང་། ofac ཚད་གཞི། ofac མཆན་འགྲེལ་ཁོ་ན་གསར་བརྗེ་བྱེད་ཐུབ།"
+
+msgid ""
+"Existing run type {run_type} for {key} ({id}) doesn't match course type "
+"{type}.Skipping type."
+msgstr ""
+"ད་ལྟའི་རྒྱུག་པའི་རིགས་ {run_type} {key} ( {id} ) ལ་སློབ་ཚན་རིགས་ {type} "
+"དང་མཐུན་མི་ཐུབ།"
+
+msgid ""
+"Existing run type {run_type} for {key} ({id}) doesn't match its own seats."
+msgstr ""
+"ད་ལྟའི་རྒྱུག་པའི་རིགས་ {run_type} {key} ( {id} ) "
+"དེ་རང་ཉིད་ཀྱི་སྡོད་གནས་དང་མཐུན་མི་ཐུབ།"
+
+msgid ""
+"Use arguments from the TagCourseUUIDsConfig model instead of the command "
+"line."
+msgstr ""
+"བརྡ་བཀོད་གྲལ་ཐིག་གི་ཚབ་ཏུ་ TagCourseUUIDsConfig "
+"དཔེ་གཞིའི་སྒྲུབ་བྱེད་བེད་སྤྱོད་བྱེད།"
+
+msgid "Backpopulate new-style CourseType and CourseRunType where possible."
+msgstr ""
+"གང་ཐུབ་ཅི་ཐུབ་ཀྱིས་སློབ་ཚན་གྱི་རིགས་དང་སློབ་ཚན་གྱི་རིགས་གསར་པ་ཕྱིར་འཐེན་བྱེད།"
+
+msgid ""
+"Use arguments from the BackpopulateCourseTypeConfig model instead of the "
+"command line."
+msgstr ""
+"བརྡ་བཀོད་གྲལ་ཐིག་གི་ཚབ་ཏུ་ BackpopulateCourseTypeConfig "
+"དཔེ་གཞི་ནས་སྒྲུབ་བྱེད་བེད་སྤྱོད་བྱེད།"
+
+msgid ""
+"Use arguments from the DeletePersonDupsConfig model instead of the command "
+"line."
+msgstr ""
+"བརྡ་བཀོད་གྲལ་ཐིག་གི་ཚབ་ཏུ་ DeletePersonDupsConfig "
+"དཔེ་གཞི་ནས་སྒྲུབ་བྱེད་བེད་སྤྱོད་བྱེད།"
+
+msgid "Malformed argument \"{}\", should be in form of UUID:TARGET_UUID"
+msgstr ""
+"ནོར་འཁྲུལ་ཅན་གྱི་སྒྲུབ་རྟགས་ &quot;{}&quot;, དེ་ UUID:TARGET_UUID "
+"ཡི་རྣམ་པ་ཡིན་དགོས།"
+
+msgid "Malformed argument \"{}\", UUIDs cannot be equal"
+msgstr ""
+"དབྱིབས་ནོར་འཁྲུལ་ཅན་གྱི་སྒྲུབ་རྟགས་ &quot;{}&quot;, UUIDs "
+"འདྲ་མཉམ་ཆགས་མི་ཐུབ།"
+
+msgid ""
+"Use arguments from the RemoveRedirectsConfig model instead of the command "
+"line."
+msgstr ""
+"བརྡ་བཀོད་གྲལ་ཐིག་གི་ཚབ་ཏུ་ RemoveRedirectsConfig "
+"དཔེ་གཞི་ནས་སྒྲུབ་བྱེད་བེད་སྤྱོད་བྱེད།"
+
+msgid ""
+"For seo, this field allows for alternate spanish description to be manually "
+"inputted"
+msgstr ""
+"seo ལ་མཚོན་ན། ས་སྒོ་འདིས་སི་པན་གྱི་འགྲེལ་བཤད་གཞན་ཞིག་ལག་ཐོག་ནས་འཇུག་ཆོག"
+
+msgid ""
+"Pick a tag from the suggestions. To make a new tag, add a comma after the "
+"tag name."
+msgstr ""
+"བསམ་འཆར་ནང་ནས་མིང་རྟགས་འདེམས། "
+"རྟགས་གསར་པ་བཟོ་བར་རྟགས་མཚན་གྱི་རྗེས་སུ་ཚེག་བསྣན་དགོས།"
+
+msgid ""
+"This field signifies if any of this org's courses are in the enterprise "
+"subscription catalog"
+msgstr ""
+"ས་ཁོངས་འདིས་སྒྲིག་འཛུགས་འདིའི་སློབ་ཚན་གང་རུང་ཞིག་ཁེ་ལས་ཀྱི་མངགས་ཉོའི་ཐོ་གཞུང་ནང་དུ་ཡོད་མེད་མཚོན་གྱི་ཡོད།"
+
+msgid ""
+"The 6 character-hex-value of the orgnization theme color,\n"
+"            all related course under same organization will use this color as theme color.\n"
+"            (e.g. \"#ff0000\" which equals red) No need to provide the `#`"
+msgstr ""
+"སྒྲིག་འཛུགས་ཀྱི་བརྗོད་གཞིའི་ཚོས་གཞིའི་ཡིག་འབྲུ་དྲུག་ཅན་གྱི་རིན་ཐང་།\n"
+" སྒྲིག་འཛུགས་གཅིག་གི་འོག་ཏུ་འབྲེལ་ཡོད་སློབ་ཚན་ཚང་མས་ཚོས་གཞི་འདི་བརྗོད་གཞིའི་ཚོས་གཞི་ལྟར་བེད་སྤྱོད་གཏོང་གི་རེད།\n"
+" (དཔེར་ན། &quot;#ff0000&quot; དེ་དམར་པོ་དང་མཉམ་པ) `#` མཁོ་སྤྲོད་བྱེད་མི་དགོས།"
+
+msgid ""
+"The ID of the Taxi Form (by 2U) that would be rendered in place of the "
+"hubspot capture form"
+msgstr ""
+"གླ་འཁོར་གྱི་ཡིག་ཆའི་ཨང་རྟགས་(2Uཡིས་)དེ་ལྟེ་གནས་འཛིན་པའི་ཡིག་ཆའི་ཚབ་ཏུ་བསྟན་རྒྱུ་རེད།"
+
+msgid ""
+"The grouping of the Taxi Form (by 2U) that would be rendered instead of the "
+"hubspot capture form"
+msgstr "གླ་འཁོར་གྱི་འབྲི་ཤོག་གི་སྡེ་ཚན་བཟོ་བ།"
+
+msgid "This field allows for override the default course term"
+msgstr "ས་ཁོངས་འདིས་སྔོན་སྒྲིག་སློབ་ཚན་གྱི་ཐ་སྙད་བཀག་འགོག་བྱེད་ཆོག"
+
+msgid ""
+"A JSON list detailing the available translations for this run. Each element "
+"in the list is a dictionary containing two keys: the language code and the "
+"language label. These entries represent the languages into which the run "
+"content can be translated."
+msgstr ""
+"འདི་བཞིན་སྒྲུབ་པའི་སྐབས་སུ་ཐོབ་ཐུབ་པའི་ཡིག་སྒྱུར་གྱི་ཞིབ་ཕྲའི་ཐོ་གཞུང་ཞིག་སྟོན་རྒྱུ་ཡིན།"
+" "
+"ཐོ་གཞུང་ནང་གི་གཞི་རྩའི་ཆ་ཤས་རེ་རེ་ནི་སྐད་ཡིག་གི་ཨང་གྲངས་དང་སྐད་ཡིག་གི་མིང་རྟགས་བཅས་གནད་དོན་གཉིས་ཡོད་པའི་ཚིག་མཛོད་ཅིག་ཡིན།"
+" ནང་འཇུག་བྱས་པའི་ཡིག་ཆ་དེ་སྐད་ཡིག་འདི་དག་ཏུ་ཕབ་སྒྱུར་བྱེད་ཐུབ།"
+
+msgid ""
+"Whether this run should be hidden from API responses.  Do not edit here - "
+"this value will be overwritten by the \"Course Visibility In Catalog\" field"
+" in Studio via Refresh Course Metadata."
+msgstr ""
+"རྒྱུག་འདི་APIལན་འདེབས་ལས་གསང་བ་བྱེད་དགོས་སམ། འདིར་རྩོམ་སྒྲིག་མ་བྱེད། "
+"རིན་ཐང་འདི་སློབ་ཚན་གྱི་མེ་ཊ་ཌེ་ཊ་གསར་བརྗེ་བརྒྱུད་ནས་སློབ་ཁང་ནང་དུ་&quot;སློབ་ཚན་གྱི་ཐོ་གཞུང་ནང་མཐོང་ཐུབ་པ་&quot;ཞེས་པའི་ས་ཁོངས་ཀྱིས་བརྗེ་སྒྱུར་བྱེད།"
+
+msgid "Add OFAC restriction text to the FAQ section of the Marketing site"
+msgstr ""
+"ཚོང་གཉེར་དྲ་ཚིགས་ཀྱི་དྲི་བ་དྲིས་ལན་ཚན་པར་OFACཚད་བཀག་ཡི་གེ་ཁ་སྣོན་བྱེད།"
+
+msgid ""
+"This calculated field signifies if this course run is in the enterprise "
+"subscription catalog"
+msgstr ""
+"རྩིས་རྒྱག་ས་སྒོ་འདིས་སློབ་ཚན་འདི་ཁེ་ལས་ཀྱི་མངགས་ཉོའི་ཐོ་གཞུང་ནང་ཡོད་མེད་མཚོན་གྱི་ཡོད།"
+
+msgid ""
+"The identifier for a product variant. This is used to link a course run to a"
+" product variant for external LOBs (i.e; ExecEd & Bootcamps)."
+msgstr ""
+"ཐོན་རྫས་མི་འདྲ་བའི་ངོས་འཛིན། འདི་ཕྱི་རོལ་གྱི་LOBs(དཔེར་ན། "
+"ExecEdདང་Bootcamps)ལ་སློབ་ཚན་གྱི་རྒྱུག་ཚད་དེ་ཐོན་རྫས་ཀྱི་འགྱུར་ལྡོག་ལ་འབྲེལ་མཐུད་བྱེད་པར་བེད་སྤྱོད་བྱེད་ཀྱི་ཡོད།"
+
+msgid ""
+"Switching seat types after being reviewed is not supported. Please reach out"
+" to your project coordinator for additional help if necessary."
+msgstr ""
+"བསྐྱར་ཞིབ་བྱས་རྗེས་རྐུབ་སྟེགས་རིགས་བརྗེ་སྒྱུར་བྱེད་པར་རྒྱབ་སྐྱོར་བྱེད་ཀྱི་མེད།"
+" "
+"གལ་ཏེ་དགོས་གལ་བྱུང་ན་ཁྱེད་རང་གི་ལས་གཞིའི་འབྲེལ་མཐུད་པ་ལ་རོགས་རམ་ཁ་སྣོན་བྱེད་པར་འབྲེལ་བ་གནང་རོགས།"
+
+msgid "A brief, descriptive subtitle for the Program."
+msgstr "ལས་རིམ་གྱི་འགྲེལ་བརྗོད་ཀྱི་ཡན་ལག་མདོར་བསྡུས།"
+
+msgid "A brief hook for the marketing website"
+msgstr "ཉོ་ཚོང་དྲ་ཚིགས་ཀྱི་མདོར་བསྡུས།"
+
+msgid "The lifecycle status of this Program."
+msgstr "ལས་རིམ་འདིའི་མི་ཚེའི་གནས་ཚུལ།"
+
+msgid ""
+"This field can be used by API clients to determine the order in which "
+"instructors will be displayed on program pages. Instructors in this list "
+"should appear before all others associated with this programs courses runs."
+msgstr ""
+"ས་ཁོངས་འདི་APIཚོང་ཤག་གིས་ལས་རིམ་ཤོག་ངོས་སྟེང་སློབ་སྟོན་པ་གང་འདྲ་ཞིག་ལ་བཀྲམ་སྟོན་བྱེད་པའི་གོ་རིམ་གཏན་འབེབས་བྱེད་པར་བེད་སྤྱོད་གཏོང་ཐུབ།"
+" "
+"ཐོ་གཞུང་འདིའི་ནང་དུ་ཡོད་པའི་སློབ་སྟོན་པ་རྣམས་ལས་རིམ་འདི་དང་འབྲེལ་བའི་སློབ་ཚན་གཞན་ཚང་མ་འགོ་མ་བཙུགས་གོང་དུ་ཐོན་དགོས།"
+
+msgid "The description of credit redemption for courses in program"
+msgstr "ལས་རིམ་ནང་གི་སློབ་ཚན་གྱི་བུ་ལོན་སྐྱིན་ཚབ་ཀྱི་འགྲེལ་བཤད།"
+
+msgid ""
+"Number of credits a learner will earn upon successful completion of the "
+"program"
+msgstr "སློབ་མ་ཞིག་གིས་ལས་རིམ་མཐར་ཕྱིན་རྗེས་ཐོབ་པའི་སློབ་ཚན་གྱི་གྲངས།"
+
+msgid ""
+"This calculated field signifies if all the courses in this program are "
+"included in the enterprise subscription catalog "
+msgstr ""
+"རྩིས་རྒྱག་པའི་ས་ཁོངས་འདིས་ལས་རིམ་འདིའི་སློབ་ཚན་ཚང་མ་ཁེ་ལས་ཀྱི་མངགས་ཉོའི་ཐོ་གཞུང་ནང་དུ་ཚུད་ཡོད་མེད་མཚོན་གྱི་ཡོད།"
+" "
+
+msgid ""
+"A field to override Organization short code alias specific for this program."
+msgstr ""
+"ལས་རིམ་འདིའི་ཆེད་དུ་དམིགས་བསལ་གྱི་སྒྲིག་འཛུགས་ཀྱི་ཨང་གྲངས་ཐུང་ཐུང་མིང་གཞན་དེ་བཀག་འགོག་བྱེད་པའི་ས་ཁོངས།"
+
+msgid "A field to override Organization logo specific for this program."
+msgstr ""
+"ལས་རིམ་འདིའི་ཆེད་དུ་དམིགས་བསལ་གྱི་སྒྲིག་འཛུགས་ཀྱི་རྟགས་མཚན་བཀག་འགོག་བྱེད་པའི་ས་ཁོངས།"
+
+msgid ""
+"Primary subject field specific for this program. Useful field in case there "
+"are no courses associated with this program."
+msgstr ""
+"ལས་རིམ་འདིའི་ཆེད་དུ་དམིགས་པའི་སློབ་ཚན་གཙོ་བོའི་ཁྱབ་ཁོངས། "
+"ལས་རིམ་འདི་དང་འབྲེལ་བའི་སློབ་ཚན་མེད་ན་ཕན་ཐོགས་པའི་ས་ཁོངས།"
+
+msgid ""
+"Level type specific for this program. Useful field in case there are no "
+"courses associated with this program."
+msgstr ""
+"ལས་རིམ་འདིའི་ཆེད་དུ་དམིགས་བསལ་གྱི་རིམ་པ་རིགས། "
+"ལས་རིམ་འདི་དང་འབྲེལ་བའི་སློབ་ཚན་མེད་ན་ཕན་ཐོགས་པའི་ས་ཁོངས།"
+
+msgid ""
+"Language code specific for this program. Useful field in case there are no "
+"courses associated with this program."
+msgstr ""
+"ལས་རིམ་འདིའི་ཆེད་དུ་དམིགས་བསལ་གྱི་སྐད་ཡིག་ཨང་རྟགས། "
+"ལས་རིམ་འདི་དང་འབྲེལ་བའི་སློབ་ཚན་མེད་ན་ཕན་ཐོགས་པའི་ས་ཁོངས།"
+
+msgid ""
+"Useful field to overwrite the duration of a program. It can be a text "
+"describing a period of time, Ex: 6-9 months."
+msgstr ""
+"ལས་རིམ་ཞིག་གི་དུས་ཡུན་བརྗེ་སྒྱུར་བྱེད་པར་ཕན་ཐོགས་པའི་ས་ཁོངས། "
+"དུས་ཡུན་ཞིག་བརྗོད་པའི་ཡིག་ཆ་ཞིག་ཡིན་ཆོག དཔེར་ན། ཟླ་བ་༦ནས་༩བར།"
+
+msgid ""
+"Pick a tag/label from the suggestions. To make a new tag, add a comma after "
+"the tag name."
+msgstr ""
+"བསམ་འཆར་ནང་ནས་མིང་བྱང་འདེམས། "
+"རྟགས་གསར་པ་བཟོ་བར་རྟགས་མཚན་གྱི་རྗེས་སུ་ཚེག་བསྣན་དགོས།"
+
+msgid "Callback URL to partner application flow"
+msgstr "མཉམ་ལས་རོགས་ཟླའི་མཉེན་ཆས་རྒྱུན་རིམ་ལ་ཕྱིར་འབོད་ཁ་པར་ཁ་པར་ཨང་གྲངས་།"
+
+msgid "Overall program ranking (e.g. \"#1 in the U.S.\")"
+msgstr "ལས་རིམ་གྱི་སྤྱིའི་གནས་རིམ་(དཔེར་ན། &quot;ཨ་རིའི་ནང་#1&quot;)"
+
+msgid ""
+"The 6 character hex value of the color to make the banner borders\n"
+"            (e.g. \"#ff0000\" which equals red) No need to provide the `#`"
+msgstr ""
+"དར་ཆ་མཐའ་མཚམས་བཟོ་བའི་ཚོན་མདོག་གི་ཡིག་འབྲུ་དྲུག་ཅན་གྱི་རིན་ཐང་།\n"
+" (དཔེར་ན། &quot;#ff0000&quot; དེ་དམར་པོ་དང་མཉམ་པ) `#` མཁོ་སྤྲོད་བྱེད་མི་དགོས།"
+
+msgid "Provide a campus image for the header of the degree"
+msgstr "ཤེས་ཚད་ཀྱི་མགོ་བརྗོད་ལ་སློབ་རའི་པར་རིས་མཁོ་སྤྲོད་བྱེད།"
+
+msgid "Provide a background image for the title section of the degree"
+msgstr "ཤེས་ཚད་ཀྱི་ཁ་བྱང་དུམ་བུའི་རྒྱབ་ལྗོངས་པར་རིས་མཁོ་འདོན་བྱེད།"
+
+msgid "The fine print that displays at the Tuition section's bottom"
+msgstr "སློབ་ཡོན་སྡེ་ཚན་གྱི་མཇུག་ཏུ་མངོན་པའི་ཡིག་གཟུགས་ཕྲ་མོ་དེ།"
+
+msgid "The fine print that displays at the Deadline section's bottom"
+msgstr "དུས་བཀག་ཚན་པའི་མཇུག་ཏུ་མངོན་པའི་ཡིག་གཟུགས་ཕྲ་མོ་དེ།"
+
+msgid "The sailthru email list name to capture leads"
+msgstr "སྣེ་ཁྲིད་པ་འཛིན་པའི་ཆེད་དུ་སེ་ཐུ་གློག་འཕྲིན་ཐོ་གཞུང་གི་མིང་།"
+
+msgid "Please provide an image file for the lead capture banner."
+msgstr ""
+"སྐུ་མཁྱེན། "
+"གཙོ་བོའི་པར་ལེན་དར་ཆའི་ཆེད་དུ་པར་རིས་ཡིག་ཆ་ཞིག་མཁོ་སྤྲོད་གནང་རོགས།"
+
+msgid "The Hubspot form ID for the lead capture form"
+msgstr "གཙོ་བོ་འཛིན་བཟུང་བྱེད་པའི་འབྲི་ཤོག་གི་ཧབ་སི་པོཊ་འབྲི་ཤོག་ཨང་རྟགས།"
+
+msgid "URL to micromasters landing page"
+msgstr "མའི་ཀོ་རོ་མ་སི་ཊར་གྱི་དྲ་ཚིགས་ཀྱི་URL"
+
+msgid ""
+"Designates whether the degree should be displayed on the owning "
+"organization's page"
+msgstr "བདག་དབང་ཚོགས་པའི་ཤོག་ངོས་སུ་ཤེས་ཚད་མངོན་དགོས་མིན་གཏན་འཁེལ་བྱེད།"
+
+msgid "The redirect URL of the degree on external site"
+msgstr "ཕྱིའི་དྲ་ཚིགས་སྟེང་གི་ཤེས་ཚད་ཀྱི་སླར་ཡང་ཁ་ཕྱོགས་ཁ་བྱང་།"
+
+msgid "The URL of the landing page on external site"
+msgstr "ཕྱིའི་དྲ་ཚིགས་སྟེང་གི་འབྱོར་ཤོག་གི་ཁ་བྱང་།"
+
+msgid ""
+"A high-level overview of the degree's courseware. The \"brief\"\n"
+"            text is the first 750 characters of \"marketing_text\" and must be\n"
+"            valid HTML."
+msgstr ""
+"ཤེས་ཚད་ཀྱི་སློབ་ཚན་གྱི་མཁོ་ཆས་ལ་ཚད་མཐོའི་ཕྱོགས་བསྡུས། &quot;མདོར་བསྡུས་&quot;དེ།\n"
+" textནི་&quot;marketing_text&quot;ཡི་ཐོག་མའི་ཡིག་འབྲུ་750ཡིན་པ་དང་ངེས་པར་དུ་ཡིན།\n"
+" ནུས་ལྡན་གྱི་HTML"
+
+msgid "A high-level overview of the degree's courseware."
+msgstr "ཤེས་ཚད་ཀྱི་སློབ་ཚན་གྱི་མཁོ་ཆས་ལ་ཚད་མཐོའི་ཕྱོགས་བསྡུས།"
+
+msgid ""
+"Partner {partner_key} and course partner {course_partner_key} do not match "
+"when attempting to save url slug {url_slug}"
+msgstr ""
+"མཉམ་ལས་རོགས་ {partner_key} དང་སློབ་ཚན་གྱི་མཉམ་ལས་རོགས་ཟླ "
+"{course_partner_key} url {url_slug} ཉར་ཚགས་བྱེད་སྐབས་མཐུན་མི་ཐུབ།"
+
+msgid ""
+"Partner {partner_key} and course partner {course_partner_key} do not match "
+"when attempting to save url redirect {url_path}"
+msgstr ""
+"མཉམ་ལས་རོགས་ {partner_key} དང་སློབ་ཚན་གྱི་མཉམ་ལས་རོགས་ {course_partner_key} "
+"urlབསྐྱར་ལོག་ {url_path} ཉར་ཚགས་བྱེད་སྐབས་མཐུན་མི་ཐུབ།"
+
+msgid "It expects the data will be provided in a csv file format "
+msgstr ""
+"དེས་གཞི་གྲངས་དེ་csvཡིག་ཆའི་རྣམ་པའི་ཐོག་ནས་མཁོ་སྤྲོད་བྱ་རྒྱུའི་རེ་བ་བྱེད་ཀྱི་ཡོད།"
+" "
+
+msgid ""
+"It expects the data will be provided in a csv file format with first row "
+"containing all the headers."
+msgstr ""
+"དེས་གྲངས་ཐོ་དེ་csvཡིག་ཆའི་རྣམ་གཞག་ནང་མགོ་ཡིག་ཚང་མ་ཡོད་པའི་གྲལ་ཐིག་དང་པོའི་ནང་དུ་སྤྲོད་རྒྱུའི་རེ་བ་བྱེད་ཀྱི་ཡོད།"
+
+msgid "Tag"
+msgstr "Tag"
+
+msgid "Remove All Redirects"
+msgstr "ཕྱིར་གཏོང་ཚང་མ་མེད་པར་བཟོས།"
+
+msgid "Add redirects from all published course url slugs"
+msgstr "དཔེ་སྐྲུན་བྱས་པའི་སློབ་ཚན་གྱི་url slugsཚང་མ་ནས་བསྐྱར་དུ་ཁ་སྣོན་བྱེད།"
+
+msgid "Attempted to query Salesforce with no client for partner={}"
+msgstr "ཚོང་ཤག་མེད་པའི་ཚོང་ཤག་ལ་འདྲི་རྩད་བྱེད་པར་འབད་བརྩོན་བྱས།={}"
+
+msgid "Unable to associate a case for comments for {}"
+msgstr "{} ཡི་མཆན་འགྲེལ་ལ་གྱོད་གཞི་འབྲེལ་མཐུད་བྱེད་མི་ཐུབ།"
+
+msgid ""
+"%(user_name)s made the following comment on %(course_name)s on %(date)s at "
+"%(time)s"
+msgstr ""
+"%(user_name)s %(time)s གཤམ་གསལ་གྱི་ %(course_name)s འགྲེལ་བྱས %(date)s"
+
+msgid "View comment in Publisher"
+msgstr "པར་བསྐྲུན་ཚན་པའི་ནང་མཆན་རྣམས་སྟོན།"
+
+msgid ""
+"%(user_name)s made the following comment on %(course_name)s %(date)s at "
+"%(time)s"
+msgstr "%(user_name)s %(time)s %(course_name)s གྱི་མཆན་འགྲེལ་བྱས %(date)s"
+
+msgid "Dear %(recipient_name)s,"
+msgstr "བརྩེ་བའི་ %(recipient_name)s ,"
+
+msgid ""
+"The About page for the %(course_run_number)s course run of %(course_name)s "
+"has been published. No further action is necessary."
+msgstr ""
+"%(course_run_number)s སློབ་ཚན་གྱི་སྐོར་གྱི་ཤོག་ངོས་ %(course_name)s "
+"པར་སྐྲུན་བྱས། ད་དུང་བྱ་སྤྱོད་སྤེལ་མི་དགོས།"
+
+msgid "{link_start}{preview_url}{link_middle}View this About page.{link_end}"
+msgstr "{link_start} {preview_url} {link_middle} འདི་ལ་གཟིགས། {link_end}"
+
+msgid ""
+"{link_start}{contact_us_email}{link_middle}{contact_us_email}{link_end}"
+msgstr ""
+"{link_start} {contact_us_email} {link_middle} {contact_us_email} {link_end}"
+
+msgid "View this About page. %(preview_url)s"
+msgstr "ཤོག་ངོས་འདི་ལ་གཟིགས། %(preview_url)s"
+
+msgid ""
+"Note: This email address is unable to receive replies. For questions or "
+"comments, please contact your Project Coordinator(s):"
+msgstr ""
+"མཆན: གློག་འཕྲིན་ཁ་བྱང་འདི་ལ་ལན་འདེབས་ལེན་མི་ཐུབ། དྲི་བ་དང་བསམ་ཚུལ་ཡོད་ན། "
+"ཁྱེད་རང་གི་ལས་གཞིའི་འབྲེལ་མཐུད་པ་ལ་འབྲེལ་བ་གནང་རོགས།"
+
+msgid ""
+"{org_name} has submitted {course_key} for review. "
+"{link_start}{course_page_url}{link_middle}View this course run in "
+"Publisher{link_end} to review the changes and mark it as reviewed."
+msgstr ""
+"{org_name} ཡིས་ {course_key} བསྐྱར་ཞིབ་ཆེད་ཕུལ་ཡོད། {link_start} "
+"{course_page_url} {link_middle} སློབ་ཚན་འདི་པར་སྐྲུན་པ་ {link_end} "
+"ནང་དུ་སྤེལ་ནས་བསྒྱུར་བཅོས་བསྐྱར་ཞིབ་བྱས་པ་དང་བསྐྱར་ཞིབ་བྱས་པ་ལྟར་རྟགས་བཀོད་དགོས།"
+
+msgid ""
+"This is a good time to {link_start}{studio_url}{link_middle}review this "
+"course run in Studio{link_end}."
+msgstr ""
+"འདི་ནི་ {link_start} {studio_url} {link_middle} "
+"ལ་བསྐྱར་ཞིབ་བྱེད་པའི་དུས་ཚོད་ཡག་ཤོས་ཤིག་རེད {link_end}"
+
+msgid ""
+"Visit the {link_start}{restricted_admin_url}{link_middle}restricted course "
+"admin page{link_end} to set embargo rules for this course, as needed."
+msgstr ""
+"དགོས་མཁོ་ལྟར་སློབ་ཚན་འདིའི་ཆེད་དུ་བཀག་སྡོམ་གྱི་ཁྲིམས་ལུགས་གཏན་འབེབས་བྱེད་པར་"
+" {link_start} {restricted_admin_url} {link_middle} {link_end} གཟིགས་རོགས།"
+
+msgid "%(org_name)s has submitted %(course_key)s for review."
+msgstr "%(org_name)s ཡིས་བསྐྱར་ཞིབ་ཆེད་དུ་ %(course_key)s ཕུལ་ཡོད།"
+
+msgid "Publisher page: %(course_page_url)s"
+msgstr "དཔེ་སྐྲུན་ཁང་གི་ཤོག་ངོས: %(course_page_url)s"
+
+msgid "Studio page: %(studio_url)s"
+msgstr "གློག་བརྙན་ཁང་གི་ཤོག་ངོས: %(studio_url)s"
+
+msgid "Restricted Course admin: %(restricted_admin_url)s"
+msgstr "ཚད་བཀག་ཅན་གྱི་སློབ་ཚན་བདག་སྐྱོང་། %(restricted_admin_url)s"
+
+msgid ""
+"{org_name} has submitted {course_name} for review. "
+"{link_start}{course_page_url}{link_middle}View this course run in "
+"Publisher{link_end} to determine OFAC status."
+msgstr ""
+"{org_name} ཡིས་བསྐྱར་ཞིབ་ཆེད་དུ་ {course_name} ཕུལ་ཡོད། {link_start} "
+"{course_page_url} {link_middle} OFAC གནས་ཚུལ་གཏན་འབེབས་བྱེད་པར་དཔེ་སྐྲུན་པ་ "
+"{link_end} ནང་དུ་སློབ་ཚན་འདི་སྤེལ་བར་ལྟོས།"
+
+msgid "%(org_name)s has submitted %(course_name)s for review."
+msgstr "%(org_name)s ཡིས་བསྐྱར་ཞིབ་ཆེད་དུ་ %(course_name)s ཕུལ་ཡོད།"
+
+msgid "View this course run in Publisher above to determine OFAC status."
+msgstr ""
+"སློབ་ཚན་འདི་གོང་དུ་དཔེ་སྐྲུན་ཁང་ནང་དུ་སྤེལ་ནས་OFACགནས་ཚད་གཏན་འབེབས་བྱེད་པར་གཟིགས།"
+
+msgid ""
+"The {link_start}{course_page_url}{link_middle}{course_run_number} course "
+"run{link_end} of {course_name} has been reviewed and approved by "
+"{platform_name}."
+msgstr ""
+"བ {link_start} {course_page_url} {link_middle} {course_run_number} སློབ་ཚན་བ"
+" {platform_name} བཀོལ་བ {link_end} དང་ {course_name} བཀོལ་ཡོད།"
+
+msgid ""
+"The course run about page will be published on %(go_live_date)s, pending no "
+"further edits."
+msgstr "སློབ་ཚན་གྱི་ཤོག་ངོས་དེ་ %(go_live_date)s ཐོག་པར་སྐྲུན་བྱ་རྒྱུ་དང་།"
+
+msgid "The course run about page is now published."
+msgstr "སློབ་ཚན་དེ་ཤོག་ངོས་ཙམ་ལ་ད་ལྟ་པར་སྐྲུན་བྱས་ཟིན།"
+
+msgid ""
+"The %(course_run_number)s course run of %(course_name)s has been reviewed "
+"and approved by %(platform_name)s."
+msgstr ""
+"%(course_run_number)s སློབ་ཚན་གྱི་ %(course_name)s དེ་ %(platform_name)s "
+"ཡིས་བསྐྱར་ཞིབ་དང་ཆོག་མཆན་སྤྲད་ཡོད།"
+
+msgid "View the course run in Publisher: %(course_page_url)s"
+msgstr "དཔེ་སྐྲུན་ཁང་ %(course_page_url)s ནང་སློབ་ཚན་སྤེལ་བཞིན་པ་ལ་གཟིགས།"
+
+msgid ""
+"\n"
+"        Course '%(course_name)s' has been successfully reviewed by edX and is now published on %(course_publish_date)s. To see live course, go here: <a href=\"%(course_marketing_url)s\">%(course_marketing_url)s</a>\n"
+"    "
+msgstr ""
+"\n"
+"སློབ་ཚན་ &#39; %(course_name)s &#39; དེ་edX གིས་མཐར་ཕྱིན་ངང་བསྐྱར་ཞིབ་བྱས་པ་དང་ད་ལྟ་ %(course_publish_date)s ཐོག་པར་སྐྲུན་བྱས་ཡོད། ཐད་གཏོང་སློབ་ཚན་ལྟ་འདོད་ན། འདིར་ཕེབས་རོགས། <a href=\"%(course_marketing_url)s\">%(course_marketing_url)s</a>\n"
+"    "
+
+msgid ""
+"\n"
+"        Course '%(course_name)s' has been successfully reviewed by edX and is now ready for publication. The course will be published on %(course_publish_date)s.\n"
+"        To see a preview of the Course About Page, go here: <a href=\"%(course_marketing_url)s\">%(course_marketing_url)s</a>\n"
+"    "
+msgstr ""
+"\n"
+"སློབ་ཚན་ &#39; %(course_name)s &#39; དེ་edX གིས་མཐར་ཕྱིན་ངང་བསྐྱར་ཞིབ་བྱས་པ་དང་ད་ལྟ་པར་སྐྲུན་བྱེད་པར་གྲ་སྒྲིག་ཡིན། སློབ་ཚན་དེ་ %(course_publish_date)s ཐོག་པར་སྐྲུན་བྱ་རྒྱུ་རེད།\n"
+" སློབ་ཚན་སྐོར་གྱི་ཤོག་ངོས་ཀྱི་སྔོན་ལྟ་ལྟ་འདོད་ན། འདིར་ཕེབས་རོགས། <a href=\"%(course_marketing_url)s\">%(course_marketing_url)s</a>\n"
+"    "
+
+msgid ""
+"\n"
+"    Course '%(course_name)s' has been successfully reviewed by edX and is now published on %(course_publish_date)s. To see live course, go here: %(course_marketing_url)s\n"
+msgstr ""
+"\n"
+"སློབ་ཚན་ &#39; %(course_name)s &#39; དེ་edX གིས་མཐར་ཕྱིན་ངང་བསྐྱར་ཞིབ་བྱས་པ་དང་ད་ལྟ་ %(course_publish_date)s ཐོག་པར་སྐྲུན་བྱས་ཡོད། ཐད་གཏོང་སློབ་ཚན་ལྟ་འདོད་ན། འདིར་ཕེབས་རོགས། %(course_marketing_url)s\n"
+
+msgid ""
+"\n"
+"   Course '%(course_name)s' has been successfully reviewed by edX and is now ready for publication. The course will be published on %(course_publish_date)s.\n"
+"    To see a preview of the Course About Page, go here: %(course_preview_url)s\n"
+msgstr ""
+"\n"
+"སློབ་ཚན་ &#39; %(course_name)s &#39; དེ་edX གིས་མཐར་ཕྱིན་ངང་བསྐྱར་ཞིབ་བྱས་པ་དང་ད་ལྟ་པར་སྐྲུན་བྱེད་པར་གྲ་སྒྲིག་ཡིན། སློབ་ཚན་དེ་ %(course_publish_date)s ཐོག་པར་སྐྲུན་བྱ་རྒྱུ་རེད།\n"
+" སློབ་ཚན་སྐོར་གྱི་ཤོག་ངོས་ཀྱི་སྔོན་ལྟ་ལྟ་འདོད་ན། འདིར་ཕེབས་རོགས། %(course_preview_url)s\n"
+
+msgid "{0} attribute is not allowed on the {1} tag"
+msgstr "{0} ཁྱད་ཆོས་འདི་ {1} འདིའི་སྒང་ནས་ཆོག་མཆན་མི་འདུག"
+
+msgid "LanguageTag model translations"
+msgstr "LanguageTag དཔེ་སྟོན་བསྒྱུར།"
+
+msgid "The active/inactive status of this Pathway."
+msgstr "ལམ་འདིའི་ཤུགས་ལྡན་དང་ཤུགས་ལྡན་མེད་པའི་གནས་བབ།"
+
+msgid ""
+"Use arguments from the UpdateCourseRecommendationsConfig model instead of "
+"the command line."
+msgstr ""
+"བརྡ་བཀོད་གྲལ་ཐིག་གི་ཚབ་ཏུ་ UpdateCourseRecommendationsConfig "
+"དཔེ་གཞི་ནས་སྒྲུབ་བྱེད་བེད་སྤྱོད་བྱེད།"
+
+msgid "The original course, whose recommendation is stored here."
+msgstr "སློབ་ཚན་ཐོག་མ་དེའི་འོས་སྦྱོར་འདིར་ཉར་ཚགས་བྱས་ཡོད།"
+
+msgid ""
+"This is the course recommended after learner completes the original course."
+msgstr ""
+"འདི་ནི་སློབ་མས་སློབ་ཚན་ཐོག་མ་མཇུག་སྒྲིལ་རྗེས་འོས་སྦྱོར་བྱས་པའི་སློབ་ཚན་ཡིན།"
+
+msgid "Ratio of number of common skills and total skill count."
+msgstr ""
+"ཐུན་མོང་གི་རྩལ་ནུས་གྲངས་འབོར་དང་རྩལ་ནུས་སྤྱིའི་གྲངས་འབོར་གྱི་བསྡུར་ཚད།"
+
+msgid ""
+"Count of common skills between the original course and recommended course."
+msgstr ""
+"ཐོག་མའི་སློབ་ཚན་དང་འོས་སྦྱོར་བྱས་པའི་སློབ་ཚན་བར་གྱི་ཐུན་མོང་གི་རྩལ་ནུས་གྲངས་འབོར།"
+
+msgid "Ratio of number of common subjects and total subject count."
+msgstr "ཐུན་མོང་གི་སློབ་ཚན་གྱི་གྲངས་འབོར་དང་སློབ་ཚན་བསྡོམས་འབོར་གྱི་བསྡུར་ཚད།"
+
+msgid ""
+"Count of common subjects between the original course and recommended course."
+msgstr ""
+"ཐོག་མའི་སློབ་ཚན་དང་འོས་སྦྱོར་བྱས་པའི་སློབ་ཚན་བར་གྱི་ཐུན་མོང་གི་སློབ་ཚན་གྲངས་འབོར།"
