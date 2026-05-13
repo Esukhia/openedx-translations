@@ -24164,3 +24164,6 @@ msgstr ""
 
 msgid "Go to main page"
 msgstr ""
+
+msgid "Privacy Policy for Sherab"
+msgstr ""
