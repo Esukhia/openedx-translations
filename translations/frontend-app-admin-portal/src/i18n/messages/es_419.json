@@ -163,7 +163,7 @@
   "admin.portal.code.assignment.modal.individual.assign.heading": "Agregar estudiante",
   "admin.portal.code.assignment.modal.individual.assign.email.label": "Dirección de correo electrónico",
   "adminPortal.assignmentModal.altText": "Más información",
-  "adminPortal.assignmentModal.tooltipText": "edX recordará a los alumnos que sustituyan su código 3, 10 y 19 días después de que lo asigne.",
+  "adminPortal.assignmentModal.tooltipText": "edX recordará a los alumnos que canjeen su código 3, 10 y 19 días después de que lo asigne.",
   "adminPortal.assignmentModal.modalFieldLabel": "Automatizar recordatorios",
   "admin.portal.codes.codeDeprecationAlert.header": "<b>Aviso de desactivación de características:</b>",
   "admin.portal.codes.codeDeprecationAlert.message": "La característica de códigos se retirará después del <b>30 de septiembre</b>. Una vez retirada, todos los códigos dejarán de ser válidos. Pronto compartiremos más detalles sobre nuevas opciones de inscripción.",
@@ -1325,5 +1325,7 @@
   "adminPortal.settings.learningPlatformTab.blackboard.authorizationInProgress.message": "Por favor, confirme autorización a través de Blackboard y regrese a esta ventana una vez completada.",
   "adminPortal.settings.learningPlatformTab.activatePage.title": "activado tu integración {lmsName}",
   "adminPortal.settings.learningPlatformTab.activatePage.successMessage": "¡Su integración {lmsName} {verb} TXEND se ha exitosamente y está lista para activado !",
-  "adminPortal.settings.learningPlatformTab.activatePage.activationInstructions": "Una vez activado, edX For Business comenzará a sincronizar los metadatos contenido y la actividad estudiante con {lmsName} ."
+  "adminPortal.settings.learningPlatformTab.activatePage.activationInstructions": "Una vez activado, edX For Business comenzará a sincronizar los metadatos contenido y la actividad estudiante con {lmsName} .",
+  "adminPortal.analyticsCardText.errorMessage": "Nos encontramos con un problema al obtener los datos de análisis. Por favor, inténtalo de nuevo más tarde o contacta al soporte para obtener ayuda. (Error: {error_message})",
+  "people-management.page.create-group.section.header": "Crea un grupo personalizado de miembros"
 }

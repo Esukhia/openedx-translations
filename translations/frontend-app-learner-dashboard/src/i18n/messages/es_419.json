@@ -75,7 +75,7 @@
   "Dashboard.NoCoursesView.exploreCoursesButton": "Explorar cursos",
   "Dashboard.NoCoursesView.bannerAlt": "Sin banner de vista de cursos",
   "leanerDashboard.confirmEmailBanner": "Confirmar ahora",
-  "leanerDashboard.confirmEmailTextReminderBanner": "¡Recuerda confirmar tu correo electrónico para que puedas seguir aprendiendo! {confirmNowButton} .",
+  "leanerDashboard.confirmEmailTextReminderBanner": "¡Recuerda confirmar tu correo electrónico para que puedas seguir aprendiendo en edX! {confirmNowButton}.",
   "leanerDashboard.verifiedConfirmEmailButton": "He confirmado mi correo electrónico.",
   "leanerDashboard.confirmEmailModalHeader": "confirme su email",
   "leanerDashboard.confirmEmailModalBody": "Le hemos enviado un correo electrónico para verificar su cuenta. Por favor revisa tu bandeja de entrada y haz clic en el gran botón rojo para confirmar y seguir aprendiendo.",
@@ -144,5 +144,8 @@
   "learner-dash.courseCard.banners.credit.rejected": "{providerName} no aprobó su solicitud de crédito del curso. Para obtener más información, comuníquese directamente con {linkToProviderSite} .",
   "learner-dash.courseCard.banners.credit.requestCredit": "Solicitar crédito",
   "learner-dash.courseCard.banners.credit.viewCredit": "Ver crédito",
-  "learner-dash.courseCard.banners.credit.viewDetails": "Ver detalles"
+  "learner-dash.courseCard.banners.credit.viewDetails": "Ver detalles",
+  "zendesk.supportTitle": "Soporte edX",
+  "zendesk.selectTicketForm": "Elegir el tipo de solicitud:",
+  "learner-dash.courseCard.actions.upgrade": "Actualiza"
 }

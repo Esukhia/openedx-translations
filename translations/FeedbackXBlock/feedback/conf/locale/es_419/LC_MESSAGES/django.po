@@ -2,10 +2,10 @@
 # Copyright (C) 2025 EdX
 # This file is distributed under the GNU AFFERO GENERAL PUBLIC LICENSE.
 # EdX Team <info@edx.org>, 2025.
-# 
+#
 # Translators:
 # Brian Smith, 2025
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: 0.1a\n"
@@ -14,10 +14,10 @@ msgstr ""
 "PO-Revision-Date: 2025-11-17 07:23+0000\n"
 "Last-Translator: Brian Smith, 2025\n"
 "Language-Team: Spanish (Latin America) (https://app.transifex.com/open-edx/teams/6205/es_419/)\n"
+"Language: es_419\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: es_419\n"
 "Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: feedback.py:30
@@ -34,7 +34,7 @@ msgid ""
 " as key gaps in our presentation."
 msgstr ""
 "Piense en el material e intente sintetizar las lecciones clave aprendidas, "
-"así como las palabras clave en nuestra presentación."
+"así como las lagunas clave en nuestra presentación."
 
 #: feedback.py:37
 msgid ""
@@ -312,3 +312,9 @@ msgstr "Guardar"
 #: templates/html/studio_view.html:126
 msgid "Cancel"
 msgstr "Cancelar"
+
+msgid "Wheter to show the aggregate report to students."
+msgstr "Si mostrar o no el informe agregado a los estudiantes."
+
+msgid "Faces (sad to happy to sad)"
+msgstr "Caras (triste a feliz a triste)"

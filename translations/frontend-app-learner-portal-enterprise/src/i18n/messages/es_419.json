@@ -169,7 +169,7 @@
   "enterprise.pathway.modal.course.and.programs.requirements.count.label": "A través de los requisitos de {pathwayStepsCount}",
   "enterprise.pathway.modal.catalog.label": "Incluido con el catálogo",
   "enterprise.pathway.modal.learn.at.zero.cost.label": "Aprende sin coste para ti",
-  "enterprise.dashboard.pathways.progress.page.pathway.node.in.progress.badge": "En curso",
+  "enterprise.dashboard.pathways.progress.page.pathway.node.in.progress.badge": "En proceso",
   "enterprise.dashboard.pathways.progress.page.pathway.node.resume.course.or.program.button.text": "Reanudar {contentType}",
   "enterprise.dashboard.pathways.progress.page.pathway.node.view.course.or.program.button.text": "Ver {contentType}",
   "enterprise.dashboard.pathways.progress.page.pathway.progress.heading": "Progreso del camino",
@@ -471,7 +471,7 @@
   "useCourseRunCardSubHeading.enrollmentCount": "{enrollmentCount} ¡recientemente inscrito!",
   "enterprise.learner.portal.dashboard.courses.assignments.assignment.enroll": "inscribirse",
   "enterprise.learner-portal.dashboard.courses.assignments.assignment.go-to-enrollment": "Ir a inscripciones",
-  "enterprise.learner_portal.dashboard.enrollments.course.status_badge_label.in_progress": "En curso",
+  "enterprise.learner_portal.dashboard.enrollments.course.status_badge_label.in_progress": "En proceso",
   "enterprise.learner_portal.dashboard.enrollments.course.status_badge_label.upcoming": "Próximo",
   "enterprise.learner_portal.dashboard.enrollments.course.status_badge_label.requested": "Solicitado",
   "enterprise.learner_portal.dashboard.enrollments.course.status_badge_label.assigned": "Asignado",
@@ -491,9 +491,10 @@
   "enterprise.learner_portal.dashboard.enrollments.course.upgrade_course_free": "GRATIS",
   "enterprise.learner_portal.dashboard.enrollments.course.upgrade_course_covered_by_organization": "Cubierto por su organización",
   "enterprise.learner-portal.dashboard.courses.requested.requested.enroll": "inscribirse",
-  "enterprise.learner_portal.dashboard.enrollments.course.unsave_for_later": "Mover a \"En curso\" <s>para {courseTitle}</s>",
+  "enterprise.learner_portal.dashboard.enrollments.course.unsave_for_later": "Mover a En curso <s>para {courseTitle}</s>",
   "enterprise.dashboard.courses.tab.my.courses.section.available.date": "Disponible en {upcomingDate}",
   "enterprise.learner_portal.dashbboard.enrollments.course.upgrade.overlay.text.covered_by_organization": "Cubierto por su organización",
   "enterprise.learner_portal.dashbboard.enrollments.course.upgrade.button.text": "Actualiza <s>{title}</s> gratis",
-  "enterprise.dashboard.sidebar.license.requested.notice": "Esperando aprobacion."
+  "enterprise.dashboard.sidebar.license.requested.notice": "Esperando aprobacion.",
+  "enterprise.dashboard.course.enrollment.moved.to.progress.alert.text": "Su curso fue movido a En progreso."
 }
