@@ -26920,3 +26920,6 @@ msgstr "Chính sách quyền riêng tư của Sherab"
 
 msgid "Hi {username}, Welcome to {platform_name}"
 msgstr "Chào {username}, chào mừng đến với {platform_name}"
+
+msgid "Hi {username}, welcome to {platform_name}"
+msgstr "Chào {username}, chào mừng đến với {platform_name}"
