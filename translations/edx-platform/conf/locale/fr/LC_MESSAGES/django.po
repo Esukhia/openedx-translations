@@ -9219,8 +9219,7 @@ msgstr ""
 
 msgid "{assignment_type} = {weighted_percent:.2%} of a possible {weight:.2%}"
 msgstr ""
-"{assignment_type} = {weighted_percent : 0,2 %} d&#39;un {poids : 0,2 %} "
-"possible"
+"{assignment_type} = {weighted_percent:.2%} d&#39;un {weight:.2%} possible"
 
 msgid "Generated"
 msgstr "Généré"
@@ -9232,7 +9231,7 @@ msgid "The lowest {drop_count} {section_type} scores are dropped."
 msgstr "Les scores {drop_count} {section_type} les plus bas sont supprimés."
 
 msgid "{section_type} Average = {percent:.2%}"
-msgstr "{section_type} Moyenne = {percent :.2%}"
+msgstr "{section_type} Moyenne = {percent:.2%}"
 
 msgid "{short_label} Avg"
 msgstr "{short_label} Moy."

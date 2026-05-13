@@ -2351,7 +2351,7 @@ msgid "You must provide at least one prompt."
 msgstr "Vous devez fournir au moins une invite."
 
 msgid "Options in '{criterion}' have duplicate name(s): {duplicates}"
-msgstr "Les options dans « {critère} » ont des noms en double : {duplicates}"
+msgstr "Les options dans '{criterion}' ont des noms en double : {duplicates}"
 
 msgid "Criteria with no options must require written feedback."
 msgstr "Les critères sans options doivent nécessiter une rétroaction écrite."
