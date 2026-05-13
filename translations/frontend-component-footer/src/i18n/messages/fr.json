@@ -40,5 +40,6 @@
   "authoring.footer.trademark.message": "",
   "footer.colophon.about": "À propos de nous",
   "footer.colophon.contact": "Contactez-nous",
-  "footer.colophon.privacy": "Politique de confidentialité"
+  "footer.colophon.privacy": "Politique de confidentialité",
+  "footer.logo.hoverText": "Go to main page"
 }
