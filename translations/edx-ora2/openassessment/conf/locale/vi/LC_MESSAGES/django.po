@@ -3023,11 +3023,10 @@ msgid ""
 "                "
 msgstr ""
 "\n"
-"                    Vui lòng trả lời câu hỏi dưới đây. Câu trả lời của bạn sẽ được lưu tự động và %(start_tag)skhông thể chỉnh sửa sau khi đã gửi%(end_tag)s.\n"
-"                "
+"                    Vui lòng trả lời câu hỏi dưới đây. Câu trả lời của bạn sẽ được lưu tự động và %(start_tag)không thể chỉnh sửa sau khi gửi%(end_tag)s."
 
 msgid "Enter your response to the question above."
-msgstr "Nhập câu trả lời của bạn cho câu hỏi ở trên."
+msgstr "Nhập câu trả lời của bạn cho câu hỏi trên."
 
 msgid " NEW"
 msgstr ""

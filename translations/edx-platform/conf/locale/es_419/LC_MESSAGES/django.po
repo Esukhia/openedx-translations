@@ -28246,7 +28246,7 @@ msgid "An error occurred. Try loading the page again."
 msgstr "Ocurrió un error. Intenta cargar la página nuevamente."
 
 msgid "Schools and Partners"
-msgstr "Escuelas y Socios"
+msgstr "Escuelas y socios"
 
 msgid "About Us"
 msgstr "Acerca de nosotros"
@@ -28262,3 +28262,15 @@ msgstr "No tienes cursos en tu lista de deseos."
 
 msgid "Open Course"
 msgstr "Curso abierto"
+
+msgid "Wishlist"
+msgstr "Lista de deseos"
+
+msgid "Main Page"
+msgstr "Página principal"
+
+msgid "Community Forum"
+msgstr "Foro comunitario"
+
+msgid "Course Categories"
+msgstr "Categorías de cursos"

@@ -147,5 +147,7 @@
   "learner-dash.courseCard.banners.credit.viewDetails": "Ver detalles",
   "zendesk.supportTitle": "Soporte edX",
   "zendesk.selectTicketForm": "Elegir el tipo de solicitud:",
-  "learner-dash.courseCard.actions.upgrade": "Actualiza"
+  "learner-dash.courseCard.actions.upgrade": "Actualiza",
+  "learner-dash.courseCard.progressBar.courseCompletion": "Curso • {percent}% Completo",
+  "learner-dash.courseCard.progressBar.notStarted": "No iniciado"
 }
