@@ -20211,3 +20211,6 @@ msgstr "Mettez votre texte de droit d&#39;auteur ici !"
 
 msgid "Code Editor"
 msgstr "Éditeur de code"
+
+msgid "Hi {username}, Welcome to {platform_name}"
+msgstr "Bonjour {username}, bienvenue sur {platform_name}"

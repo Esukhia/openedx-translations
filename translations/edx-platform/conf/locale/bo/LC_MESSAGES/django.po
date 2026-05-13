@@ -22786,3 +22786,6 @@ msgstr ""
 
 msgid "An error occurred. Try loading the page again."
 msgstr "གནད་དོན་ཞིག་བྱུང་སོང་། དྲ་ངོས་འདི་བསྐྱར་ལེན་བྱེད་རོགས།"
+
+msgid "Hi {username}, Welcome to {platform_name}"
+msgstr "{username} ཁྱོད་ལ་ {platform_name} ཕེབས་པར་དགའ་བསུ་ཞུ།"
