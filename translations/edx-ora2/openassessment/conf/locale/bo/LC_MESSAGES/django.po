@@ -2217,7 +2217,7 @@ msgstr ""
 
 msgid "'{date}' must be a date string or datetime"
 msgstr ""
-"&#39;{ཚེས་གྲངས་}&#39; "
+"&#39;{date}&#39; "
 "ངེས་པར་དུ་ཚེས་གྲངས་ཡིག་རྒྱུན་ཡང་ན་ཚེས་གྲངས་དུས་ཚོད་ཡིན་དགོས།"
 
 msgid ""
@@ -2295,7 +2295,8 @@ msgid "You must provide at least one prompt."
 msgstr "ཁྱོད་ཀྱིས་ཉུང་མཐར་ཡང་བརྡ་སྟོན་གཅིག་སྤྲོད་དགོས།"
 
 msgid "Options in '{criterion}' have duplicate name(s): {duplicates}"
-msgstr "&#39;{ཚད་གཞི་}&#39; ནང་གི་འདེམས་གཞི་ལ་མིང་འདྲ་མཚུངས་ཡོད། {duplicates}"
+msgstr ""
+"&#39;{criterion}&#39; ནང་གི་འདེམས་གཞི་ལ་མིང་འདྲ་མཚུངས་ཡོད། {duplicates}"
 
 msgid "Criteria with no options must require written feedback."
 msgstr "གདམ་ག་མེད་པའི་ཚད་གཞི་ལ་ཡིག་ཐོག་གི་བསམ་འཆར་དགོས།"
