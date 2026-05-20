@@ -687,7 +687,15 @@ msgstr "Cấu hình thời hạn"
 msgid "Select a deadline configuration option"
 msgstr "Chọn tùy chọn cấu hình thời hạn"
 
+<<<<<<< HEAD
 #: templates/legacy/edit/oa_edit_schedule.html:14
+=======
+#: templates/legacy/edit/oa_edit_schedule.html:13
+msgid " NEW"
+msgstr ""
+
+#: templates/legacy/edit/oa_edit_schedule.html:19
+>>>>>>> 3115dff924 (Add translations for language:vi)
 msgid "Configure deadlines manually"
 msgstr "Định cấu hình thời hạn theo cách thủ công"
 
@@ -3018,7 +3026,7 @@ msgid "The submission format is invalid."
 msgstr "Định dạng gửi không hợp lệ."
 
 
-# ---- Updated strings----
+# ---- Updated strings ----
 
 msgid ""
 "
@@ -3027,7 +3035,9 @@ msgid ""
 "
 "                "
 msgstr ""
-"\n                    Vui lòng trả lời câu hỏi dưới đây. Câu trả lời của bạn sẽ được lưu tự động và %(start_tag)không thể chỉnh sửa sau khi gửi%(end_tag)s."
+"\n"
+"                    Vui lòng trả lời câu hỏi dưới đây. Câu trả lời của bạn sẽ được lưu tự động và %(start_tag)skhông thể chỉnh sửa sau khi đã gửi%(end_tag)s.\n"
+"                "
 
 msgid "Enter your response to the question above."
-msgstr "Nhập câu trả lời của bạn cho câu hỏi trên."
+msgstr "Nhập câu trả lời của bạn cho câu hỏi ở trên."
