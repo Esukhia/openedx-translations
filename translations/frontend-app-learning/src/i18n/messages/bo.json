@@ -12,7 +12,7 @@
   "instructor.toolbar.view.course": "སློབ་ཚན་ལ་ལྟ་བ་:",
   "instructor.toolbar.studio": "སྒྲུབ་ཁང་",
   "instructor.toolbar.insights": "",
-  "learning.notification.preferences.unsubscribe.preferenceCenterUrl": "རང་མོས་ཤོག་ངོས།",
+  "learning.notification.preferences.unsubscribe.preferenceCenterUrl": "{preferenceCenterUrl} ལ་ཕེབས་ནས་ཁྱེད་ཀྱི་དགའ་གདམ་གཞི་བཙུགས།",
   "learning.notification.preferences.unsubscribe.loading": "འཇུག་བཞིན་ཡོད།",
   "learning.notification.preferences.unsubscribe.successHeading": "མངགས་ཉོ་ཕྱིར་འཐེན་བྱས་ཟིན།",
   "learning.notification.preferences.unsubscribe.successMessage": "ཁྱོད་ཀྱིས་སློབ་གཉེར་གྱི་བྱེད་སྒོའི་ཆེད་དུ་ཡིག་ཟམ་ཕྱོགས་བསྡུས་ནས་སྔོན་མངགས་ཕྱིར་འཐེན་བྱས་སོང་།",

@@ -32,3 +32,343 @@ msgstr "ལས་བྱེད།"
 #: xblock/static/js/src/lms/oa_course_items_listing.js:353
 msgid "Please wait"
 msgstr "སྒུག་རོགས།"
+
+msgid "This section could not be loaded."
+msgstr "ཚན་པ་འདི་མངོན་ཐུབ་མ་སོང་།"
+
+msgid "The staff assessment form could not be loaded."
+msgstr "ལས་བྱེད་པའི་དཔྱད་ཞིབ་ཡིག་ཆ་དེ་བླུགས་ཐུབ་ཀྱི་མིན་འདུག"
+
+msgid "The display of ungraded and checked out responses could not be loaded."
+msgstr "རིམ་པ་མ་བཟོས་པ་དང་ཞིབ་བཤེར་བྱས་པའི་ལན་འདེབས་ཀྱི་མངོན་ཚུལ་དེ་མངོན་ཐུབ་ཀྱི་མིན་འདུག"
+
+msgid "This response could not be submitted."
+msgstr "ལན་འདེབས་འདི་འབུལ་ཐུབ་མ་སོང་།"
+
+msgid "The submission could not be reset."
+msgstr "ཕུལ་བ་དེ་བསྐྱར་སྒྲིག་བྱེད་མ་ཐུབ།"
+
+msgid "Please check your internet connection."
+msgstr "ཁྱེད་རང་གི་དྲ་རྒྱའི་མཐུད་ལམ་ལ་ལྟ་ཞིབ་གནང་རོགས།"
+
+msgid "This feedback could not be submitted."
+msgstr "བསམ་འཆར་འདི་འབུལ་ཐུབ་མ་སོང་།"
+
+msgid "This assessment could not be submitted."
+msgstr "དཔྱད་ཞིབ་འདི་འབུལ་ཐུབ་མ་སོང་།"
+
+msgid "One or more rescheduling tasks failed."
+msgstr "དུས་ཚོད་བསྐྱར་སྒྲིག་བྱེད་པའི་ལས་འགན་གཅིག་དང་ཡང་ན་དེ་ལས་མང་བ་འཐུས་ཤོར་བྱུང་ཡོད།"
+
+msgid "This problem could not be saved."
+msgstr "དཀའ་ངལ་འདི་སྐྱོབ་ཐུབ་མ་སོང་།"
+
+msgid "The server could not be contacted."
+msgstr "ཞབས་ཞུ་འཕྲུལ་ཆས་ལ་འབྲེལ་བ་བྱེད་མ་ཐུབ།"
+
+msgid "Could not retrieve upload url."
+msgstr "སྐྱེལ་འདྲེན་གྱི་urlཕྱིར་ལེན་བྱེད་མ་ཐུབ།"
+
+msgid "Server error."
+msgstr "ཞབས་ཞུའི་ནོར་འཁྲུལ།"
+
+msgid "Could not retrieve download url."
+msgstr "ཕབ་ལེན་གྱི་urlཕྱིར་ལེན་བྱེད་མ་ཐུབ།"
+
+msgid "The submission could not be removed from the grading pool."
+msgstr "ཕུལ་བའི་ཡིག་ཆ་དེ་རིམ་པ་བཏོན་པའི་ཆུ་རྫིང་ནས་ཕྱིར་འཐེན་བྱེད་ཐུབ་ཀྱི་མེད།"
+
+msgid "Multiple teams returned for course"
+msgstr "རུ་ཁག་མང་པོ་སློབ་ཚན་ལ་ཕྱིར་ལོག་བྱས།"
+
+msgid "Could not load teams information."
+msgstr "རུ་ཁག་གི་ཆ་འཕྲིན་མངོན་ཐུབ་མ་སོང་།"
+
+msgid "User lookup failed"
+msgstr "སྤྱོད་མཁན་གྱི་འཚོལ་བཤེར་འཐུས་ཤོར་བྱུང་།"
+
+msgid "Error when looking up username"
+msgstr "སྤྱོད་མཁན་གྱི་མིང་འཚོལ་དུས་ནོར་འཁྲུལ་བྱུང་བ།"
+
+msgid "Failed to clone rubric"
+msgstr "རབ་རིཀ་རིགས་མཚུངས་བཟོ་ཐུབ་མ་སོང་།"
+
+msgid "View and grade responses"
+msgstr "ལན་འདེབས་ལ་ལྟ་ཞིབ་དང་སྐར་གྲངས།"
+
+msgid "Demo the new Grading Experience"
+msgstr "རིམ་པ་གསར་པའི་ཉམས་མྱོང་དཔེ་སྟོན།"
+
+msgid "Unit Name"
+msgstr "སྡེ་ཚན་གྱི་མིང་།"
+
+msgid "Units"
+msgstr "ཚད་གཞི།"
+
+msgid "Assessment"
+msgstr "ལྟ་སྟངས"
+
+msgid "Assessments"
+msgstr "བརྟག་དཔྱད།"
+
+msgid "Total Responses"
+msgstr "ལན་འདེབས་བསྡོམས་འབོར།"
+
+msgid "Training"
+msgstr "སྦྱོང་བརྡར"
+
+msgid "Peer"
+msgstr "ན་ཚོད་གཅིག་པའི་མི"
+
+msgid "Self"
+msgstr "རང"
+
+msgid "Waiting"
+msgstr "སྒུག"
+
+msgid "Final Grade Received"
+msgstr "མཐའ་མའི་སྐར་གྲངས་ཐོབ།"
+
+msgid "Staff Grader"
+msgstr "ལས་བྱེད་འཛིན་གྲྭ།"
+
+msgid "List of Open Assessments is unavailable"
+msgstr "ཁ་ཕྱེ་བའི་དཔྱད་ཞིབ་ཀྱི་ཐོ་གཞུང་མེད།"
+
+msgid "Block view is unavailable"
+msgstr "བཀག་སྡོམ་མཐོང་ཐུབ་ཀྱི་མེད།"
+
+msgid "Back to Full List"
+msgstr "ཐོ་གཞུང་ཆ་ཚང་ལ་ལོག་དགོས།"
+
+msgid "Confirm"
+msgstr "གཏན་འཁེལ།"
+
+msgid "Cancel"
+msgstr "ཕྱིར་འཐེན།"
+
+msgid "There is still file upload in progress. Please wait until it is finished."
+msgstr "ད་དུང་ཡིག་ཆ་ཡར་བསྐུར་བྱེད་བཞིན་ཡོད། དེ་མ་ཚར་བར་དུ་སྒུག་རོགས།"
+
+msgid "Cannot submit empty response even everything is optional."
+msgstr "ཡོད་ཚད་འདམ་ཀ་ཡིན་ནའང་ལན་སྟོང་པ་འབུལ་མི་ཐུབ།"
+
+msgid "Please upload a file."
+msgstr "ཡིག་ཆ་ཞིག་ཕབ་རོགས་གནང་།"
+
+msgid "Please provide a response."
+msgstr "ལན་འདེབས་གནང་རོགས།"
+
+msgid "No files selected for upload."
+msgstr "ཡར་བསྐུར་ཆེད་དུ་ཡིག་ཆ་འདེམས་མེད།"
+
+msgid "Please provide a description for each file you are uploading."
+msgstr "ཁྱེད་ཀྱིས་ཡར་བསྐུར་བཞིན་པའི་ཡིག་ཆ་རེ་རེའི་འགྲེལ་བཤད་རེ་གནང་རོགས།"
+
+msgid "Your file has been deleted or path has been changed: "
+msgstr "ཁྱེད་ཀྱི་ཡིག་ཆ་སུབ་ཟིན་པའམ་ཡང་ན་འགྲོ་ལམ་བསྒྱུར་ཡོད། "
+
+msgid "Saving draft"
+msgstr "ཟིན་བྲིས་ཉར་ཚགས་བྱེད་པ།"
+
+msgid "If you leave this page without saving or submitting your response, you will lose any work you have done on the response."
+msgstr "གལ་ཏེ་ཁྱེད་ཀྱིས་ལན་འདེབས་ཉར་ཚགས་དང་མ་ཕུལ་བར་ཤོག་ངོས་འདི་བཞག་ན་ཁྱེད་ཀྱིས་ལན་འདེབས་ཐོག་ལས་ཀ་གང་བྱས་ཀྱང་བརླག་འགྲོ་གི་རེད།"
+
+msgid "Saving draft..."
+msgstr "ཟིན་བྲིས་ཉར་ཚགས་བྱེད་པ།"
+
+msgid "Draft saved!"
+msgstr "ཟིན་བྲིས་ཉར་ཚགས་བྱས།"
+
+msgid "Error"
+msgstr "གནད་དོན།"
+
+msgid "Confirm Submit Response"
+msgstr "ལན་འདེབས་འབུལ་བ་གཏན་འཁེལ།"
+
+msgid "You're about to submit your response for this assignment. After you submit this response, you may have a limited time to resubmit before your submission is graded."
+msgstr "ཁྱོད་ཀྱིས་ལས་འགན་འདིའི་ལན་འདེབས་འབུལ་གྲབས་ཡོད། ཁྱེད་ཀྱིས་ལན་འདེབས་འདི་ཕུལ་རྗེས་ཁྱེད་ཀྱི་ཕུལ་བའི་ཡིག་ཆ་དེ་ལ་ཚད་གཞི་མ་སྤྲད་གོང་དུ་བསྐྱར་དུ་ཕུལ་བའི་དུས་ཚོད་ཚད་གཞི་ཅན་ཞིག་ཡོད་སྲིད།"
+
+msgid "You're about to submit your response for this assignment. After you submit this response, you can't change it or submit a new response."
+msgstr "ཁྱོད་ཀྱིས་ལས་འགན་འདིའི་ལན་འདེབས་འབུལ་གྲབས་ཡོད། ཁྱེད་ཀྱིས་ལན་འདེབས་འདི་ཕུལ་རྗེས་བསྒྱུར་བཅོས་གཏོང་མི་ཐུབ་པའམ་ཡང་ན་ལན་འདེབས་གསར་པ་ཕུལ་མི་ཐུབ།"
+
+msgid "Confirm Reset"
+msgstr "བསྐྱར་སྒྲིག་གཏན་འཁེལ་བྱེད།"
+
+msgid "You're about to reset your response for this assignment. You will need to submit a new response in order to complete this step. Are you sure you want to continue?"
+msgstr "ཁྱོད་ཀྱིས་ལས་འགན་འདིའི་ལན་འདེབས་སླར་གསོ་བྱེད་རྩིས་ཡོད། གོམ་པ་འདི་མཇུག་སྒྲིལ་ཆེད་ཁྱེད་ཀྱིས་ལན་གསར་པ་ཞིག་འབུལ་དགོས། ཁྱེད་རང་མུ་མཐུད་དུ་འགྲོ་རྒྱུ་ཡིན་པ་གཏན་ཁེལ་ཡིན་ནམ།"
+
+msgid "Individual file size must be {max_files_mb}MB or less."
+msgstr "སོ་སོའི་ཡིག་ཆའི་ཆེ་ཆུང་ནི་ {max_files_mb} MB ཡན་ཡིན་དགོས།"
+
+msgid "File upload failed: unsupported file type. Only the supported file types can be uploaded. If you have questions, please reach out to the course team."
+msgstr "ཡིག་ཆ་སྐྱེལ་འདྲེན་འཐུས་ཤོར་བྱུང་འདུག རྒྱབ་སྐྱོར་མེད་པའི་ཡིག་ཆའི་རིགས། རྒྱབ་སྐྱོར་བྱེད་པའི་ཡིག་ཆའི་རིགས་ཁོ་ན་ཡར་བསྐུར་བྱེད་ཐུབ། གལ་ཏེ་ཁྱེད་ལ་དྲི་བ་ཡོད་ན། སློབ་ཚན་གྱི་རུ་ཁག་ལ་འབྲེལ་བ་གནང་རོགས།"
+
+msgid "The maximum number files that can be saved is "
+msgstr "ཉར་ཚགས་བྱེད་ཐུབ་པའི་ཡིག་ཆའི་གྲངས་ཚད་མཐོ་ཤོས་ནི། "
+
+msgid "Describe "
+msgstr "ཞིབ་བརྗོད "
+
+msgid "(required):"
+msgstr "(ངེས་སྦྱོང):"
+
+msgid "Thumbnail view of "
+msgstr "མཐེབ་གཞོང་མཐོང་སྣང་། "
+
+msgid "Confirm Delete Uploaded File"
+msgstr "ཡར་བསྐུར་ཟིན་པའི་ཡིག་ཆ་སུབ་པར་གཏན་ཁེལ་བྱེད།"
+
+#: xblock/static/dist/openassessment-lms.b3707a16482220084870.js:377
+#: xblock/static/js/src/lms/oa_response.js:859
+msgid ""
+"Are you sure you want to delete the following file? It cannot be restored.\n"
+"File: "
+msgstr ""
+"ཁྱེད་ཀྱིས་གཤམ་གྱི་ཡིག་ཆ་དེ་སུབ་དགོས་པ་གཏན་ཁེལ་ཡིན་ནམ། སླར་གསོ་བྱེད་མི་ཐུབ།\n"
+" ཡིག་ཚགས: "
+
+
+msgid "If you leave this page without submitting your self assessment, you will lose any work you have done."
+msgstr "གལ་ཏེ་ཁྱེད་ཀྱིས་རང་ཉིད་ཀྱི་བརྟག་དཔྱད་མ་ཕུལ་བར་ཤོག་ངོས་འདི་བཞག་ན་ཁྱེད་ཀྱིས་བྱས་པའི་ལས་ཀ་གང་རུང་ཞིག་གྱོང་གུད་ཐེབས་རྒྱུ་རེད།"
+
+msgid "Unexpected server error."
+msgstr "རེ་བ་མེད་པའི་སར་བར་གྱི་ནོར་འཁྲུལ།"
+
+msgid "You must provide a learner name."
+msgstr "ཁྱེད་ཀྱིས་སློབ་སྦྱོང་བྱེད་མཁན་གྱི་མིང་སྤྲོད་དགོས།"
+
+msgid "This grade will be applied to all members of the team. Do you want to continue?"
+msgstr "རིམ་པ་འདི་རུ་ཁག་གི་ཚོགས་མི་ཚང་མར་སྤྱོད་རྒྱུ་རེད། མུ་མཐུད་ནས་གནང་དགོས་སམ།"
+
+msgid "Confirm Grade Team Submission"
+msgstr "འཛིན་རིམ་སྡེ་ཚན་གྱི་སྙན་ཞུ་གཏན་འཁེལ།"
+
+msgid "Error getting the number of ungraded responses"
+msgstr "རིམ་པ་མ་བཟོས་པའི་ལན་འདེབས་ཀྱི་གྲངས་ཀ་ཐོབ་པའི་ནོར་འཁྲུལ།"
+
+msgid "If you leave this page without submitting your staff assessment, you will lose any work you have done."
+msgstr "གལ་ཏེ་ཁྱེད་ཀྱིས་ལས་བྱེད་དཔྱད་ཞིབ་མ་ཕུལ་བར་ཤོག་ངོས་འདི་བཞག་ན་ཁྱེད་ཀྱིས་སྒྲུབ་པའི་ལས་ཀ་གང་ཞིག་བརླག་འགྲོ་གི་རེད།"
+
+msgid "Feedback available for selection."
+msgstr "འདེམས་སྒྲུག་ཆེད་དུ་བསམ་འཆར་ཡོད།"
+
+msgid "If you leave this page without submitting your peer assessment, you will lose any work you have done."
+msgstr "གལ་ཏེ་ཁྱེད་ཀྱིས་རང་ཉིད་ཀྱི་མཉམ་རོགས་ཀྱི་བརྟག་དཔྱད་མ་ཕུལ་བར་ཤོག་ངོས་འདི་བཞག་ན་ཁྱེད་ཀྱིས་སྒྲུབ་པའི་ལས་ཀ་གང་རུང་ཞིག་གྱོང་གུད་ཐེབས་རྒྱུ་རེད།"
+
+msgid "Refresh"
+msgstr "གསར་བརྗེ།"
+
+msgid "Action"
+msgstr "བྱ་སྤྱོད"
+
+msgid "Review"
+msgstr "བསྐྱར་ཞིབ"
+
+msgid "Username"
+msgstr "སྤྱོད་མིང་།"
+
+msgid "Peers Assessed"
+msgstr "མཉམ་རོགས་ཀྱིས་བརྟག་དཔྱད།"
+
+msgid "Peer Responses Received"
+msgstr "མཉམ་རོགས་ཀྱི་ལན་འདེབས་ཐོབ།"
+
+msgid "Time Spent On Current Step"
+msgstr "ད་ལྟའི་གོམ་སྟབས་ལ་དུས་ཚོད་བཏང་བ།"
+
+msgid "Staff assessment"
+msgstr "ལས་བྱེད་པའི་དཔྱད་ཞིབ།"
+
+msgid "Grade Status"
+msgstr "འཛིན་གྲྭའི་གནས་ཚུལ།"
+
+msgid "The \"{name}\" problem is configured to require a minimum of {min_grades} peer grades, and asks to review {min_graded} peers."
+msgstr "&quot; {name} &quot; དཀའ་ངལ་དེ་ཉུང་མཐར་ {min_grades} མཉམ་རོགས་ཀྱི་གྲངས་ཐོ་དགོས་པར་རིམ་སྒྲིག་བྱས་ཡོད་པ་དང་། {min_graded} མཉམ་རོགས་ལ་བསྐྱར་ཞིབ་བྱེད་དགོས།"
+
+msgid "There are currently {stuck_learners} learners in the waiting state, meaning they have not yet met all requirements for Peer Assessment. "
+msgstr "ད་ལྟའི་ཆར་ {stuck_learners} སློབ་མ་སྒུག་པའི་གནས་སྟངས་ནང་ཡོད། དེའི་གོ་དོན་ནི་ཁོང་ཚོས་ད་དུང་མཉམ་རོགས་བརྟག་དཔྱད་ཀྱི་ཆ་རྐྱེན་ཚང་མ་ཚང་མེད་པ་རེད། "
+
+msgid "However, {overwritten_count} of these students have received a grade through the staff grade override tool already."
+msgstr "ཡིན་ནའང་སློབ་ཕྲུག་དེ་དག་གི་ནང་ནས་ {overwritten_count} ལས་བྱེད་པའི་ཚད་གཞི་བརྒལ་བའི་ལག་ཆ་བརྒྱུད་ནས་ཚད་གཞི་ཐོབ་ཟིན་ཡོད།"
+
+msgid "Error while fetching student data."
+msgstr "སློབ་མའི་གྲངས་ཐོ་ལེན་སྐབས་ནོར་འཁྲུལ་བྱུང་ཡོད།"
+
+msgid "Unable to load"
+msgstr "བླུགས་མི་ཐུབ།"
+
+msgid "Paragraph"
+msgstr "དོན་ཚན།"
+
+msgid "Preformatted"
+msgstr "སྔོན་སྒྲིག་བྱས་ཟིན།"
+
+msgid "Heading 3"
+msgstr "མགོ་བརྗོད་གསུམ་པ།"
+
+msgid "Heading 4"
+msgstr "མགོ་བརྗོད་བཞི་བ།"
+
+msgid "Heading 5"
+msgstr "མགོ་བརྗོད་ལྔ་བ།"
+
+msgid "Heading 6"
+msgstr "མགོ་བརྗོད་དྲུག་པ།"
+
+msgid "Unnamed Option"
+msgstr "མིང་མེད་པའི་གདམ་ག།"
+
+msgid "Not Selected"
+msgstr "བདམས་མེད།"
+
+msgid "Problem cloning rubric"
+msgstr "རིགས་མཚུངས་བཟོ་བཅོས་ཀྱི་དཀའ་ངལ།"
+
+msgid "Criterion Added"
+msgstr "ཚད་གཞི་ཁ་སྣོན་བྱས།"
+
+msgid "You have added a criterion. You will need to select an option for the criterion in the Learner Training step. To do this, click the Assessment Steps tab."
+msgstr "ཁྱེད་ཀྱིས་ཚད་གཞི་ཞིག་བསྣན་ཡོད། ཁྱེད་རང་གིས་སློབ་ཕྲུག་སྦྱོང་བརྡར་གྱི་གོམ་པ་ནང་ཚད་གཞིའི་ཆེད་དུ་གདམ་ག་ཞིག་འདེམས་དགོས། འདི་བྱེད་པར་བརྟག་དཔྱད་རིམ་པ་མཆོང་ལྡེ་ལ་སྣུན།"
+
+msgid "Option Deleted"
+msgstr "གདམ་ག་བསུབས་ཟིན།"
+
+msgid "You have deleted an option. That option has been removed from its criterion in the sample responses in the Learner Training step. You might have to select a new option for the criterion."
+msgstr "ཁྱོད་ཀྱིས་གདམ་ག་ཞིག་བསུབས་ཡོད། གདམ་ག་དེ་སློབ་ཕྲུག་སྦྱོང་བརྡར་གྱི་གོ་རིམ་ནང་དཔེ་ཚད་ཀྱི་ལན་འདེབས་ནང་ལ་ཚད་གཞིའི་ནང་ནས་མེད་པར་བཟོས་ཡོད། ཁྱེད་རང་གིས་ཚད་གཞིའི་ཆེད་དུ་གདམ་ག་གསར་པ་ཞིག་འདེམས་དགོས་སྲིད།"
+
+msgid "You have deleted all the options for this criterion. The criterion has been removed from the sample responses in the Learner Training step."
+msgstr "ཁྱོད་ཀྱིས་ཚད་གཞི་འདིའི་གདམ་ག་ཚང་མ་བསུབས་ཟིན། སློབ་ཕྲུག་སྦྱོང་བརྡར་གྱི་གོ་རིམ་ནང་དཔེ་ཚད་ཀྱི་ལན་འདེབས་ལས་ཚད་གཞི་དེ་མེད་པར་བཟོས་ཡོད།"
+
+msgid "Criterion Deleted"
+msgstr "ཚད་གཞི་མེད་པར་བཟོས།"
+
+msgid "You have deleted a criterion. The criterion has been removed from the example responses in the Learner Training step."
+msgstr "ཁྱོད་ཀྱིས་ཚད་གཞི་ཞིག་བསུབ་པ་རེད། སློབ་ཕྲུག་སྦྱོང་བརྡར་གྱི་གོ་རིམ་ནང་དཔེ་མཚོན་ལན་འདེབས་ལས་ཚད་གཞི་དེ་མེད་པར་བཟོས་ཡོད།"
+
+msgid "Warning"
+msgstr "ཉེན་བརྡ།"
+
+msgid "Changes to steps that are not selected as part of the assignment will not be saved."
+msgstr "ལས་འགན་གྱི་ཆ་ཤས་སུ་བདམས་མེད་པའི་གོམ་པ་ལ་བསྒྱུར་བཅོས་བྱས་ན་ཉར་ཚགས་མི་བྱེད།"
+
+msgid "Time must be in the format dd:hh:mm. The days must be between 00 and 99, the hours between 00 and 23, and the minutes between 00 and 59."
+msgstr "དུས་ཚོད་ངེས་པར་དུ་ dd:hh:mm ཡི་རྣམ་གཞག་ནང་ཡིན་དགོས། ཉིན་གྲངས་དེ་ཚོ་ཆུ་ཚོད་༠༠ནས་༩༩བར་དང་། ཆུ་ཚོད་དེ་ཚོ་ཆུ་ཚོད་༠༠ནས་༢༣བར་དང་། སྐར་མ་དེ་ཚོ་ཆུ་ཚོད་༠༠ནས་༥༩བར་ཡིན་དགོས།"
+
+msgid "File types can not be empty."
+msgstr "ཡིག་ཆའི་རིགས་སྟོང་པ་ཆགས་མི་ཐུབ།"
+
+msgid "The following file types are not allowed: "
+msgstr "གཤམ་གསལ་ཡིག་ཆའི་རིགས་མི་ཆོག་པ། "
+
+msgid "Save Unsuccessful"
+msgstr "ཉར་ཚགས་མ་འགྲུབ་པ།"
+
+msgid "Errors detected on the following tabs: "
+msgstr "གཤམ་གྱི་མཆོང་ལྡེ་སྟེང་ནོར་འཁྲུལ་ཤེས་རྟོགས་བྱུང་ཡོད། "
+
+msgid "This ORA has already been released. Changes will only affect learners making new submissions. Existing submissions will not be modified by this change."
+msgstr "ORA འདི་སྔོན་ནས་འགྲེམ་སྤེལ་བྱས་ཟིན། བསྒྱུར་བཅོས་དེས་སློབ་མ་ཚོས་ཡིག་ཆ་གསར་པ་ཕུལ་བར་ཤུགས་རྐྱེན་ཐེབས་རྒྱུ་རེད། ད་ཡོད་ཀྱི་ཕུལ་བ་རྣམས་བསྒྱུར་བཅོས་འདིས་བསྒྱུར་བཅོས་གཏོང་མི་སྲིད།"
+
+msgid "error count: "
+msgstr "ནོར་འཁྲུལ་གྱི་གྲངས་འབོར། "

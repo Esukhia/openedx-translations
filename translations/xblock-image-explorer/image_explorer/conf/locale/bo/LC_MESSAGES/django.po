@@ -56,3 +56,24 @@ msgstr "ཉར་ཚགས།"
 #: templates/html/image_explorer_edit.html:40
 msgid "Cancel"
 msgstr "ཕྱིར་འཐེན།"
+
+msgid "Hot Spots Coordinates Centered"
+msgstr "ཚ་ཁུལ་གྱི་སྦྲེལ་མཐུད་དབུས་སུ་བཞག་ཡོད།"
+
+msgid "Store hotspots opened by student, for completion"
+msgstr "སློབ་མས་མཇུག་སྒྲིལ་ཆེད་ཁ་ཕྱེ་བའི་ཚོང་ཁང་གི་ཚ་དྲོད་ས་ཚིགས།"
+
+msgid "XML contents to display for this module"
+msgstr "ཚད་གཞི་འདིའི་ཆེད་དུ་མངོན་པའི་XMLནང་དོན།"
+
+msgid "Hotspot coordinates centered"
+msgstr "Hotspot coordinates centered"
+
+msgid "If set to true, hotspot coordinates interpreted to point to the center of the hotspot"
+msgstr "གལ་ཏེ་བདེན་པར་སྒྲིག་ཚེ། དྲ་ཚིགས་ཀྱི་སྦྲེལ་མཐུད་དེ་དྲ་ཚིགས་ཀྱི་དབུས་སུ་སྟོན་པར་དོན་འགྲེལ་བྱེད།"
+
+msgid "If set to false, assumed to point to the top left corner of the hotspot image"
+msgstr "གལ་ཏེ་རྫུན་མ་ལ་སྒྲིག་ཚེ། དྲ་ཚིགས་པར་རིས་ཀྱི་གཡོན་ཕྱོགས་སྟེང་ཟུར་ལ་སྟོན་པར་བསམ་གཞིག་བྱེད།"
+
+msgid "The XML definition for the Image Explorer"
+msgstr "པར་རིས་འཚོལ་ཞིབ་བྱེད་མཁན་གྱི་XMLངེས་ཚིག"
