@@ -11680,3 +11680,6 @@ msgstr[2] "Cargar los siguientes resultados {num_items}"
 #: openedx/features/course_search/static/course_search/templates/dashboard_search_results.underscore:26
 msgid "Sorry, no results were found."
 msgstr "Lo sentimos, no se encuentran resultados"
+
+msgid "Internal Server Error."
+msgstr "Error interno del servidor."
