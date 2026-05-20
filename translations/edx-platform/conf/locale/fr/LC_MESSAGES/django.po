@@ -6561,7 +6561,7 @@ msgid "You are not signed in. To view the discussion content, {sign_in_link} or 
 msgstr "Vous n&#39;êtes pas connecté. Pour afficher le contenu de la discussion, {sign_in_link} ou {register_link} et inscrivez-vous à ce cours."
 
 msgid "{assignment_type} = {weighted_percent:.2%} of a possible {weight:.2%}"
-msgstr "{assignment_type} = {weighted_percent : 0,2 %} d&#39;un {poids : 0,2 %} possible"
+msgstr "{assignment_type} = {weighted_percent:.2%} d&#39;un {weight:.2%} possible"
 
 msgid "Generated"
 msgstr "Généré"
@@ -6573,7 +6573,7 @@ msgid "The lowest {drop_count} {section_type} scores are dropped."
 msgstr "Les scores {drop_count} {section_type} les plus bas sont supprimés."
 
 msgid "{section_type} Average = {percent:.2%}"
-msgstr "{section_type} Moyenne = {percent :.2%}"
+msgstr "{section_type} Moyenne = {percent:.2%}"
 
 msgid "{short_label} Avg"
 msgstr "{short_label} Moy."
