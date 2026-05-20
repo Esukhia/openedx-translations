@@ -20,3 +20,17 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: fr\n"
 "Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+
+# ---- Updated strings----
+
+msgid ""
+"
+"
+"                    Please respond to the question below. Your response will be saved automatically and %(start_tag)scannot be edited once submitted%(end_tag)s.
+"
+"                "
+msgstr ""
+
+msgid "Enter your response to the question above."
+msgstr ""
