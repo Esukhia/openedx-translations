@@ -24195,3 +24195,6 @@ msgstr ""
 
 msgid "Privacy Policy for Sherab"
 msgstr ""
+
+msgid "Hi {username}, Welcome to {platform_name}"
+msgstr ""
