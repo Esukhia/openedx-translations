@@ -311,7 +311,7 @@
   "progress.detailedGrades.practice-label.info.text": "",
   "progress.detailedGrades.problem-label.info.text": "",
   "progress.ungradedAlert": "",
-  "progress.footnotes.droppableAssignments": "",
+  "progress.footnotes.droppableAssignments": "{numDroppable, plural, one{# 个最低的 {assignmentType} 分数已被删除} other{# 个最低的 {assignmentType} 分数已被删除}}。",
   "progress.relatedLinks.datesCard.description": "您的课程截止日期和即将到来的作业的时间表视图。",
   "progress.relatedLinks.datesCard.link": "日期",
   "progress.relatedLinks.outlineCard.description": "您的课程内容概览。",

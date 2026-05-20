@@ -311,7 +311,7 @@
   "progress.detailedGrades.practice-label.info.text": "",
   "progress.detailedGrades.problem-label.info.text": "",
   "progress.ungradedAlert": "Untuk kemajuan pada aspek kursus yang tidak dinilai, lihat {outlineLink} Anda.",
-  "progress.footnotes.droppableAssignments": "{numDroppable, plural, one{# skor {assignmentType} terendah adalah} other{# skor {assignmentType} terendah adalah}} dibuang.",
+  "progress.footnotes.droppableAssignments": "{numDroppable, plural, one{# skor {assignmentType} dengan nilai terendah dibuang} other{# skor {assignmentType} dengan nilai terendah dibuang}}.",
   "progress.relatedLinks.datesCard.description": "Tampilan jadwal tanggal jatuh tempo kursus Anda dan tugas mendatang.",
   "progress.relatedLinks.datesCard.link": "Tanggal",
   "progress.relatedLinks.outlineCard.description": "Tampilan menyeluruh konten kursus Anda.",

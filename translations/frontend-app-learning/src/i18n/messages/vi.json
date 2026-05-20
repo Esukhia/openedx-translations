@@ -311,7 +311,7 @@
   "progress.detailedGrades.practice-label.info.text": "",
   "progress.detailedGrades.problem-label.info.text": "",
   "progress.ungradedAlert": "",
-  "progress.footnotes.droppableAssignments": "",
+  "progress.footnotes.droppableAssignments": "{numDroppable, plural, one{# điểm {assignmentType} có điểm thấp nhất sẽ bị loại} other{# điểm {assignmentType} có điểm thấp nhất sẽ bị loại}}.",
   "progress.relatedLinks.datesCard.description": "Một cái nhìn lịch trình của khóa học của bạn đến hạn và các bài tập sắp tới.",
   "progress.relatedLinks.datesCard.link": "Ngày tháng",
   "progress.relatedLinks.outlineCard.description": "Một cái nhìn mắt chim về nội dung khóa học của bạn.",
