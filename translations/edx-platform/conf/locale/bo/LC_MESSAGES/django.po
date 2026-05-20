@@ -18819,3 +18819,18 @@ msgstr "ང་ཚོར་ {platform_name} འདིའི་ཁ་བྱང་�
 
 msgid "We are sorry. Our course staff did not approve your request to change your name from {old_name} to {new_name}. If you need further assistance, please e-mail the tech support at {email}"
 msgstr "དགོངས་དག་ཞུ། ང་ཚོའི་སློབ་ཚན་ལས་བྱེད་མི་སྣས་ཁྱོད་ཀྱི་མིང་སྔ་མ་ {old_name} འདི་མིང་གསར་པ་ {new_name} འདི་ལ་བསྒྱུར་རྒྱུའི་རེ་ཞུ་དེ་ངོས་ལེན་བྱས་མ་སོང་། གལ་སྲིད་ཁྱེད་ལ་ཞིབ་ཕྲའི་རམ་འདེགས་དགོས་ཚེ། འདིའི་ཟུར་གྱི་་{email} གློག་འཕྲིན་བརྒྱུད་ནས་ལག་རྩལ་རམ་འདེགས་པར་འབྲེལ་བ་བྱེད་རོགས།"
+
+msgid "About Us"
+msgstr "O nama"
+
+msgid "Centers"
+msgstr "Centri"
+
+msgid "My Wishlist"
+msgstr "Moj željeni popis"
+
+msgid "You have no courses in your wishlist."
+msgstr "Nemate nijedan kurs u vašem željenom popisu."
+
+msgid "Open Course"
+msgstr "Otvoreni kurs"

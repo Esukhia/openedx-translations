@@ -13891,3 +13891,18 @@ msgstr "Mettez votre texte de droit d&#39;auteur ici !"
 
 msgid "Code Editor"
 msgstr "Éditeur de code"
+
+msgid "About Us"
+msgstr "À propos de nous"
+
+msgid "Centers"
+msgstr "Centres"
+
+msgid "My Wishlist"
+msgstr "Ma liste de souhaits"
+
+msgid "You have no courses in your wishlist."
+msgstr "Vous n'avez aucun cours dans votre liste de souhaits."
+
+msgid "Open Course"
+msgstr "Cours ouvert"
