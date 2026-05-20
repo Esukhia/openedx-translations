@@ -24192,3 +24192,6 @@ msgstr ""
 
 msgid "Open Course"
 msgstr ""
+
+msgid "Go to main page"
+msgstr ""
