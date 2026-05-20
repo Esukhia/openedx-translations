@@ -24198,3 +24198,6 @@ msgstr ""
 
 msgid "Hi {username}, Welcome to {platform_name}"
 msgstr ""
+
+msgid "Hi {username}, welcome to {platform_name}"
+msgstr ""

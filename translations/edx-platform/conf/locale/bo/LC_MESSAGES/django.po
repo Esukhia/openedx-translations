@@ -18843,3 +18843,6 @@ msgstr "ཤེས་རབ་ཀྱི་གསང་སྲུང་སྒྲི
 
 msgid "Hi {username}, Welcome to {platform_name}"
 msgstr "{username} ཁྱོད་ལ་ {platform_name} ཕེབས་པར་དགའ་བསུ་ཞུ།"
+
+msgid "Hi {username}, welcome to {platform_name}"
+msgstr "{username} ཁྱོད་ལ་ {platform_name} ཕེབས་པར་དགའ་བསུ་ཞུ།"

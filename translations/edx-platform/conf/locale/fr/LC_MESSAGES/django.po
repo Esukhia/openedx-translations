@@ -13915,3 +13915,6 @@ msgstr "Politique de confidentialité de Sherab"
 
 msgid "Hi {username}, Welcome to {platform_name}"
 msgstr "Bonjour {username}, bienvenue sur {platform_name}"
+
+msgid "Hi {username}, welcome to {platform_name}"
+msgstr "Bonjour {username}, bienvenue sur {platform_name}"
