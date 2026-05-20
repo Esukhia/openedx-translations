@@ -540,10 +540,14 @@ msgstr "བསུབ་ཟིན་པའི་ཚོགས་སྡེ།"
 #, python-brace-format
 msgid "{previous_groups}, {current_group}"
 <<<<<<< HEAD
+<<<<<<< HEAD
 msgstr "{previous_groups}, {current_group}"
 =======
 msgstr "{སྔ་མའི་_ཚོགས་སྡེ་ཁག}, {ད་ལྟའི་_ཚོགས་སྡེ།}"
 >>>>>>> 6226849915 (Add translations for language:bo)
+=======
+msgstr "{previous_groups}, {current_group}"
+>>>>>>> aea49e209a (fix translation errors for language:bo)
 
 #: cms/djangoapps/contentstore/utils.py:1096
 #: cms/djangoapps/contentstore/views/block.py:277
@@ -1669,10 +1673,14 @@ msgid ""
 msgstr ""
 "ཁྱེད་ཀྱི་ཁ་བྱང་གི་བྱེད་ནུས་བཀག་འདུག "
 <<<<<<< HEAD
+<<<<<<< HEAD
 "གནད་དོན་བྱུང་འདུག་འདོད་ན་ང་ཚོར་འབྲེལ་གཏུགས་བྱོས། {support_email}"
 =======
 "གནད་དོན་བྱུང་འདུག་འདོད་ན་ང་ཚོར་འབྲེལ་གཏུགས་བྱོས། {རམ་འདེགས་_གློག་འཕྲིན།}"
 >>>>>>> 6226849915 (Add translations for language:bo)
+=======
+"གནད་དོན་བྱུང་འདུག་འདོད་ན་ང་ཚོར་འབྲེལ་གཏུགས་བྱོས། {support_email}"
+>>>>>>> aea49e209a (fix translation errors for language:bo)
 
 #: common/djangoapps/student/middleware.py:38
 msgid "Disabled Account"
@@ -2678,10 +2686,14 @@ msgstr[0] ""
 #, python-brace-format
 msgid "Maximum upload file size is {file_size} bytes."
 <<<<<<< HEAD
+<<<<<<< HEAD
 msgstr "ནང་འཇུག་བྱ་རྒྱུའི་ཡིག་ཆའི་ཡ་མཐའི་ཚད་ནི་ {file_size} bytes."
 =======
 msgstr "ནང་འཇུག་བྱ་རྒྱུའི་ཡིག་ཆའི་ཡ་མཐའི་ཚད་ནི་ {ཡིག་ཆའི་_ཆེ་ཆུང་།} bytes."
 >>>>>>> 6226849915 (Add translations for language:bo)
+=======
+msgstr "ནང་འཇུག་བྱ་རྒྱུའི་ཡིག་ཆའི་ཡ་མཐའི་ཚད་ནི་ {file_size} bytes."
+>>>>>>> aea49e209a (fix translation errors for language:bo)
 
 #: common/djangoapps/util/milestones_helpers.py:60
 #, python-brace-format
@@ -4329,10 +4341,14 @@ msgstr "ནུས་མེད་བྱས།"
 msgid "({number} Question)"
 msgid_plural "({number} Questions)"
 <<<<<<< HEAD
+<<<<<<< HEAD
 msgstr[0] "({number} དྲི་བ་ཁག)"
 =======
 msgstr[0] "({གྲངས་ཀ} དྲི་བ་ཁག)"
 >>>>>>> 6226849915 (Add translations for language:bo)
+=======
+msgstr[0] "({number} དྲི་བ་ཁག)"
+>>>>>>> aea49e209a (fix translation errors for language:bo)
 
 #: lms/djangoapps/course_home_api/outline/views.py:293
 #, python-brace-format
@@ -4387,10 +4403,14 @@ msgstr ""
 #, python-brace-format
 msgid "This is the wiki for **{organization}**'s _{course_name}_."
 <<<<<<< HEAD
+<<<<<<< HEAD
 msgstr "**{organization}**ཡི་_{course_name}_ འདིའི་ཝེ་ཁེ་ཡིན། "
 =======
 msgstr "**{སྒྲིག་འཛུགས།}**ཡི་_{སློབ་ཚན་མིང་}_ འདིའི་ཝེ་ཁེ་ཡིན། "
 >>>>>>> 6226849915 (Add translations for language:bo)
+=======
+msgstr "**{organization}**ཡི་_{course_name}_ འདིའི་ཝེ་ཁེ་ཡིན། "
+>>>>>>> aea49e209a (fix translation errors for language:bo)
 
 #: lms/djangoapps/course_wiki/views.py:90
 msgid "Course page automatically created."
@@ -13815,7 +13835,7 @@ msgstr "ཐོབ་སྐར་དམའ་ཤོས་ {drop_count} {section_t
 #: xmodule/graders.py:433
 #, python-brace-format
 msgid "{section_type} Average = {percent:.2%}"
-msgstr "{དུམ་བུ་_རིགས་} ཆ་སྙོམས་ = {བརྒྱ་ཆ།.2%}"
+msgstr "{section_type} ཆ་སྙོམས་ = {percent:.2%}"
 
 #. Translators: Avg is short for Average
 #: xmodule/graders.py:438
@@ -13950,8 +13970,8 @@ msgstr ""
 "The problem bank has been configured to show {count} problems, but only "
 "{actual} have been selected."
 msgstr ""
-"དེ་གི་སྒྲིག་སྟངས་བྱས་ཡོད་པའི་འབྲི་དོན་གྱི་སྒོ་ལ་འདུག་པའི་འབྲི་དོན་གྱི་གྲངས་གཅིག་ཡོད་རེད།"
-" དེ་ནས་གཅིག་རེད།."
+"དེ་གི་སྒྲིག་སྟངས་བྱས་ཡོད་པའི་འབྲི་དོན་གྱི་སྒོ་ལ་འདུག་པའི་འབྲི་དོན་གྱི་གྲངས་འདུག {count} ཡོད་པས།\n"
+"དེ་ནས་གཅིག་རེད་ {actual} ཡོད།"
 
 #: xmodule/library_content_block.py:51
 msgid "Any Type"
@@ -14740,7 +14760,7 @@ msgstr "དམིགས་བསལ་གྱི་སྡེ་ཚན་_id ཞ�
 #: xmodule/split_test_block.py:295
 #, python-brace-format
 msgid "{group_name} (inactive)"
-msgstr "{ཚོགས་པ་_མིང་} (inactive)"
+msgstr "{group_name} (inactive)"
 
 #: xmodule/split_test_block.py:636
 msgid "The experiment is not associated with a group configuration."
