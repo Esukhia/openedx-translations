@@ -1623,6 +1623,7 @@ msgid ""
 "
 "                "
 msgstr ""
+"\n                    Harap jawab pertanyaan di bawah ini. Jawaban Anda akan disimpan secara otomatis dan %(start_tag)tidak dapat diedit setelah dikirim%(end_tag)s."
 
 msgid "Enter your response to the question above."
-msgstr ""
+msgstr "Masukkan jawaban Anda untuk pertanyaan di atas."

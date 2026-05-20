@@ -3146,6 +3146,7 @@ msgid ""
 "
 "                "
 msgstr ""
+"\n                    Veuillez répondre à la question ci-dessous. Votre réponse sera enregistrée automatiquement et %(start_tag)ne pourra pas être modifiée une fois soumise%(end_tag)s."
 
 msgid "Enter your response to the question above."
-msgstr ""
+msgstr "Entrez votre réponse à la question ci-dessus."
