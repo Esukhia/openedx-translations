@@ -1,6 +1,7 @@
 {
   "learn.navigation.course.tabs.label": "སློབ་ཚན་རྒྱུ་ཆ།",
   "learn.redirect.interstitial.message": "ཁ་ཕྱོགས་བསྐྱར་སྒྲིག་བྱེད་བཞིན་ཡོད།",
+<<<<<<< HEAD
   "learn.loading.error": "གནད་དོན་ནི་ {error}",
   "general.altText.close": "སྒོ་རྒྱོབས།",
   "learning.logistration.register": "ཐོ་འགོད།",
@@ -18,6 +19,9 @@
   "learning.notification.preferences.unsubscribe.successMessage": "ཁྱོད་ཀྱིས་སློབ་གཉེར་གྱི་བྱེད་སྒོའི་ཆེད་དུ་ཡིག་ཟམ་ཕྱོགས་བསྡུས་ནས་སྔོན་མངགས་ཕྱིར་འཐེན་བྱས་སོང་།",
   "learning.notification.preferences.unsubscribe.failedHeading": "དགའ་མོས་ནས་སྔོན་མངགས་ཕྱིར་འཐེན་བྱེད་པར་གནད་དོན་ཞིག་བྱུང་སོང་།",
   "learning.notification.preferences.unsubscribe.failedMessage": "ཚུལ་མཐུན་མ་ཡིན་པའི་Url དང་ཡང་ན་རྟགས་མཚན་དུས་ཚོད་ཡོལ་འདུག",
+=======
+  "learning.notification.preferences.unsubscribe.preferenceCenterUrl": "{preferenceCenterUrl} ལ་ཕེབས་ནས་ཁྱེད་ཀྱི་དགའ་གདམ་གཞི་བཙུགས།",
+>>>>>>> 6226849915 (Add translations for language:bo)
   "tours.abandonTour.launchTourCheckpoint.body": "མགོ་འཐོམ་སོང་ངམ། འདིར་གཟིགས་དང་ཁྱེད་ལ་ཕན་པའི་ལམ་སྟོན་དང་ཉམས་མྱོང་གང་ལེགས་འཐོབ་ཡོང་།",
   "tours.sequenceNavigationCheckpoint.body": "ཁྱེད་ཀྱི་སློབ་ཚན་ཁྲོད་ཀྱི་སྒང་གི་ bar དེས་ཁྱེད་རང་སྡེ་ཚན་མ་འདྲ་བ་རེ་རེའི་ནང་སྟབས་བདེའི་ངང་འཆོང་ནས་འགྲོ་འཇུག་པ་དང་གཞུག་ཕྱོགས་ཅི་ཞིག་ཡོང་རྒྱུ་ཡིན་མིན་གསལ་སྟོན་བྱེད་ཡོང་།",
   "tours.existingUserTour.launchTourCheckpoint.body": "ང་ཚོས་ཉེ་ཆར་སློབ་ཚན་འདིའི་ནང་ཁྱད་ཆོས་གསར་པ་འགའ་ཞིག་ཁ་སྣོན་བྱས་ཡོད། ཁྱེད་རང་ལ་ཕན་ཐོགས་འདུག་སྙམ་ན་གཟིགས་སྐོར་ཞིག་གནང་རོགས།",
