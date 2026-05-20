@@ -146,5 +146,8 @@
   "learner-dash.courseCard.banners.credit.viewCredit": "Xem tín dụng",
   "learner-dash.courseCard.banners.credit.viewDetails": "Xem chi tiết",
   "learner-dash.courseCard.progressBar.courseCompletion": "Khóa học • {percent}% Hoàn thành",
-  "learner-dash.courseCard.progressBar.notStarted": "Chưa bắt đầu"
+  "learner-dash.courseCard.progressBar.notStarted": "Chưa bắt đầu",
+  "zendesk.supportTitle": "edX Support",
+  "zendesk.selectTicketForm": "Please choose your request type:",
+  "learner-dash.courseCard.actions.upgrade": "Upgrade"
 }

@@ -3026,7 +3026,7 @@ msgstr ""
 
 
 msgid "Enter your response to the question above."
-msgstr "Nhập câu trả lời của bạn cho câu hỏi trên."
+msgstr "Nhập câu trả lời của bạn cho câu hỏi ở trên."
 
 # ---- Updated strings----
 msgid ""
@@ -3036,4 +3036,18 @@ msgid ""
 msgstr ""
 "\n"
 "                    Vui lòng trả lời câu hỏi dưới đây. Câu trả lời của bạn sẽ được lưu tự động và %(start_tag)không thể chỉnh sửa sau khi gửi%(end_tag)s."
+
+
+msgid " NEW"
+msgstr ""
+
+# ---- Updated strings ----
+msgid ""
+"\n"
+"                    Please respond to the question below. Your response will be saved automatically and %(start_tag)scannot be edited once submitted%(end_tag)s.\n"
+"                "
+msgstr ""
+"\n"
+"                    Vui lòng trả lời câu hỏi dưới đây. Câu trả lời của bạn sẽ được lưu tự động và %(start_tag)skhông thể chỉnh sửa sau khi đã gửi%(end_tag)s.\n"
+"                "
 

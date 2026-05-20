@@ -32,5 +32,7 @@
   "header.menu.aria-label": "",
   "header.user.menu.studio": "Trang chủ Studio",
   "header.label.courseOutline": "Quay lại đề cương khóa học trong Studio",
-  "header.label.search.nav": "Tìm kiếm nội dung"
+  "header.label.search.nav": "Tìm kiếm nội dung",
+  "header.user.menu.studio.maintenance": "Maintenance",
+  "header.user.menu.maintenance": "Maintenance"
 }

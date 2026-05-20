@@ -308,3 +308,9 @@ msgstr "Lưu"
 #: templates/html/studio_view.html:126
 msgid "Cancel"
 msgstr "Hủy bỏ"
+
+msgid "Wheter to show the aggregate report to students."
+msgstr ""
+
+msgid "Faces (sad to happy to sad)"
+msgstr ""
