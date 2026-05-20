@@ -27768,16 +27768,16 @@ msgid "Code Editor"
 msgstr "Editor de código"
 
 msgid "Wishlist"
-msgstr ""
+msgstr "Lista de deseos"
 
 msgid "Main Page"
-msgstr ""
+msgstr "Página principal"
 
 msgid "Community Forum"
-msgstr ""
+msgstr "Foro comunitario"
 
 msgid "Schools and Partners"
-msgstr ""
+msgstr "Escuelas y socios"
 
 msgid "Course Categories"
-msgstr ""
+msgstr "Categorías de cursos"

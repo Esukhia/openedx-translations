@@ -17294,16 +17294,16 @@ msgid "Code Editor"
 msgstr "Kode Editor"
 
 msgid "Wishlist"
-msgstr ""
+msgstr "Daftar keinginan"
 
 msgid "Main Page"
-msgstr ""
+msgstr "Halaman utama"
 
 msgid "Community Forum"
-msgstr ""
+msgstr "Forum komunitas"
 
 msgid "Schools and Partners"
-msgstr ""
+msgstr "Sekolah dan mitra"
 
 msgid "Course Categories"
-msgstr ""
+msgstr "Kategori kursus"
