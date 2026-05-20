@@ -18305,7 +18305,7 @@ msgstr "如果此选项{em_start}已选{em_end}，用户将收到一封电子邮
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:53
 msgctxt "someone"
 msgid "Enroll"
-msgstr "选课"
+msgstr "选修"
 
 #: lms/templates/ccx/enrollment.html:71
 msgid "Student List Management"
@@ -22064,3 +22064,18 @@ msgstr "将您的版权文本置于此处！"
 #: xmodule/capa/templates/codeinput.html:10
 msgid "Code Editor"
 msgstr "代码编辑器"
+
+msgid "Wishlist"
+msgstr ""
+
+msgid "Main Page"
+msgstr ""
+
+msgid "Community Forum"
+msgstr ""
+
+msgid "Schools and Partners"
+msgstr ""
+
+msgid "Course Categories"
+msgstr ""
