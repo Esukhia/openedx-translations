@@ -42,5 +42,8 @@
   "authoring.footer.help.edxDocumentation.button.label": "Documentation edX",
   "authoring.footer.help.openEdxPortal.button.label": "Ouvrir le portail edX",
   "authoring.footer.help.edx101.button.label": "S&#39;inscrire à edX 101",
-  "authoring.footer.help.studioX.button.label": "S&#39;inscrire à StudioX"
+  "authoring.footer.help.studioX.button.label": "S&#39;inscrire à StudioX",
+  "footer.colophon.about": "À propos de nous",
+  "footer.colophon.contact": "Contactez-nous",
+  "footer.colophon.privacy": "Politique de confidentialité"
 }
