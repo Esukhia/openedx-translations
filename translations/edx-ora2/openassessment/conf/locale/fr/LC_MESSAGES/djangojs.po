@@ -20,3 +20,349 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: fr\n"
 "Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+msgid "This section could not be loaded."
+msgstr "Cette section n&#39;a pas pu être chargée."
+
+msgid "The staff assessment form could not be loaded."
+msgstr "Le formulaire d&#39;évaluation du personnel n&#39;a pas pu être chargé."
+
+msgid "The display of ungraded and checked out responses could not be loaded."
+msgstr "L&#39;affichage des réponses non notées et extraites n&#39;a pas pu être chargé."
+
+msgid "This response could not be submitted."
+msgstr "Cette réponse n&#39;a pas pu être soumise."
+
+msgid "The submission could not be reset."
+msgstr "La soumission n&#39;a pas pu être réinitialisée."
+
+msgid "Please check your internet connection."
+msgstr "S&#39;il vous plait, vérifiez votre connexion internet."
+
+msgid "This feedback could not be submitted."
+msgstr "Ce commentaire n&#39;a pas pu être soumis."
+
+msgid "This assessment could not be submitted."
+msgstr "Cette évaluation n&#39;a pas pu être soumise."
+
+msgid "One or more rescheduling tasks failed."
+msgstr "Une ou plusieurs tâches de replanification ont échoué."
+
+msgid "This problem could not be saved."
+msgstr "Ce problème n&#39;a pas pu être enregistré."
+
+msgid "The server could not be contacted."
+msgstr "Le serveur n&#39;a pas pu être contacté."
+
+msgid "Could not retrieve upload url."
+msgstr "Impossible de récupérer l&#39;URL de téléchargement."
+
+msgid "Server error."
+msgstr "Erreur du serveur."
+
+msgid "Could not retrieve download url."
+msgstr "Impossible de récupérer l&#39;URL de téléchargement."
+
+msgid "The submission could not be removed from the grading pool."
+msgstr "La soumission n&#39;a pas pu être supprimée du pool de notation."
+
+msgid "Multiple teams returned for course"
+msgstr "Plusieurs équipes sont revenues pour le cours"
+
+msgid "Could not load teams information."
+msgstr "Impossible de charger les informations sur les équipes."
+
+msgid "User lookup failed"
+msgstr "La recherche d&#39;utilisateur a échoué"
+
+msgid "Error when looking up username"
+msgstr "Erreur lors de la recherche du nom d&#39;utilisateur"
+
+msgid "Failed to clone rubric"
+msgstr "Échec du clonage de la rubrique"
+
+msgid "View and grade responses"
+msgstr "Afficher et noter les réponses"
+
+msgid "Demo the new Grading Experience"
+msgstr "Démonstration de la nouvelle expérience de notation"
+
+msgid "Unit Name"
+msgstr "Nom de l&#39;unité"
+
+msgid "Units"
+msgstr "Unités"
+
+msgid "Assessment"
+msgstr "Évaluation"
+
+msgid "Assessments"
+msgstr "Évaluations"
+
+msgid "Total Responses"
+msgstr "Réponses totales"
+
+msgid "Training"
+msgstr "Entraînement"
+
+msgid "Peer"
+msgstr "Pair"
+
+msgid "Self"
+msgstr "Soi"
+
+msgid "Waiting"
+msgstr "En attendant"
+
+msgid "Staff"
+msgstr "Personnel"
+
+msgid "Final Grade Received"
+msgstr "Note finale reçue"
+
+msgid "Staff Grader"
+msgstr "Évaluateur du personnel"
+
+msgid "List of Open Assessments is unavailable"
+msgstr "La liste des évaluations ouvertes n&#39;est pas disponible"
+
+msgid "Please wait"
+msgstr "S&#39;il vous plaît, attendez"
+
+msgid "Block view is unavailable"
+msgstr "La vue en bloc n&#39;est pas disponible"
+
+msgid "Back to Full List"
+msgstr "Retour à la liste complète"
+
+msgid "Confirm"
+msgstr "Confirmer"
+
+msgid "Cancel"
+msgstr "Annuler"
+
+msgid "There is still file upload in progress. Please wait until it is finished."
+msgstr "Le téléchargement du fichier est toujours en cours. Veuillez patienter jusqu&#39;à ce qu&#39;il soit terminé."
+
+msgid "Cannot submit empty response even everything is optional."
+msgstr "Impossible de soumettre une réponse vide même si tout est facultatif."
+
+msgid "Please upload a file."
+msgstr "Veuillez télécharger un fichier."
+
+msgid "Please provide a response."
+msgstr "Veuillez fournir une réponse."
+
+msgid "No files selected for upload."
+msgstr "Aucun fichier sélectionné pour le téléchargement."
+
+msgid "Please provide a description for each file you are uploading."
+msgstr "Veuillez fournir une description pour chaque fichier que vous téléchargez."
+
+msgid "Your file has been deleted or path has been changed: "
+msgstr "Votre fichier a été supprimé ou le chemin a été modifié : "
+
+msgid "Saving draft"
+msgstr "Enregistrer le brouillon"
+
+msgid "If you leave this page without saving or submitting your response, you will lose any work you have done on the response."
+msgstr "Si vous quittez cette page sans enregistrer ni soumettre votre réponse, vous perdrez tout le travail que vous avez effectué sur la réponse."
+
+msgid "Saving draft..."
+msgstr "Enregistrement du brouillon..."
+
+msgid "Draft saved!"
+msgstr "Brouillon enregistré !"
+
+msgid "Error"
+msgstr "Erreur"
+
+msgid "Confirm Submit Response"
+msgstr "Confirmer l&#39;envoi de la réponse"
+
+msgid "You're about to submit your response for this assignment. After you submit this response, you may have a limited time to resubmit before your submission is graded."
+msgstr "Vous êtes sur le point de soumettre votre réponse pour cette mission. Après avoir soumis cette réponse, vous disposerez peut-être d&#39;un délai limité pour la soumettre à nouveau avant que votre soumission ne soit notée."
+
+msgid "You're about to submit your response for this assignment. After you submit this response, you can't change it or submit a new response."
+msgstr "Vous êtes sur le point de soumettre votre réponse pour cette mission. Après avoir soumis cette réponse, vous ne pouvez plus la modifier ni soumettre une nouvelle réponse."
+
+msgid "Confirm Reset"
+msgstr "Confirmer la réinitialisation"
+
+msgid "You're about to reset your response for this assignment. You will need to submit a new response in order to complete this step. Are you sure you want to continue?"
+msgstr "Vous êtes sur le point de réinitialiser votre réponse pour ce devoir. Vous devrez soumettre une nouvelle réponse afin de terminer cette étape. Es-tu sur de vouloir continuer?"
+
+msgid "Individual file size must be {max_files_mb}MB or less."
+msgstr "La taille du fichier individuel doit être inférieure ou égale à {max_files_mb} Mo."
+
+msgid "File upload failed: unsupported file type. Only the supported file types can be uploaded. If you have questions, please reach out to the course team."
+msgstr "Échec du téléchargement du fichier : type de fichier non pris en charge. Seuls les types de fichiers pris en charge peuvent être téléchargés. Si vous avez des questions, veuillez contacter l&#39;équipe du cours."
+
+msgid "The maximum number files that can be saved is "
+msgstr "Le nombre maximum de fichiers pouvant être enregistrés est "
+
+msgid "Describe "
+msgstr "Décrire "
+
+msgid "(required):"
+msgstr "(requis):"
+
+msgid "Thumbnail view of "
+msgstr "Vue miniature de "
+
+msgid "Confirm Delete Uploaded File"
+msgstr "Confirmer la suppression du fichier téléchargé"
+
+#: xblock/static/dist/openassessment-lms.b3707a16482220084870.js:377
+#: xblock/static/js/src/lms/oa_response.js:859
+msgid ""
+"Are you sure you want to delete the following file? It cannot be restored.\n"
+"File: "
+msgstr ""
+"Êtes-vous sûr de vouloir supprimer le fichier suivant ? Il ne peut pas être restauré.\n"
+" Déposer: "
+
+
+msgid "If you leave this page without submitting your self assessment, you will lose any work you have done."
+msgstr "Si vous quittez cette page sans soumettre votre auto-évaluation, vous perdrez tout le travail que vous avez effectué."
+
+msgid "Unexpected server error."
+msgstr "Erreur de serveur inattendue."
+
+msgid "You must provide a learner name."
+msgstr "Vous devez fournir un nom d&#39;apprenant."
+
+msgid "This grade will be applied to all members of the team. Do you want to continue?"
+msgstr "Cette note sera appliquée à tous les membres de l&#39;équipe. Voulez-vous continuer?"
+
+msgid "Confirm Grade Team Submission"
+msgstr "Confirmer la soumission de l&#39;équipe de notation"
+
+msgid "Error getting the number of ungraded responses"
+msgstr "Erreur lors de l&#39;obtention du nombre de réponses non notées"
+
+msgid "If you leave this page without submitting your staff assessment, you will lose any work you have done."
+msgstr "Si vous quittez cette page sans soumettre votre évaluation du personnel, vous perdrez tout le travail que vous avez effectué."
+
+msgid "Feedback available for selection."
+msgstr "Commentaires disponibles pour la sélection."
+
+msgid "If you leave this page without submitting your peer assessment, you will lose any work you have done."
+msgstr "Si vous quittez cette page sans soumettre votre évaluation par les pairs, vous perdrez tout le travail que vous avez effectué."
+
+msgid "Refresh"
+msgstr "Rafraîchir"
+
+msgid "Action"
+msgstr "Action"
+
+msgid "Review"
+msgstr "Revoir"
+
+msgid "Username"
+msgstr "Nom d&#39;utilisateur"
+
+msgid "Peers Assessed"
+msgstr "Pairs évalués"
+
+msgid "Peer Responses Received"
+msgstr "Réponses des pairs reçues"
+
+msgid "Time Spent On Current Step"
+msgstr "Temps passé à l&#39;étape en cours"
+
+msgid "Staff assessment"
+msgstr "Évaluation du personnel"
+
+msgid "Grade Status"
+msgstr "Statut de note"
+
+msgid "The \"{name}\" problem is configured to require a minimum of {min_grades} peer grades, and asks to review {min_graded} peers."
+msgstr "Le problème « {name} » est configuré pour nécessiter un minimum de notes de pairs {min_grades} et demande d&#39;examiner les pairs {min_graded} ."
+
+msgid "There are currently {stuck_learners} learners in the waiting state, meaning they have not yet met all requirements for Peer Assessment. "
+msgstr "Il y a actuellement des apprenants {stuck_learners} en attente, ce qui signifie qu&#39;ils n&#39;ont pas encore satisfait à toutes les exigences de l&#39;évaluation par les pairs. "
+
+msgid "However, {overwritten_count} of these students have received a grade through the staff grade override tool already."
+msgstr "Cependant, {overwritten_count} de ces étudiants ont déjà reçu une note via l&#39;outil de remplacement des notes du personnel."
+
+msgid "Error while fetching student data."
+msgstr "Erreur lors de la récupération des données des étudiants."
+
+msgid "Unable to load"
+msgstr "Incapable de charger"
+
+msgid "Paragraph"
+msgstr "Paragraphe"
+
+msgid "Preformatted"
+msgstr "Préformaté"
+
+msgid "Heading 3"
+msgstr "Titre 3"
+
+msgid "Heading 4"
+msgstr "Titre 4"
+
+msgid "Heading 5"
+msgstr "Titre 5"
+
+msgid "Heading 6"
+msgstr "Titre 6"
+
+msgid "Unnamed Option"
+msgstr "Option sans nom"
+
+msgid "Not Selected"
+msgstr "Non séléctionné"
+
+msgid "Problem cloning rubric"
+msgstr "Rubrique de clonage des problèmes"
+
+msgid "Criterion Added"
+msgstr "Critère ajouté"
+
+msgid "You have added a criterion. You will need to select an option for the criterion in the Learner Training step. To do this, click the Assessment Steps tab."
+msgstr "Vous avez ajouté un critère. Vous devrez sélectionner une option pour le critère à l’étape Formation des apprenants. Pour ce faire, cliquez sur l&#39;onglet Étapes d&#39;évaluation."
+
+msgid "Option Deleted"
+msgstr "Option supprimée"
+
+msgid "You have deleted an option. That option has been removed from its criterion in the sample responses in the Learner Training step. You might have to select a new option for the criterion."
+msgstr "Vous avez supprimé une option. Cette option a été supprimée de son critère dans les exemples de réponses à l’étape Formation des apprenants. Vous devrez peut-être sélectionner une nouvelle option pour le critère."
+
+msgid "You have deleted all the options for this criterion. The criterion has been removed from the sample responses in the Learner Training step."
+msgstr "Vous avez supprimé toutes les options pour ce critère. Le critère a été supprimé des exemples de réponses à l’étape Formation des apprenants."
+
+msgid "Criterion Deleted"
+msgstr "Critère supprimé"
+
+msgid "You have deleted a criterion. The criterion has been removed from the example responses in the Learner Training step."
+msgstr "Vous avez supprimé un critère. Le critère a été supprimé des exemples de réponses à l’étape Formation des apprenants."
+
+msgid "Warning"
+msgstr "Avertissement"
+
+msgid "Changes to steps that are not selected as part of the assignment will not be saved."
+msgstr "Les modifications apportées aux étapes qui ne sont pas sélectionnées dans le cadre de l&#39;affectation ne seront pas enregistrées."
+
+msgid "Time must be in the format dd:hh:mm. The days must be between 00 and 99, the hours between 00 and 23, and the minutes between 00 and 59."
+msgstr "L’heure doit être au format jj:hh:mm. Les jours doivent être compris entre 00 et 99, les heures entre 00 et 23 et les minutes entre 00 et 59."
+
+msgid "File types can not be empty."
+msgstr "Les types de fichiers ne peuvent pas être vides."
+
+msgid "The following file types are not allowed: "
+msgstr "Les types de fichiers suivants ne sont pas autorisés : "
+
+msgid "Save Unsuccessful"
+msgstr "Enregistrer sans succès"
+
+msgid "Errors detected on the following tabs: "
+msgstr "Erreurs détectées sur les onglets suivants : "
+
+msgid "This ORA has already been released. Changes will only affect learners making new submissions. Existing submissions will not be modified by this change."
+msgstr "Cette ORA a déjà été publiée. Les changements n&#39;affecteront que les apprenants qui soumettent de nouvelles soumissions. Les soumissions existantes ne seront pas modifiées par ce changement."
+
+msgid "error count: "
+msgstr "nombre d&#39;erreurs : "

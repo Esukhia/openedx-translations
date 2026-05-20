@@ -42,3 +42,6 @@ msgid ""
 msgstr ""
 "Note : Ceci est un courriel sans réponse. Pour toute question ou "
 "commentaire, veuillez contacter votre coordonnateur de projet à"
+
+msgid "Preview"
+msgstr "Aperçu"

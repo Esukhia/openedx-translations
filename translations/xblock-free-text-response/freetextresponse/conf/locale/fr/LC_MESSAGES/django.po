@@ -19,3 +19,120 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: fr\n"
 "Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+msgid "Display Correctness?"
+msgstr "Affichage correct ?"
+
+msgid "This is a flag that indicates if the indicator icon should be displayed after a student enters their response"
+msgstr "Il s&#39;agit d&#39;un indicateur qui indique si l&#39;icône de l&#39;indicateur doit être affichée après qu&#39;un élève ait saisi sa réponse."
+
+msgid "Display Other Student Responses"
+msgstr "Afficher les réponses des autres étudiants"
+
+msgid "This will display other student responses to the student after they submit their response."
+msgstr "Cela affichera les réponses des autres étudiants à l&#39;étudiant après qu&#39;il ait soumis sa réponse."
+
+msgid "System selected answers to give to students"
+msgstr "Le système a sélectionné les réponses à donner aux étudiants"
+
+msgid "Display Name"
+msgstr "Afficher un nom"
+
+msgid "This is the title for this question type"
+msgstr "Ceci est le titre de ce type de question"
+
+msgid "Full-Credit Key Phrases"
+msgstr "Phrases clés avec crédit complet"
+
+msgid "This is a list of words or phrases, one of which must be present in order for the student's answer to receive full credit"
+msgstr "Il s&#39;agit d&#39;une liste de mots ou d&#39;expressions, dont l&#39;un doit être présent pour que la réponse de l&#39;élève soit pleinement créditée."
+
+msgid "Half-Credit Key Phrases"
+msgstr "Phrases clés à demi-crédit"
+
+msgid "This is a list of words or phrases, one of which must be present in order for the student's answer to receive half credit"
+msgstr "Il s&#39;agit d&#39;une liste de mots ou d&#39;expressions dont l&#39;un doit être présent pour que la réponse de l&#39;élève reçoive un demi-crédit."
+
+msgid "Maximum Number of Attempts"
+msgstr "Nombre maximum de tentatives"
+
+msgid "This is the maximum number of times a student is allowed to attempt the problem"
+msgstr "Il s&#39;agit du nombre maximum de fois qu&#39;un élève est autorisé à tenter le problème."
+
+msgid "Maximum Word Count"
+msgstr "Nombre maximum de mots"
+
+msgid "This is the maximum number of words allowed for this question"
+msgstr "C&#39;est le nombre maximum de mots autorisés pour cette question"
+
+msgid "Minimum Word Count"
+msgstr "Nombre minimum de mots"
+
+msgid "This is the minimum number of words required for this question"
+msgstr "C&#39;est le nombre minimum de mots requis pour cette question"
+
+msgid "Prompt"
+msgstr "Rapide"
+
+msgid "This is the prompt students will see when asked to enter their response"
+msgstr "C&#39;est le message que les étudiants verront lorsqu&#39;ils seront invités à saisir leur réponse."
+
+msgid "Submission Received Message"
+msgstr "Message de soumission reçu"
+
+msgid "This is the message students will see upon submitting their response"
+msgstr "C&#39;est le message que les étudiants verront en soumettant leur réponse."
+
+msgid "Weight"
+msgstr "Poids"
+
+msgid "This assigns an integer value representing the weight of this problem"
+msgstr "Ceci attribue une valeur entière représentant le poids de ce problème"
+
+msgid "Draft Received Message"
+msgstr "Brouillon de message reçu"
+
+msgid "This is the message students will see upon submitting a draft response"
+msgstr "C&#39;est le message que les étudiants verront lorsqu&#39;ils soumettront un projet de réponse."
+
+msgid "Allow my response to possibly be visible by other learners after submitting their response"
+msgstr "Permettre que ma réponse soit éventuellement visible par les autres apprenants après avoir soumis leur réponse"
+
+msgid "Checking..."
+msgstr "Vérification..."
+
+msgid "Submit"
+msgstr "Soumettre"
+
+msgid "Save"
+msgstr "Sauvegarder"
+
+msgid "Hide"
+msgstr "Cacher"
+
+msgid "Show"
+msgstr "Montrer"
+
+msgid "peer responses"
+msgstr "réponses des pairs"
+
+msgid "Submissions by others"
+msgstr "Soumissions par d&#39;autres"
+
+msgid "No responses to show at this time"
+msgstr "Aucune réponse à afficher pour le moment"
+
+msgid "{weight} point possible"
+msgstr ""
+
+msgid "{score_string}/{weight} point"
+msgstr ""
+
+msgid "You have used {count_attempts} of {max_attempts} submission"
+msgstr ""
+
+msgid "Your response must be between {min} and {max} word."
+msgstr ""
+
+msgid "Invalid Word Count. {word_count_message}"
+msgstr "Nombre de mots invalide. {word_count_message}"

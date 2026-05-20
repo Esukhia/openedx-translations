@@ -20,3 +20,9 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: fr\n"
 "Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+msgid "Unsubscribe from this list"
+msgstr "Désinscrire de cette liste"
+
+msgid "View on Web"
+msgstr "Afficher sur le Web"

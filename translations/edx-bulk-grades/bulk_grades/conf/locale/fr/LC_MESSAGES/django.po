@@ -20,3 +20,30 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: fr\n"
 "Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+msgid "The CSV does not match this problem. Check that you uploaded the right CSV."
+msgstr "Le CSV ne correspond pas à ce problème. Vérifiez que vous avez téléchargé le bon CSV."
+
+msgid "Points must be numbers."
+msgstr "Les points doivent être des nombres."
+
+msgid "Points must not be greater than {}."
+msgstr "Les points ne doivent pas être supérieurs à {}."
+
+msgid "Points must be greater than 0"
+msgstr "Les points doivent être supérieurs à 0"
+
+msgid "Wrong course id {} != {}"
+msgstr "Mauvais identifiant de cours {} != {}"
+
+msgid "Repeated user_id: "
+msgstr "user_id répété : "
+
+msgid "Grade must be a number"
+msgstr "La note doit être un nombre"
+
+msgid "Grade must not be negative"
+msgstr "La note ne doit pas être négative"
+
+msgid "score must be positive"
+msgstr "le score doit être positif"

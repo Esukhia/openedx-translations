@@ -19,3 +19,51 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: fr\n"
 "Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+msgid "Display Name"
+msgstr "Afficher un nom"
+
+msgid "This name appears in the horizontal navigation at the top of the page."
+msgstr "Ce nom apparaît dans la navigation horizontale en haut de la page."
+
+msgid "Image Explorer"
+msgstr "Explorateur d&#39;images"
+
+msgid "Hot Spots Coordinates Centered"
+msgstr "Coordonnées des points chauds centrées"
+
+msgid "Store hotspots opened by student, for completion"
+msgstr "Points d&#39;accès de stockage ouverts par l&#39;étudiant, à finaliser"
+
+msgid "XML contents to display for this module"
+msgstr "Contenu XML à afficher pour ce module"
+
+msgid "Missing event_type in JSON data"
+msgstr "event_type manquant dans les données JSON"
+
+msgid "Title"
+msgstr "Titre"
+
+msgid "The title of the Image Explorer that is displayed to the user"
+msgstr "Le titre de l&#39;Explorateur d&#39;images qui est affiché à l&#39;utilisateur"
+
+msgid "Hotspot coordinates centered"
+msgstr "Coordonnées du point d&#39;accès centrées"
+
+msgid "If set to true, hotspot coordinates interpreted to point to the center of the hotspot"
+msgstr "Si défini sur vrai, les coordonnées du point chaud sont interprétées pour pointer vers le centre du point chaud"
+
+msgid "If set to false, assumed to point to the top left corner of the hotspot image"
+msgstr "Si défini sur false, supposé pointer vers le coin supérieur gauche de l&#39;image du point chaud"
+
+msgid "Definition"
+msgstr "Définition"
+
+msgid "The XML definition for the Image Explorer"
+msgstr "La définition XML pour l&#39;Explorateur d&#39;images"
+
+msgid "Save"
+msgstr "Sauvegarder"
+
+msgid "Cancel"
+msgstr "Annuler"

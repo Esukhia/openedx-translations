@@ -19,3 +19,57 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: fr\n"
 "Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+msgid "Display Name"
+msgstr "Afficher un nom"
+
+msgid "This name appears in the horizontal navigation at the top of the page."
+msgstr "Ce nom apparaît dans la navigation horizontale en haut de la page."
+
+msgid "Public Calendar ID"
+msgstr "ID d&#39;agenda public"
+
+msgid "Google provides an ID for publicly available calendars. In the Google Calendar, open Settings and copy the ID from the Calendar Address section into this field."
+msgstr "Google fournit un identifiant pour les calendriers accessibles au public. Dans Google Agenda, ouvrez Paramètres et copiez l&#39;ID de la section Adresse du calendrier dans ce champ."
+
+msgid "Default View"
+msgstr "Vue par défaut"
+
+msgid "The calendar view that students see by default. A student can change this view."
+msgstr "La vue du calendrier que les étudiants voient par défaut. Un étudiant peut changer ce point de vue."
+
+msgid "Embed Code"
+msgstr "Code intégré"
+
+msgid "Google provides an embed code for Drive documents. In the Google Drive document, from the File menu, select Publish to the Web. Modify settings as needed, click Publish, and copy the embed code into this field."
+msgstr "Google fournit un code d&#39;intégration pour les documents Drive. Dans le document Google Drive, dans le menu Fichier, sélectionnez Publier sur le Web. Modifiez les paramètres si nécessaire, cliquez sur Publier et copiez le code d&#39;intégration dans ce champ."
+
+msgid "Alternative Text"
+msgstr "Texte alternatif"
+
+msgid "Alternative text describes an image and appears if the image is unavailable."
+msgstr "Un texte alternatif décrit une image et apparaît si l&#39;image n&#39;est pas disponible."
+
+msgid "Invalid Google Calendar"
+msgstr "Agenda Google invalide"
+
+msgid "Please correct the outlined fields."
+msgstr "Veuillez corriger les champs indiqués."
+
+msgid "Clear Value"
+msgstr "Effacer la valeur"
+
+msgid "Google provides an ID for publicly available calendars. In the Google Calendar, open Settings and copy the ID from the Calendar Address section into this field. You can "
+msgstr "Google fournit un identifiant pour les calendriers accessibles au public. Dans Google Agenda, ouvrez Paramètres et copiez l&#39;ID de la section Adresse du calendrier dans ce champ. Tu peux "
+
+msgid "Save"
+msgstr "Sauvegarder"
+
+msgid "Cancel"
+msgstr "Annuler"
+
+msgid "Invalid Google Document"
+msgstr "Document Google invalide"
+
+msgid "Alternative text"
+msgstr "Texte alternatif"
