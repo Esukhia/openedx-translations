@@ -40,5 +40,8 @@
   "authoring.footer.privacyPolicy.link.label": "隐私政策",
   "authoring.footer.accessibilityRequest.link.label": "",
   "authoring.footer.trademark.message": "",
-  "footer.logo.hoverText": "转到主页"
+  "footer.logo.hoverText": "转到主页",
+  "footer.colophon.about": "关于我们",
+  "footer.colophon.contact": "联系我们",
+  "footer.colophon.privacy": "隐私政策"
 }
