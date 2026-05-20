@@ -8250,3 +8250,21 @@ msgstr "ཁྱེད་ཀྱི་བདག་དབང་གི་ལག་ད
 #: xmodule/capa/templates/codeinput.html:10
 msgid "Code Editor"
 msgstr "ཨང་བརྡ་རྩོམ་སྒྲིག་བྱེད་ས།"
+
+
+# ---- new added strings which are used in theme ----
+
+msgid "Wishlist"
+msgstr ""
+
+msgid "Main Page"
+msgstr ""
+
+msgid "Community Forum"
+msgstr ""
+
+msgid "Schools and Partners"
+msgstr ""
+
+msgid "Course Categories"
+msgstr ""

@@ -27766,3 +27766,21 @@ msgstr "Escribe tu texto de Derechos de Autor aquí."
 #: xmodule/capa/templates/codeinput.html:10
 msgid "Code Editor"
 msgstr "Editor de código"
+
+
+# ---- new added strings which are used in theme ----
+
+msgid "Wishlist"
+msgstr ""
+
+msgid "Main Page"
+msgstr ""
+
+msgid "Community Forum"
+msgstr ""
+
+msgid "Schools and Partners"
+msgstr ""
+
+msgid "Course Categories"
+msgstr ""
