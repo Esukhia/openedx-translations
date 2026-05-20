@@ -73,7 +73,11 @@ msgstr ""
 #: static/proctoring/js/views/proctored_exam_allowance_view.js:13
 #: static/proctoring/spec/proctored_exam_add_bulk_allowance_spec.js:82
 msgid "Review Policy Exception"
+<<<<<<< HEAD
 msgstr "Revisar excepción a políticas"
+=======
+msgstr "Revisar excepción a política"
+>>>>>>> 4c1a1e7872 (Add translations for language:es_419)
 
 #: static/proctoring/js/views/proctored_exam_add_bulk_allowance_view.js:224
 msgid "Add Time(Minutes)"
@@ -85,7 +89,11 @@ msgstr "Sumar multiplicador como un número mayor que 1"
 
 #: static/proctoring/js/views/proctored_exam_add_bulk_allowance_view.js:228
 msgid "Add Policy Exception"
+<<<<<<< HEAD
 msgstr "Agregar excepción de políticas"
+=======
+msgstr "Agregar excepción de política"
+>>>>>>> 4c1a1e7872 (Add translations for language:es_419)
 
 #: static/proctoring/js/views/proctored_exam_add_bulk_allowance_view.js:268
 #: static/proctoring/js/views/proctored_exam_add_bulk_allowance_view.js:276

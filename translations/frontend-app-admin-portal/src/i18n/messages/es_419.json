@@ -8,8 +8,13 @@
   "admin.portal.lpr.progress.status.enrolled": "Inscrito",
   "admin.portal.lpr.progress.status.pass": "Aprobar",
   "admin.portal.lpr.progress.status.pending": "Pendiente",
+<<<<<<< HEAD
   "adminPortal.v2.analyticsCardText.errorMessage": "Nos encontramos con un problema al obtener los datos analíticos. Por favor, inténtalo de nuevo más tarde o contacta al soporte para obtener ayuda. (Error: {error_message})",
   "adminPortal.v2.analyticsCardText.noContentErrorMessage": "Análisis no encontrados.",
+=======
+  "adminPortal.analyticsCardText.errorMessage": "Nos encontramos con un problema al obtener los datos de análisis. Por favor, inténtalo de nuevo más tarde o contacta al soporte para obtener ayuda. (Error: {error_message})",
+  "adminPortal.analyticsCardText.noContentErrorMessage": "Análisis no encontrados.",
+>>>>>>> 4c1a1e7872 (Add translations for language:es_419)
   "adminPortal.analyticsCardBetaButton": "Beta",
   "adminPortal.analyticsCardPoweredBylabel": "Desarrollado por OpenAI",
   "adminPortal.v2.summarizeAnalytics": "Resumir análisis",
@@ -163,7 +168,11 @@
   "admin.portal.code.assignment.modal.individual.assign.heading": "Agregar estudiante",
   "admin.portal.code.assignment.modal.individual.assign.email.label": "Dirección de correo electrónico",
   "adminPortal.assignmentModal.altText": "Más información",
+<<<<<<< HEAD
   "adminPortal.assignmentModal.tooltipText": "edX recordará a los alumnos que sustituyan su código 3, 10 y 19 días después de que lo asigne.",
+=======
+  "adminPortal.assignmentModal.tooltipText": "edX recordará a los alumnos que canjeen su código 3, 10 y 19 días después de que lo asigne.",
+>>>>>>> 4c1a1e7872 (Add translations for language:es_419)
   "adminPortal.assignmentModal.modalFieldLabel": "Automatizar recordatorios",
   "admin.portal.codes.codeDeprecationAlert.header": "<b>Aviso de desactivación de características:</b>",
   "admin.portal.codes.codeDeprecationAlert.message": "La característica de códigos se retirará después del <b>30 de septiembre</b>. Una vez retirada, todos los códigos dejarán de ser válidos. Pronto compartiremos más detalles sobre nuevas opciones de inscripción.",
@@ -287,6 +296,7 @@
   "admin.portal.lpr.past.week.passed.learners.table.course_title.column.heading": "Título del curso",
   "admin.portal.lpr.past.week.passed.learners.table.passed_date.column.heading": "Fecha aprobada",
   "peopleManagement.tab.create.group.modal.title": "Nuevo grupo",
+<<<<<<< HEAD
   "people.management.page.create.group.section.header": "Crear un grupo personalizado",
   "people.management.create.groups.modal": "Solo los miembros registrados en tu organización pueden ser añadidos a un grupo.",
   "people.management.page.create.groups.modal.learn.more.link": "Aprender más.",
@@ -298,6 +308,13 @@
   "adminPortal.peopleManagement.dataTable.download.button.pending": "Descargando",
   "adminPortal.peopleManagement.dataTable.download.button.complete": "Descargado",
   "adminPortal.peopleManagement.dataTable.download.button.loading": "Descargar actividad del módulo",
+=======
+  "people.management.delete.group.modal.body.1": "Esta acción no se puede deshacer.",
+  "people.management.delete.group.modal.body.2": "Al eliminar este grupo, ya no podrás realizar un seguimiento de los análisis asociados con este grupo y el grupo se eliminará de tu página de Gestión de Personas.",
+  "adminPortal.peopleManagement.editGroupNameModal.button.save": "Guardar",
+  "adminPortal.peopleManagement.editGroupNameModal.button.pending": "Guardando",
+  "adminPortal.peopleManagement.editGroupNameModal.button.complete": "Guardado",
+>>>>>>> 4c1a1e7872 (Add translations for language:es_419)
   "adminPortal.peopleManagement.errorModal.title": "Algo salió mal",
   "adminPortal.peopleManagement.errorModal.body": "Lo sentimos. Algo salió mal tras bambalinas. Por favor, inténtalo de nuevo o comunícate con el servicio de atención al cliente para obtener ayuda.",
   "adminPortal.peopleManagement.zeroState.card.header": "Aún no tienes ningún grupo.",
@@ -903,6 +920,7 @@
   "lcm.budgets.budget.card.term.expiring": "Caducando",
   "lcm.budgets.budget.card.term.expired": "Venció",
   "lcm.budgets.budget.card.term.retired": "Retirado",
+<<<<<<< HEAD
   "learner.credit.management.empty.state.no.budget.activity.title": "¿Aún no tienes actividad presupuestaria? ¡Invita a los alumnos a explorar el catálogo y solicitar contenido !",
   "learner.credit.management.empty.state.invite.learners": "Invitar a los estudiantes",
   "learner.credit.management.empty.state.step.one": "01",
@@ -917,6 +935,9 @@
   "learner.credit.management.empty.state.find.course.illustration.alt": "Encuentra la ilustración del curso",
   "learner.credit.management.empty.state.invite.learner.illustration.alt": "Invitar a la ilustración estudiante",
   "learner.credit.management.empty.state.approve.request.illustration.alt": "Ilustración de solicitud de aprobación",
+=======
+  "people-management.page.create-group.section.header": "Crea un grupo personalizado de miembros",
+>>>>>>> 4c1a1e7872 (Add translations for language:es_419)
   "learnerCreditManagement.budgetDetail.membersTab.label": "Miembros del presupuesto",
   "learnerCreditManagement.budgetDetail.membersTab.description": "Los miembros eligen qué aprender del catálogo y gastan del presupuesto para inscribirse.",
   "learnerCreditManagement.budgetDetail.membersTab.membersTable.all": "todos ( {itemCounts} )",
@@ -1177,7 +1198,21 @@
   "admin.portal.subscription.expiration.modal.footer.dismiss.label": "Descartar",
   "admin.portal.license.allocation.header": "Asignación de licencia",
   "admin.portal.license.allocation.allocated.licenses.count": "{allocated} de {total} licencias asignadas",
+<<<<<<< HEAD
   "adminPortal.cards.collapsible.details": "Detalles",
+=======
+  "admin.portal.lpr.embedded.subscription.license.management.table.user.recent.action.activated": "Activado: {activationDate}",
+  "admin.portal.lpr.embedded.subscription.license.management.table.user.recent.action.revoked": "Revocado: {revokedDate}",
+  "admin.portal.lpr.embedded.subscription.license.management.table.user.recent.action.invited": "Invitado: {lastRemindDate}",
+  "admin.portal.lpr.embedded.subscription.license.management.table.reminded.toast": "Usuarios recordados exitosamente",
+  "admin.portal.lpr.embedded.subscription.license.management.table.revoked.toast": "Licencias revocadas exitosamente",
+  "admin.portal.lpr.embedded.subscription.license.management.table.empty.content": "No se han encontrado resultados",
+  "admin.portal.lpr.embedded.subscription.license.management.table.column.email.heading": "Correo electrónico",
+  "admin.portal.lpr.embedded.subscription.license.management.table.column.status.heading": "Estado",
+  "admin.portal.lpr.embedded.subscription.license.management.table.pending.filter": "Pendiente",
+  "admin.portal.lpr.embedded.subscription.license.management.table.active.filter": "Activo",
+  "admin.portal.lpr.embedded.subscription.license.management.table.column.recent.action.heading": "Acción reciente",
+>>>>>>> 4c1a1e7872 (Add translations for language:es_419)
   "lcm.budget.detail.page.catalog.tab.course.card.footer-text": "({numCourseRuns}) disponible {pluralText}",
   "lcm.budget.detail.page.activity.tab.label": "Actividad",
   "lcm.budget.detail.page.catalog.tab.label": "Catalogar",

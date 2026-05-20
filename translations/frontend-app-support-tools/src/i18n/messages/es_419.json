@@ -5,7 +5,11 @@
   "supportTools.learnerInformation.ssoHeader": "Registros de inicio de sesión único",
   "supportTools.learnerInformation.verifiedNameHeader": "Estado del nombre verificado",
   "learner.record.tab.header": "Registros de alumnos",
+<<<<<<< HEAD
   "earned.status": "Aprobado",
+=======
+  "earned.status": "Realizado",
+>>>>>>> 4c1a1e7872 (Add translations for language:es_419)
   "not.earned.status": "No aprobado",
   "partially.completed.status": "Parcialmente Completado",
   "record.table.last.updated": "Última actualización",

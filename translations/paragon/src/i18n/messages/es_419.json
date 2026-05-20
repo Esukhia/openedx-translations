@@ -14,8 +14,13 @@
     "string": "El archivo debe ser menor que {size} ."
   },
   "dropzone.Dropzone.invalidType": {
+<<<<<<< HEAD
     "developer_comment": "",
     "string": ""
+=======
+    "developer_comment": "Un mensaje que se muestra cuando se carga un archivo con un tipo MIME incorrecto.",
+    "string": "El tipo de archivo debe ser {count, plural, one {{typeString} file} other {one of {typeString} files}}."
+>>>>>>> 4c1a1e7872 (Add translations for language:es_419)
   },
   "dropzone.Dropzone.multipleDraggedError": {
     "developer_comment": "",
@@ -66,8 +71,13 @@
     "string": ""
   },
   "pgn.DataTable.BaseSelectionStatus.selectedTextPaginated": {
+<<<<<<< HEAD
     "developer_comment": "",
     "string": ""
+=======
+    "developer_comment": "Texto de la etiqueta seleccionada cuando la tabla está paginada",
+    "string": "{numSelectedRows} seleccionado ({numSelectedRowsOnPage} se muestra a continuación)"
+>>>>>>> 4c1a1e7872 (Add translations for language:es_419)
   },
   "pgn.DataTable.ExpandAll.collapseAllLabel": {
     "developer_comment": "",

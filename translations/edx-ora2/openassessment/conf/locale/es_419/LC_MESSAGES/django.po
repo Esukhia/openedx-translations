@@ -702,7 +702,15 @@ msgstr "Configuración de plazos"
 msgid "Select a deadline configuration option"
 msgstr "Seleccione una opción de configuración de fecha límite"
 
+<<<<<<< HEAD
 #: templates/legacy/edit/oa_edit_schedule.html:14
+=======
+#: templates/legacy/edit/oa_edit_schedule.html:13
+msgid " NEW"
+msgstr "NUEVO"
+
+#: templates/legacy/edit/oa_edit_schedule.html:19
+>>>>>>> 4c1a1e7872 (Add translations for language:es_419)
 msgid "Configure deadlines manually"
 msgstr "Configurar plazos manualmente"
 
@@ -3096,7 +3104,9 @@ msgid ""
 "
 "                "
 msgstr ""
-"\n                    Por favor, responda a la pregunta a continuación. Su respuesta se guardará automáticamente y %(start_tag)no podrá ser editada una vez enviada%(end_tag)s."
+"\n"
+"                    Por favor, responde la pregunta a continuación. Tu respuesta se guardará automáticamente y %(start_tag)sno podrá ser editada una vez enviada%(end_tag)s.\n"
+"                "
 
 msgid "Enter your response to the question above."
-msgstr "Ingrese su respuesta a la pregunta anterior."
+msgstr "Ingresa tu respuesta a la pregunta anterior."

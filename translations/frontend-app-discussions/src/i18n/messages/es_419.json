@@ -124,8 +124,13 @@
   "tour.action.advance": "Siguiente",
   "tour.action.dismiss": "Descartar",
   "tour.action.end": "Okey",
+<<<<<<< HEAD
   "tour.title.notifyAllLearners": "Informa a tus estudiantes.",
   "tour.body.notifyAllLearners": "Marque esta casilla para notificar a todos los estudiantes.",
+=======
+  "tour.example.title": "Tour de ejemplo",
+  "tour.example.body": "Este es un recorrido ejemplo .",
+>>>>>>> 4c1a1e7872 (Add translations for language:es_419)
   "learn.course.tabs.navigation.overflow.menu": "Más...",
   "discussions.navigation.breadcrumbMenu.allTopics": "Temas",
   "discussions.navigation.breadcrumbMenu.showAll": "Mostrar todo",

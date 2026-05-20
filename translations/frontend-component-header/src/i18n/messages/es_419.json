@@ -11,6 +11,10 @@
   "header.user.menu.login": "Login",
   "header.user.menu.register": "Registrarse",
   "header.user.menu.studio.home": "Inicio Studio",
+<<<<<<< HEAD
+=======
+  "header.user.menu.studio.maintenance": "Mantenimiento",
+>>>>>>> 4c1a1e7872 (Add translations for language:es_419)
   "header.label.account.nav": "Cuenta",
   "header.label.account.menu": "Menú de la cuenta",
   "header.label.account.menu.for": "Menú de la cuenta para {username}",
@@ -31,6 +35,10 @@
   "header.menu.signOut.label": "Cerrar sesión",
   "header.menu.aria-label": "Opciones de usuario",
   "header.user.menu.studio": "Inicio Studio",
+<<<<<<< HEAD
+=======
+  "header.user.menu.maintenance": "Mantenimiento",
+>>>>>>> 4c1a1e7872 (Add translations for language:es_419)
   "header.label.courseOutline": "Volver al esquema del curso en Studio",
   "header.label.search.nav": "Buscar contenido"
 }
