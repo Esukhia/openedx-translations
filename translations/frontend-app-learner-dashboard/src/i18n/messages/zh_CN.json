@@ -145,6 +145,6 @@
   "learner-dash.courseCard.banners.credit.requestCredit": "",
   "learner-dash.courseCard.banners.credit.viewCredit": "",
   "learner-dash.courseCard.banners.credit.viewDetails": "",
-  "learner-dash.courseCard.progressBar.courseCompletion": "Course • {percent}% Complete",
-  "learner-dash.courseCard.progressBar.notStarted": "Not started"
+  "learner-dash.courseCard.progressBar.courseCompletion": "课程 • {percent}% 完成",
+  "learner-dash.courseCard.progressBar.notStarted": "未开始"
 }
