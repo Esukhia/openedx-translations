@@ -8250,3 +8250,18 @@ msgstr "ཁྱེད་ཀྱི་བདག་དབང་གི་ལག་ད
 #: xmodule/capa/templates/codeinput.html:10
 msgid "Code Editor"
 msgstr "ཨང་བརྡ་རྩོམ་སྒྲིག་བྱེད་ས།"
+
+msgid "About Us"
+msgstr "O nama"
+
+msgid "Centers"
+msgstr "Centri"
+
+msgid "My Wishlist"
+msgstr "Moj željeni popis"
+
+msgid "You have no courses in your wishlist."
+msgstr "Nemate nijedan kurs u vašem željenom popisu."
+
+msgid "Open Course"
+msgstr "Otvoreni kurs"

@@ -131,3 +131,18 @@ msgstr "Modifier le titre"
 #: cms/templates/studio_xblock_wrapper.html:219
 msgid "Unlink from Library"
 msgstr "Dissocier de la bibliothèque"
+
+msgid "About Us"
+msgstr "À propos de nous"
+
+msgid "Centers"
+msgstr "Centres"
+
+msgid "My Wishlist"
+msgstr "Ma liste de souhaits"
+
+msgid "You have no courses in your wishlist."
+msgstr "Vous n'avez aucun cours dans votre liste de souhaits."
+
+msgid "Open Course"
+msgstr "Cours ouvert"

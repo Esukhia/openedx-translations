@@ -17292,3 +17292,18 @@ msgstr "Tuliskan Hak Cipta anda disini!"
 #: xmodule/capa/templates/codeinput.html:10
 msgid "Code Editor"
 msgstr "Kode Editor"
+
+msgid "About Us"
+msgstr "Tentang Kami"
+
+msgid "Centers"
+msgstr "Pusat"
+
+msgid "My Wishlist"
+msgstr "Daftar Keinginan Saya"
+
+msgid "You have no courses in your wishlist."
+msgstr "Anda tidak memiliki kursus dalam daftar keinginan Anda."
+
+msgid "Open Course"
+msgstr "Kursus Terbuka"
