@@ -27769,3 +27769,6 @@ msgstr "Editor de código"
 
 msgid "Go to main page"
 msgstr "Ir a la página principal"
+
+msgid "Privacy Policy for Sherab"
+msgstr "Política de privacidad de Sherab"

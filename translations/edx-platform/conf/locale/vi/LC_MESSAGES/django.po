@@ -26612,3 +26612,6 @@ msgstr "Trình chỉnh sửa mã"
 
 msgid "Go to main page"
 msgstr "Đi đến trang chính"
+
+msgid "Privacy Policy for Sherab"
+msgstr "Chính sách quyền riêng tư của Sherab"
