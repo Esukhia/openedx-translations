@@ -27766,3 +27766,6 @@ msgstr "Escribe tu texto de Derechos de Autor aquí."
 #: xmodule/capa/templates/codeinput.html:10
 msgid "Code Editor"
 msgstr "Editor de código"
+
+msgid "Go to main page"
+msgstr "Ir a la página principal"

@@ -26609,3 +26609,6 @@ msgstr "Đặt Văn bản Bản quyền của bạn ở đây!"
 #: xmodule/capa/templates/codeinput.html:10
 msgid "Code Editor"
 msgstr "Trình chỉnh sửa mã"
+
+msgid "Go to main page"
+msgstr "Đi đến trang chính"
