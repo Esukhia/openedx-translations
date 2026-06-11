@@ -26618,3 +26618,33 @@ msgstr "Chính sách quyền riêng tư của Sherab"
 
 msgid "Hi {username}, Welcome to {platform_name}"
 msgstr "Chào {username}, chào mừng đến với {platform_name}"
+
+msgid "Wishlist"
+msgstr "Danh sách mong muốn"
+
+msgid "Main Page"
+msgstr "Trang chính"
+
+msgid "Community Forum"
+msgstr "Diễn đàn cộng đồng"
+
+msgid "Schools and Partners"
+msgstr "Trường học và đối tác"
+
+msgid "Course Categories"
+msgstr "Danh mục khóa học"
+
+msgid "About Us"
+msgstr "Về chúng tôi"
+
+msgid "Centers"
+msgstr "Trung tâm"
+
+msgid "My Wishlist"
+msgstr "Danh sách yêu thích của tôi"
+
+msgid "You have no courses in your wishlist."
+msgstr "Bạn chưa có khóa học nào trong danh sách yêu thích."
+
+msgid "Open Course"
+msgstr "Mở khóa học"

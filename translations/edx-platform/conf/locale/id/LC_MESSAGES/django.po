@@ -17316,3 +17316,18 @@ msgstr "Kebijakan Privasi Sherab"
 
 msgid "Hi {username}, Welcome to {platform_name}"
 msgstr "Hai {username}, selamat datang di {platform_name}"
+
+msgid "Wishlist"
+msgstr "Daftar keinginan"
+
+msgid "Main Page"
+msgstr "Halaman utama"
+
+msgid "Community Forum"
+msgstr "Forum komunitas"
+
+msgid "Schools and Partners"
+msgstr "Sekolah dan mitra"
+
+msgid "Course Categories"
+msgstr "Kategori kursus"

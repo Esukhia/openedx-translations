@@ -22088,3 +22088,18 @@ msgstr "Sherab 隐私政策"
 
 msgid "Hi {username}, Welcome to {platform_name}"
 msgstr "你好，{username}，欢迎来到{platform_name}"
+
+msgid "Wishlist"
+msgstr "愿望清单"
+
+msgid "Main Page"
+msgstr "主页"
+
+msgid "Community Forum"
+msgstr "社区论坛"
+
+msgid "Schools and Partners"
+msgstr "学校与合作伙伴"
+
+msgid "Course Categories"
+msgstr "课程类别"

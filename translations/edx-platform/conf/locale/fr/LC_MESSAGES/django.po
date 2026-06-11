@@ -155,3 +155,18 @@ msgstr "Politique de confidentialité de Sherab"
 
 msgid "Hi {username}, Welcome to {platform_name}"
 msgstr "Bonjour {username}, bienvenue sur {platform_name}"
+
+msgid "Wishlist"
+msgstr "Liste de souhaits"
+
+msgid "Main Page"
+msgstr "Page principale"
+
+msgid "Community Forum"
+msgstr "Forum communautaire"
+
+msgid "Schools and Partners"
+msgstr "Écoles et partenaires"
+
+msgid "Course Categories"
+msgstr "Catégories de cours"

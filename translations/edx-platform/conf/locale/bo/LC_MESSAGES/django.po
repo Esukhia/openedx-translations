@@ -8274,3 +8274,18 @@ msgstr "ཤེས་རབ་ཀྱི་གསང་སྲུང་སྒྲི
 
 msgid "Hi {username}, Welcome to {platform_name}"
 msgstr "{username} ཁྱོད་ལ་ {platform_name} ཕེབས་པར་དགའ་བསུ་ཞུ།"
+
+msgid "Wishlist"
+msgstr "འདུག་བཟུང་བར་བཀོད་ཀྱི་མཐུད"
+
+msgid "Main Page"
+msgstr "དབང་བའི་མིང་མང"
+
+msgid "Community Forum"
+msgstr "སྤྱོད་ནའི་འབད་བའི་མདོ"
+
+msgid "Schools and Partners"
+msgstr "དགོན་པའི་མཐོང་ཁང་མི་འགྱོལ་ཡོན"
+
+msgid "Course Categories"
+msgstr "མཚན་འབེབས་སྒོ་རིག"
