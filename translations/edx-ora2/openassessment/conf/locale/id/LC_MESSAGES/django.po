@@ -1613,7 +1613,6 @@ msgstr "Nomor Papan Skor tidak benar"
 msgid "The submission format is invalid."
 msgstr "Format pengajuan tidak valid."
 
-
 msgid ""
 "\n"
 "                    Please respond to the question below. Your response will be saved automatically and %(start_tag)scannot be edited once submitted%(end_tag)s.\n"

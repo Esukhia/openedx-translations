@@ -120,7 +120,6 @@ msgstr "རང་ཉིད་ཀྱིས་རང་ཉིད་ལ་དཔྱ
 msgid "Peer Assessment Only"
 msgstr "སློབ་གྲོགས་ཕན་ཚུན་དབྱེ་ཞིབ་ཁོ་ན།"
 
-
 msgid ""
 "\n"
 "                    Please respond to the question below. Your response will be saved automatically and %(start_tag)scannot be edited once submitted%(end_tag)s.\n"
