@@ -27766,3 +27766,42 @@ msgstr "Escribe tu texto de Derechos de Autor aquí."
 #: xmodule/capa/templates/codeinput.html:10
 msgid "Code Editor"
 msgstr "Editor de código"
+
+msgid "Go to main page"
+msgstr "Ir a la página principal"
+
+msgid "Privacy Policy for Sherab"
+msgstr "Política de privacidad de Sherab"
+
+msgid "Hi {username}, Welcome to {platform_name}"
+msgstr "Hola {username}, bienvenido a la plataforma {platform_name}"
+
+msgid "Wishlist"
+msgstr "Lista de deseos"
+
+msgid "Main Page"
+msgstr "Página principal"
+
+msgid "Community Forum"
+msgstr "Foro comunitario"
+
+msgid "Schools and Partners"
+msgstr "Escuelas y Socios"
+
+msgid "Course Categories"
+msgstr "Categorías de cursos"
+
+msgid "About Us"
+msgstr "Acerca de nosotros"
+
+msgid "Centers"
+msgstr "Centros"
+
+msgid "My Wishlist"
+msgstr "Mi lista de deseos"
+
+msgid "You have no courses in your wishlist."
+msgstr "No tienes cursos en tu lista de deseos."
+
+msgid "Open Course"
+msgstr "Curso abierto"

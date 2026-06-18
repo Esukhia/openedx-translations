@@ -37,5 +37,9 @@
   "authoring.footer.termsOfService.link.label": "ཞབས་ཞུའི་སྒྲིག་གཞི་ཁག",
   "authoring.footer.privacyPolicy.link.label": "",
   "authoring.footer.accessibilityRequest.link.label": "",
-  "authoring.footer.trademark.message": ""
+  "authoring.footer.trademark.message": "",
+  "footer.logo.hoverText": "དབང་བའི་མིང་མངའི་འདུག",
+  "footer.colophon.about": "ང་ཚོ་སྐོར།",
+  "footer.colophon.contact": "འབྲེལ་བ་གནང་བ།",
+  "footer.colophon.privacy": "གསང་སྲུང་ཞིབ་འཇུག"
 }
