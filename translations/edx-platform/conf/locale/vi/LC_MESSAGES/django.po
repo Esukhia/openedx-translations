@@ -26609,3 +26609,42 @@ msgstr "Đặt Văn bản Bản quyền của bạn ở đây!"
 #: xmodule/capa/templates/codeinput.html:10
 msgid "Code Editor"
 msgstr "Trình chỉnh sửa mã"
+
+msgid "Go to main page"
+msgstr "Đi đến trang chính"
+
+msgid "Privacy Policy for Sherab"
+msgstr "Chính sách quyền riêng tư của Sherab"
+
+msgid "Hi {username}, Welcome to {platform_name}"
+msgstr "Chào {username}, chào mừng đến với {platform_name}"
+
+msgid "Wishlist"
+msgstr "Danh sách mong muốn"
+
+msgid "Main Page"
+msgstr "Trang chính"
+
+msgid "Community Forum"
+msgstr "Diễn đàn cộng đồng"
+
+msgid "Schools and Partners"
+msgstr "Trường học và đối tác"
+
+msgid "Course Categories"
+msgstr "Danh mục khóa học"
+
+msgid "About Us"
+msgstr "Về chúng tôi"
+
+msgid "Centers"
+msgstr "Trung tâm"
+
+msgid "My Wishlist"
+msgstr "Danh sách yêu thích của tôi"
+
+msgid "You have no courses in your wishlist."
+msgstr "Bạn chưa có khóa học nào trong danh sách yêu thích."
+
+msgid "Open Course"
+msgstr "Mở khóa học"

@@ -22064,3 +22064,42 @@ msgstr "将您的版权文本置于此处！"
 #: xmodule/capa/templates/codeinput.html:10
 msgid "Code Editor"
 msgstr "代码编辑器"
+
+msgid "About Us"
+msgstr "关于我们"
+
+msgid "Centers"
+msgstr "中心"
+
+msgid "My Wishlist"
+msgstr "我的愿望清单"
+
+msgid "You have no courses in your wishlist."
+msgstr "您的愿望清单中没有课程。"
+
+msgid "Open Course"
+msgstr "开放课程"
+
+msgid "Go to main page"
+msgstr "前往主页"
+
+msgid "Privacy Policy for Sherab"
+msgstr "Sherab 隐私政策"
+
+msgid "Hi {username}, Welcome to {platform_name}"
+msgstr "你好，{username}，欢迎来到{platform_name}"
+
+msgid "Wishlist"
+msgstr "愿望清单"
+
+msgid "Main Page"
+msgstr "主页"
+
+msgid "Community Forum"
+msgstr "社区论坛"
+
+msgid "Schools and Partners"
+msgstr "学校与合作伙伴"
+
+msgid "Course Categories"
+msgstr "课程类别"
