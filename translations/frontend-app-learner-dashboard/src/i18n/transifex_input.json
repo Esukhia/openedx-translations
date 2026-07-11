@@ -34,9 +34,10 @@
   "learnerVariantDashboard.menu.account.label": "Account",
   "learnerVariantDashboard.menu.orderHistory.label": "Order History",
   "learnerVariantDashboard.menu.signOut.label": "Sign Out",
-  "learnerVariantDashboard.course": "Courses",
+  "learnerVariantDashboard.course": "Dashboard",
   "learnerVariantDashboard.program": "Programs",
   "learnerVariantDashboard.discoverNew": "Discover New",
+  "learnerVariantDashboard.wishlist": "Wishlist",
   "learnerVariantDashboard.logoAltText": "edX, Inc. Dashboard",
   "learnerVariantDashboard.collapseMenuOpenAltText": "Menu",
   "learnerVariantDashboard.collapseMenuClosedAltText": "Close",
@@ -94,6 +95,8 @@
   "learner-dash.courseCard.actions.resume": "Resume",
   "learner-dash.courseCard.actions.viewCourse": "View Course",
   "learner-dash.courseCard.actions.selectSession": "Select Session",
+  "learner-dash.courseCard.progressBar.courseCompletion": "Course • {percent}% Complete",
+  "learner-dash.courseCard.progressBar.notStarted": "Not started",
   "learner-dash.courseCard.banners.auditAccessExpired": "Your audit access to this course has expired.",
   "learner-dash.courseCard.banners.findAnotherCourse": "Find another course",
   "learner-dash.courseCard.banners.certificateRestricted": "Your Certificate of Achievement is being held pending confirmation that the issuance of your Certificate is in compliance with strict U.S. embargoes on Iran, Cuba, Syria, and Sudan. If you think our system has mistakenly identified you as being connected with one of those countries, please let us know by contacting {supportEmail}.",
@@ -144,7 +147,5 @@
   "learner-dash.courseCard.banners.credit.rejected": "{providerName} did not approve your request for course credit. For more information, contact {linkToProviderSite} directly.",
   "learner-dash.courseCard.banners.credit.requestCredit": "Request Credit",
   "learner-dash.courseCard.banners.credit.viewCredit": "View Credit",
-  "learner-dash.courseCard.banners.credit.viewDetails": "View Details",
-  "learner-dash.courseCard.progressBar.courseCompletion": "Course • {percent}% Complete",
-  "learner-dash.courseCard.progressBar.notStarted": "Not started"
+  "learner-dash.courseCard.banners.credit.viewDetails": "View Details"
 }
